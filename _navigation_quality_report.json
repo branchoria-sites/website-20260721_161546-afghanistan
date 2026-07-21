@@ -1,0 +1,2827 @@
+{
+  "generated_at_utc": "2026-07-21T13:04:13.576949Z",
+  "summary": {
+    "total_pages_with_permalink": 1158,
+    "visible_pages": 965,
+    "hidden_pages": 193,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 2430,
+    "inline_internal_target_page_count": 965,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 898,
+    "visible_pages_without_inline_outbound_links": 67,
+    "average_inline_inbound_links_per_visible_page": 2.52,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 965,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Andorra_9d3bd1",
+        "title": "What Really Flew Over Andorra?",
+        "permalink": "/what-really-flew-over-andorra/"
+      },
+      {
+        "basename": "Angola_a42522",
+        "title": "What Do Angola's UFO Reports Really Show?",
+        "permalink": "/what-do-angolas-ufo-reports-really-show/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518",
+        "title": "What Really Explains Antigua's UFO Sightings?",
+        "permalink": "/antigua-and-barbuda/"
+      },
+      {
+        "basename": "Bahrain_3ae11c",
+        "title": "What Really Happened in Bahrain's UFO Cases?",
+        "permalink": "/what-really-happened-in-bahrains-ufo/"
+      },
+      {
+        "basename": "Benin_373616",
+        "title": "What Do We Really Know About Benin UFOs?",
+        "permalink": "/what-do-we-really-know-about-benin-ufos/"
+      },
+      {
+        "basename": "Bhutan_bb2254",
+        "title": "What Do Bhutan's UFO Records Actually Show?",
+        "permalink": "/what-do-bhutans-ufo-records-actually/"
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f",
+        "title": "What Is Really Behind Burkina Faso's UFO Stories?",
+        "permalink": "/what-is-really-behind-burkina-fasos-ufo/"
+      },
+      {
+        "basename": "Burundi_461758",
+        "title": "Why Are Burundi's UFO Records So Sparse?",
+        "permalink": "/why-are-burundis-ufo-records-so-sparse/"
+      },
+      {
+        "basename": "Cameroon_73a7dd",
+        "title": "What Do Cameroon's UFO Records Really Show?",
+        "permalink": "/what-do-cameroons-ufo-records-really/"
+      },
+      {
+        "basename": "Chad_6c6b1b_chad_ufo_archives_b64af3",
+        "title": "Files and Sources",
+        "permalink": "/files-and-sources/"
+      },
+      {
+        "basename": "Chad_6c6b1b_chad_ufo_chronology_2b5569",
+        "title": "Case Timeline",
+        "permalink": "/case-timeline-f64296/"
+      },
+      {
+        "basename": "Chad_6c6b1b_zagobo_weather_ballo_d1243a",
+        "title": "Zagobo Case",
+        "permalink": "/zagobo-case/"
+      },
+      {
+        "basename": "Cyprus_852add",
+        "title": "What Really Flew Over Cyprus?",
+        "permalink": "/what-really-flew-over-cyprus/"
+      },
+      {
+        "basename": "Dominican_Republic_dba665",
+        "title": "What Really Flew Over the Dominican Republic?",
+        "permalink": "/dominican-republic/"
+      },
+      {
+        "basename": "DR_Congo_b690cb_congo_ufo_records_849ab6",
+        "title": "Records",
+        "permalink": "/records-0deeda/"
+      },
+      {
+        "basename": "Egypt_1c39ab",
+        "title": "What Really Happened in Egypt's UFO Stories?",
+        "permalink": "/what-really-happened-in-egypts-ufo/"
+      },
+      {
+        "basename": "Fiji_bbb7ef",
+        "title": "What Really Happened in Fiji's UFO Sightings?",
+        "permalink": "/what-really-happened-in-fijis-ufo/"
+      },
+      {
+        "basename": "Fiji_bbb7ef_nabouwalu_case_0ed696",
+        "title": "Nabouwalu Case",
+        "permalink": "/nabouwalu-case/"
+      },
+      {
+        "basename": "Finland_c909b1",
+        "title": "What Really Happened in Finland's UFO Cases?",
+        "permalink": "/what-really-happened-in-finlands-ufo/"
+      },
+      {
+        "basename": "Guatemala_11760e",
+        "title": "What Really Happened in Guatemala's UFO Cases?",
+        "permalink": "/what-really-happened-in-guatemalas-ufo/"
+      },
+      {
+        "basename": "Guinea_b47b54",
+        "title": "What Really Happened in Guinea's UFO Cases?",
+        "permalink": "/what-really-happened-in-guineas-ufo/"
+      },
+      {
+        "basename": "Hungary_f14e46",
+        "title": "What Really Happened in Hungary's UFO Cases?",
+        "permalink": "/what-really-happened-in-hungarys-ufo/"
+      },
+      {
+        "basename": "India_967ce3",
+        "title": "What Do India's Best UFO Cases Really Show?",
+        "permalink": "/what-do-indias-best-ufo-cases-really/"
+      },
+      {
+        "basename": "Iran_889224_tehran_conventional_a20b2d",
+        "title": "Explanations",
+        "permalink": "/explanations-9928ca/"
+      },
+      {
+        "basename": "Iraq_1aed9e_baghdad_meteor_case_aa8796",
+        "title": "Baghdad Meteor",
+        "permalink": "/baghdad-meteor/"
+      },
+      {
+        "basename": "Iraq_1aed9e_mosul_orb_evidence_3511a6",
+        "title": "Mosul Orb",
+        "permalink": "/mosul-orb/"
+      },
+      {
+        "basename": "Jordan_674027",
+        "title": "What Really Flies Through Jordan's Skies?",
+        "permalink": "/what-really-flies-through-jordans-skies/"
+      },
+      {
+        "basename": "Kenya_a84f56",
+        "title": "What Really Happened in Kenya's Skies?",
+        "permalink": "/what-really-happened-in-kenyas-skies/"
+      },
+      {
+        "basename": "Laos_7998be_laos_ufo_investigati_8e0658",
+        "title": "Investigations",
+        "permalink": "/investigations-52b860/"
+      },
+      {
+        "basename": "Laos_7998be_wartime_laos_misiden_71fbde",
+        "title": "Wartime Skies",
+        "permalink": "/wartime-skies/"
+      },
+      {
+        "basename": "Latvia_c5f5bb",
+        "title": "What Really Happened in Latvia's UFO Cases?",
+        "permalink": "/what-really-happened-in-latvias-ufo/"
+      },
+      {
+        "basename": "Liberia_1ed5dd",
+        "title": "What Do We Really Know About Liberia's UFOs?",
+        "permalink": "/what-do-we-really-know-about-liberias/"
+      },
+      {
+        "basename": "Lithuania_74a788",
+        "title": "What Really Happened in Lithuania's UFO Cases?",
+        "permalink": "/what-really-happened-in-lithuanias-ufo/"
+      },
+      {
+        "basename": "Madagascar_f92bcb",
+        "title": "What Really Happened in Madagascar's Skies?",
+        "permalink": "/what-really-happened-in-madagascars/"
+      },
+      {
+        "basename": "Maldives_213cb2",
+        "title": "What Really Flies Over the Maldives?",
+        "permalink": "/what-really-flies-over-the-maldives/"
+      },
+      {
+        "basename": "Mali_daa6a4_dogon_sirius_claim_4a6b20",
+        "title": "Dogon Sirius",
+        "permalink": "/dogon-sirius/"
+      },
+      {
+        "basename": "Mali_daa6a4_mali_ufo_sightings_2322f5",
+        "title": "Sightings",
+        "permalink": "/sightings-40fa41/"
+      },
+      {
+        "basename": "Malta_1a591a",
+        "title": "What Really Lies Behind Malta's UFO Reports?",
+        "permalink": "/what-really-lies-behind-maltas-ufo/"
+      },
+      {
+        "basename": "Micronesia_Federated_30e9e8_chuuk_regional_bias_71b315",
+        "title": "Regional Pattern",
+        "permalink": "/regional-pattern/"
+      },
+      {
+        "basename": "Micronesia_Federated_30e9e8_micronesia_ufo_recor_9f4aff",
+        "title": "Missing Record",
+        "permalink": "/missing-record-856ea0/"
+      },
+      {
+        "basename": "Micronesia_Federated_30e9e8_truk_atoll_encounter_400fde",
+        "title": "Truk Encounter",
+        "permalink": "/truk-encounter/"
+      },
+      {
+        "basename": "Moldova_9791bc",
+        "title": "What Really Lies Behind Moldova's UFO Reports?",
+        "permalink": "/what-really-lies-behind-moldovas-ufo/"
+      },
+      {
+        "basename": "Morocco_32e087",
+        "title": "What Really Happened in Morocco's UFO Skies?",
+        "permalink": "/what-really-happened-in-moroccos-ufo/"
+      },
+      {
+        "basename": "Namibia_bfe79d",
+        "title": "What Really Flew Over Namibia's Skies?",
+        "permalink": "/what-really-flew-over-namibias-skies/"
+      },
+      {
+        "basename": "Nauru_f648c7",
+        "title": "What Do We Really Know About Nauru UFOs?",
+        "permalink": "/what-do-we-really-know-about-nauru-ufos/"
+      },
+      {
+        "basename": "Nepal_0e1d58",
+        "title": "What Really Happened in Nepal's UFO Cases?",
+        "permalink": "/what-really-happened-in-nepals-ufo-cases/"
+      },
+      {
+        "basename": "Niger_6687e1",
+        "title": "What Do We Really Know About Niger's UFOs?",
+        "permalink": "/what-do-we-really-know-about-nigers-ufos/"
+      },
+      {
+        "basename": "North_Korea_ccbbbb",
+        "title": "What Do We Really Know About North Korea's UFOs?",
+        "permalink": "/what-do-we-really-know-about-north/"
+      },
+      {
+        "basename": "North_Macedonia_cece1d",
+        "title": "What Has Really Been Seen Over North Macedonia?",
+        "permalink": "/north-macedonia/"
+      },
+      {
+        "basename": "Oman_c14c36",
+        "title": "What Really Happened in Oman's UFO Cases?",
+        "permalink": "/what-really-happened-in-omans-ufo-cases/"
+      },
+      {
+        "basename": "Oman_c14c36_oman_sky_light_expla_377007",
+        "title": "Common Explanations",
+        "permalink": "/common-explanations/"
+      },
+      {
+        "basename": "Oman_c14c36_oman_ufo_case_timeli_27eece",
+        "title": "Case Timeline",
+        "permalink": "/case-timeline-ac3490/"
+      },
+      {
+        "basename": "Oman_c14c36_oman_ufo_evidence_qu_fa0324",
+        "title": "Evidence Quality",
+        "permalink": "/evidence-quality-8bc153/"
+      },
+      {
+        "basename": "Oman_c14c36_oman_ufo_record_gaps_891ac1",
+        "title": "Record Gaps",
+        "permalink": "/record-gaps-481206/"
+      },
+      {
+        "basename": "Peru_36c572_la_joya_interception_efdbf8",
+        "title": "La Joya",
+        "permalink": "/la-joya/"
+      },
+      {
+        "basename": "Rwanda_7266a1",
+        "title": "What Do We Really Know About Rwanda's UFOs?",
+        "permalink": "/what-do-we-really-know-about-rwandas/"
+      },
+      {
+        "basename": "Samoa_f56806",
+        "title": "What Do Samoa's UFO Records Actually Show?",
+        "permalink": "/what-do-samoas-ufo-records-actually-show/"
+      },
+      {
+        "basename": "Sao_Tome_and_Princip_3437b2",
+        "title": "What Do We Really Know About Sao Tome UFOs?",
+        "permalink": "/sao-tome-and-principe/"
+      },
+      {
+        "basename": "Sao_Tome_and_Princip_3437b2_official_records_fal_d3cfc5",
+        "title": "Official Records",
+        "permalink": "/official-records-da0e97/"
+      },
+      {
+        "basename": "Serbia_6d31bf",
+        "title": "What Really Happened in Serbia's UFO Cases?",
+        "permalink": "/what-really-happened-in-serbias-ufo/"
+      },
+      {
+        "basename": "Tanzania_7e380b",
+        "title": "What Really Happened in Tanzania's Skies?",
+        "permalink": "/what-really-happened-in-tanzanias-skies/"
+      },
+      {
+        "basename": "Timor-Leste_2d79f6",
+        "title": "What Do Timor Leste's UFO Reports Really Show?",
+        "permalink": "/what-do-timor-lestes-ufo-reports-really/"
+      },
+      {
+        "basename": "Trinidad_and_Tobago_a73120",
+        "title": "What Really Happened in Trinidad's UFO Cases?",
+        "permalink": "/trinidad-and-tobago/"
+      },
+      {
+        "basename": "Tuvalu_9a2248",
+        "title": "Does Tuvalu Have a Real UFO History?",
+        "permalink": "/does-tuvalu-have-a-real-ufo-history/"
+      },
+      {
+        "basename": "United_Arab_Emirates_c92b89_uae_ufo_evidence_qua_228a5e",
+        "title": "Evidence Quality",
+        "permalink": "/evidence-quality-9406b0/"
+      },
+      {
+        "basename": "Uzbekistan_db800e",
+        "title": "What Really Flew Over Uzbekistan's Skies?",
+        "permalink": "/what-really-flew-over-uzbekistans-skies/"
+      },
+      {
+        "basename": "Vanuatu_d16ad2",
+        "title": "What Really Explains Vanuatu's UFO Reports?",
+        "permalink": "/what-really-explains-vanuatus-ufo/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Afghanistan_c69153",
+        "title": "What Does Afghanistan's UFO Record Actually Show?",
+        "permalink": "/what-does-afghanistans-ufo-record/"
+      },
+      {
+        "basename": "Afghanistan_c69153_afghanistan_1956_rep_d8d2a6",
+        "title": "1956 Reports",
+        "permalink": "/1956-reports/"
+      },
+      {
+        "basename": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "title": "2020 Video",
+        "permalink": "/2020-video/"
+      },
+      {
+        "basename": "Afghanistan_c69153_afghanistan_ufo_hoax_7f6008",
+        "title": "Hoaxes",
+        "permalink": "/hoaxes/"
+      },
+      {
+        "basename": "Afghanistan_c69153_afghanistan_verifica_eaf280",
+        "title": "Verification",
+        "permalink": "/verification/"
+      },
+      {
+        "basename": "Albania_79b9d2",
+        "title": "What Really Happened in Albania's UFO Cases?",
+        "permalink": "/what-really-happened-in-albanias-ufo/"
+      },
+      {
+        "basename": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "title": "Records",
+        "permalink": "/records/"
+      },
+      {
+        "basename": "Albania_79b9d2_coastal_urban_lights_609da3",
+        "title": "Sky Lights",
+        "permalink": "/sky-lights/"
+      },
+      {
+        "basename": "Albania_79b9d2_cold_war_military_cl_27c359",
+        "title": "Military Claims",
+        "permalink": "/military-claims/"
+      },
+      {
+        "basename": "Albania_79b9d2_roskovec_landing_tra_1a8e69",
+        "title": "Roskovec",
+        "permalink": "/roskovec/"
+      },
+      {
+        "basename": "Algeria_bd6acc",
+        "title": "What Really Happened in Algeria's UFO Cases?",
+        "permalink": "/what-really-happened-in-algerias-ufo/"
+      },
+      {
+        "basename": "Algeria_bd6acc_algeria_ufo_timeline_2c6126",
+        "title": "Sightings Timeline",
+        "permalink": "/sightings-timeline-03e7de/"
+      },
+      {
+        "basename": "Algeria_bd6acc_bouamama_credibility_86ce09",
+        "title": "Bouamama Case",
+        "permalink": "/bouamama-case/"
+      },
+      {
+        "basename": "Algeria_bd6acc_constantine_philippe_d52842",
+        "title": "1952 Archive",
+        "permalink": "/1952-archive/"
+      },
+      {
+        "basename": "Algeria_bd6acc_mers_el_kebir_meteor_4a1184",
+        "title": "Mers el Kebir",
+        "permalink": "/mers-el-kebir/"
+      },
+      {
+        "basename": "Andorra_9d3bd1",
+        "title": "What Really Flew Over Andorra?",
+        "permalink": "/what-really-flew-over-andorra/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_andorra_ufo_records_3b447a",
+        "title": "Official Records",
+        "permalink": "/official-records/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_andorra_ufo_timeline_533ba3",
+        "title": "Sightings Timeline",
+        "permalink": "/sightings-timeline/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_andorra_witness_acco_5c43fb",
+        "title": "Witness Accounts",
+        "permalink": "/witness-accounts/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_solved_andorra_ufo_c_31b3fb",
+        "title": "Solved Cases",
+        "permalink": "/solved-cases/"
+      },
+      {
+        "basename": "Angola_a42522",
+        "title": "What Do Angola's UFO Reports Really Show?",
+        "permalink": "/what-do-angolas-ufo-reports-really-show/"
+      },
+      {
+        "basename": "Angola_a42522_future_case_verifica_765e30",
+        "title": "Case Verification",
+        "permalink": "/case-verification/"
+      },
+      {
+        "basename": "Angola_a42522_luanda_lubango_sight_e07e1e",
+        "title": "City Sightings",
+        "permalink": "/city-sightings/"
+      },
+      {
+        "basename": "Angola_a42522_missing_ufo_chronolo_ec6025",
+        "title": "Missing Timeline",
+        "permalink": "/missing-timeline/"
+      },
+      {
+        "basename": "Angola_a42522_ufo_claims_fact_chec_1e579b",
+        "title": "Claim Check",
+        "permalink": "/claim-check/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518",
+        "title": "What Really Explains Antigua's UFO Sightings?",
+        "permalink": "/antigua-and-barbuda/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_antigua_airspace_rep_2c46aa",
+        "title": "Reporting System",
+        "permalink": "/reporting-system-f30ca0/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_antigua_ufo_source_r_dac4d6",
+        "title": "Source Check",
+        "permalink": "/source-check/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_december_2019_light_6562e7",
+        "title": "2019 Light",
+        "permalink": "/2019-light/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_march_2024_starlink_d4f142",
+        "title": "2024 Starlink",
+        "permalink": "/2024-starlink/"
+      },
+      {
+        "basename": "Argentina_354bf9",
+        "title": "Which Argentina UFO Cases Still Resist Explanation?",
+        "permalink": "/which-argentina-ufo-cases-still-resist/"
+      },
+      {
+        "basename": "Argentina_354bf9_argentina_air_force_8f2747",
+        "title": "Official Reports",
+        "permalink": "/official-reports/"
+      },
+      {
+        "basename": "Argentina_354bf9_bariloche_ufo_case_9ae4a1",
+        "title": "Bariloche",
+        "permalink": "/bariloche/"
+      },
+      {
+        "basename": "Argentina_354bf9_trancas_lights_1bad1c",
+        "title": "Trancas",
+        "permalink": "/trancas/"
+      },
+      {
+        "basename": "Argentina_354bf9_uritorco_ufo_tourism_a14d09",
+        "title": "Uritorco",
+        "permalink": "/uritorco/"
+      },
+      {
+        "basename": "Armenia_5f4599",
+        "title": "What Really Happened in Armenia's UFO Skies?",
+        "permalink": "/what-really-happened-in-armenias-ufo/"
+      },
+      {
+        "basename": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "title": "2012 Spiral",
+        "permalink": "/2012-spiral/"
+      },
+      {
+        "basename": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "title": "Sightings",
+        "permalink": "/sightings/"
+      },
+      {
+        "basename": "Armenia_5f4599_byurakan_seti_contex_bba2ad",
+        "title": "Byurakan SETI",
+        "permalink": "/byurakan-seti/"
+      },
+      {
+        "basename": "Armenia_5f4599_soviet_armenia_ufo_r_97f2b9",
+        "title": "Soviet Records",
+        "permalink": "/soviet-records/"
+      },
+      {
+        "basename": "Australia_ceafb5",
+        "title": "What Really Happened in Australia's UFO Cases?",
+        "permalink": "/what-really-happened-in-australias-ufo/"
+      },
+      {
+        "basename": "Australia_ceafb5_australian_defence_u_8903aa",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Australia_ceafb5_australian_ufo_evide_e6175c",
+        "title": "Evidence Test",
+        "permalink": "/evidence-test/"
+      },
+      {
+        "basename": "Australia_ceafb5_valentich_disappeara_e73a43",
+        "title": "Valentich",
+        "permalink": "/valentich/"
+      },
+      {
+        "basename": "Australia_ceafb5_westall_witnesses_ex_498d09",
+        "title": "Westall",
+        "permalink": "/westall/"
+      },
+      {
+        "basename": "Austria_593905",
+        "title": "What Really Happened in Austria's UFO Cases?",
+        "permalink": "/what-really-happened-in-austrias-ufo/"
+      },
+      {
+        "basename": "Austria_593905_austria_ufo_case_tim_ae6a51",
+        "title": "Case Timeline",
+        "permalink": "/case-timeline/"
+      },
+      {
+        "basename": "Austria_593905_austria_ufo_hoaxes_243265",
+        "title": "Hoaxes",
+        "permalink": "/hoaxes-9f1e45/"
+      },
+      {
+        "basename": "Austria_593905_austria_ufo_official_cb8c49",
+        "title": "Official Records",
+        "permalink": "/official-records-71ae6f/"
+      },
+      {
+        "basename": "Austria_593905_austria_ufo_regional_318517",
+        "title": "Regional Patterns",
+        "permalink": "/regional-patterns/"
+      },
+      {
+        "basename": "Azerbaijan_213598",
+        "title": "What Really Happened in Azerbaijan's UFO Cases?",
+        "permalink": "/what-really-happened-in-azerbaijans-ufo/"
+      },
+      {
+        "basename": "Azerbaijan_213598_1955_soviet_azerbaij_49761e",
+        "title": "1955 Case",
+        "permalink": "/1955-case/"
+      },
+      {
+        "basename": "Azerbaijan_213598_40th_parallel_theory_073233",
+        "title": "40 th Parallel",
+        "permalink": "/40-th-parallel/"
+      },
+      {
+        "basename": "Azerbaijan_213598_azerbaijan_ufo_archi_17d5b6",
+        "title": "Case Archive",
+        "permalink": "/case-archive/"
+      },
+      {
+        "basename": "Azerbaijan_213598_modern_baku_sighting_788620",
+        "title": "Modern Sightings",
+        "permalink": "/modern-sightings/"
+      },
+      {
+        "basename": "Bahrain_3ae11c",
+        "title": "What Really Happened in Bahrain's UFO Cases?",
+        "permalink": "/what-really-happened-in-bahrains-ufo/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_evidence_gaps_1106c2",
+        "title": "Evidence Gaps",
+        "permalink": "/evidence-gaps/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_major_cases_compared_6d0cd4",
+        "title": "Major Cases",
+        "permalink": "/major-cases/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_official_records_gap_43c6bb",
+        "title": "Official Records",
+        "permalink": "/official-records-ca19be/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_ordinary_explanation_a805d0",
+        "title": "Likely Causes",
+        "permalink": "/likely-causes/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37",
+        "title": "What Has Really Appeared Over Bangladesh?",
+        "permalink": "/what-has-really-appeared-over-bangladesh/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_bangladesh_ufo_sight_dae58b",
+        "title": "Sightings",
+        "permalink": "/sightings-16f891/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_border_ufo_drone_sec_f75851",
+        "title": "Border Drones",
+        "permalink": "/border-drones/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_coxs_bazar_sky_trail_03d721",
+        "title": "Sky Trail",
+        "permalink": "/sky-trail/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_regional_ufo_pattern_1823f7",
+        "title": "Regional Patterns",
+        "permalink": "/regional-patterns-517556/"
+      },
+      {
+        "basename": "Barbados_93409a",
+        "title": "What Really Happened in Barbados Skies?",
+        "permalink": "/what-really-happened-in-barbados-skies/"
+      },
+      {
+        "basename": "Barbados_93409a_1987_mass_sighting_7b13a5",
+        "title": "1987 Sighting",
+        "permalink": "/1987-sighting/"
+      },
+      {
+        "basename": "Barbados_93409a_declassified_record_fc9649",
+        "title": "Archive Record",
+        "permalink": "/archive-record/"
+      },
+      {
+        "basename": "Barbados_93409a_later_sightings_872e46",
+        "title": "Later Reports",
+        "permalink": "/later-reports/"
+      },
+      {
+        "basename": "Barbados_93409a_possible_explanation_a70fcb",
+        "title": "Explanations",
+        "permalink": "/explanations/"
+      },
+      {
+        "basename": "Belarus_027a12",
+        "title": "What Really Happened in Belarusian UFO Cases?",
+        "permalink": "/belarus/"
+      },
+      {
+        "basename": "Belarus_027a12_belarus_sightings_re_30156f",
+        "title": "Sightings Map",
+        "permalink": "/sightings-map/"
+      },
+      {
+        "basename": "Belarus_027a12_belarus_ufo_evidence_2e6b01",
+        "title": "Evidence Test",
+        "permalink": "/evidence-test-495253/"
+      },
+      {
+        "basename": "Belarus_027a12_minsk_1984_encounter_2d8434",
+        "title": "Minsk 1984",
+        "permalink": "/minsk-1984/"
+      },
+      {
+        "basename": "Belarus_027a12_ufocom_investigation_4ed513",
+        "title": "UFO Com",
+        "permalink": "/ufo-com/"
+      },
+      {
+        "basename": "Belgium_5cb4c9",
+        "title": "What Really Happened During Belgium's UFO Wave?",
+        "permalink": "/what-really-happened-during-belgiums-ufo/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_belgian_ufo_archives_30c44a",
+        "title": "Archives",
+        "permalink": "/archives/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_belgian_ufo_evidence_9f026d",
+        "title": "The Strongest Belgian UFO Evidence",
+        "permalink": "/the-strongest-belgian-ufo-evidence/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_belgian_wave_timelin_f6c5d2",
+        "title": "Wave Timeline",
+        "permalink": "/wave-timeline/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_f16_radar_scramble_09e9f0",
+        "title": "F 16 Scramble",
+        "permalink": "/f-16-scramble/"
+      },
+      {
+        "basename": "Belize_42ab0c",
+        "title": "What Really Happened in Belize's Skies?",
+        "permalink": "/what-really-happened-in-belizes-skies/"
+      },
+      {
+        "basename": "Belize_42ab0c_belize_ufo_timeline_5bdc49",
+        "title": "Sightings Timeline",
+        "permalink": "/sightings-timeline-edd259/"
+      },
+      {
+        "basename": "Belize_42ab0c_belmopan_lights_103acb",
+        "title": "Belmopan Lights",
+        "permalink": "/belmopan-lights/"
+      },
+      {
+        "basename": "Belize_42ab0c_coastal_ufo_claims_2b359e",
+        "title": "Coastal Claims",
+        "permalink": "/coastal-claims/"
+      },
+      {
+        "basename": "Belize_42ab0c_official_records_gap_43c6bb",
+        "title": "Official Records",
+        "permalink": "/official-records-7e3264/"
+      },
+      {
+        "basename": "Benin_373616",
+        "title": "What Do We Really Know About Benin UFOs?",
+        "permalink": "/what-do-we-really-know-about-benin-ufos/"
+      },
+      {
+        "basename": "Benin_373616_benin_city_location_6aa82e",
+        "title": "Benin City Error",
+        "permalink": "/benin-city-error/"
+      },
+      {
+        "basename": "Benin_373616_benin_ufo_archive_ga_078227",
+        "title": "Archive Gap",
+        "permalink": "/archive-gap/"
+      },
+      {
+        "basename": "Benin_373616_benin_ufo_explanatio_1142d4",
+        "title": "Likely Explanations",
+        "permalink": "/likely-explanations/"
+      },
+      {
+        "basename": "Benin_373616_verified_cases_evide_a58c34",
+        "title": "Verified Cases",
+        "permalink": "/verified-cases/"
+      },
+      {
+        "basename": "Bhutan_bb2254",
+        "title": "What Do Bhutan's UFO Records Actually Show?",
+        "permalink": "/what-do-bhutans-ufo-records-actually/"
+      },
+      {
+        "basename": "Bhutan_bb2254_conventional_explana_813c05",
+        "title": "Explanations",
+        "permalink": "/explanations-fd49b6/"
+      },
+      {
+        "basename": "Bhutan_bb2254_declassified_himalay_f8d292",
+        "title": "Archive File",
+        "permalink": "/archive-file/"
+      },
+      {
+        "basename": "Bhutan_bb2254_sparse_bhutan_ufo_re_dc3092",
+        "title": "Missing Record",
+        "permalink": "/missing-record/"
+      },
+      {
+        "basename": "Bhutan_bb2254_thimphu_1968_sightin_3f5aab",
+        "title": "Thimphu 1968",
+        "permalink": "/thimphu-1968/"
+      },
+      {
+        "basename": "Bolivia_a001af",
+        "title": "What Really Happened in Bolivia's UFO Cases?",
+        "permalink": "/what-really-happened-in-bolivias-ufo/"
+      },
+      {
+        "basename": "Bolivia_a001af_bolivia_ufo_timeline_1c8fc8",
+        "title": "Case Timeline",
+        "permalink": "/case-timeline-50b74a/"
+      },
+      {
+        "basename": "Bolivia_a001af_landscape_sighting_d_b80693",
+        "title": "Sky Illusions",
+        "permalink": "/sky-illusions/"
+      },
+      {
+        "basename": "Bolivia_a001af_official_records_arc_afe50e",
+        "title": "Official Records",
+        "permalink": "/official-records-d0e11f/"
+      },
+      {
+        "basename": "Bolivia_a001af_tarija_crash_claims_454739",
+        "title": "Tarija",
+        "permalink": "/tarija/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f",
+        "title": "What Really Flew Over Bosnia and Herzegovina?",
+        "permalink": "/bosnia-and-herzegovina/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_bosnia_ufo_case_time_00743a",
+        "title": "Case Timeline",
+        "permalink": "/case-timeline-5e1ef5/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_bosnia_ufo_image_che_294518",
+        "title": "Photo Checks",
+        "permalink": "/photo-checks/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_bosnia_ufo_records_660c49",
+        "title": "Records",
+        "permalink": "/records-6776c1/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_explained_bosnian_si_c33d43",
+        "title": "Explained Skies",
+        "permalink": "/explained-skies/"
+      },
+      {
+        "basename": "Botswana_180c89",
+        "title": "What Really Happened in Botswana's UFO Cases?",
+        "permalink": "/what-really-happened-in-botswanas-ufo/"
+      },
+      {
+        "basename": "Botswana_180c89_asteroid_2018_la_641f2f",
+        "title": "2018 Fireball",
+        "permalink": "/2018-fireball/"
+      },
+      {
+        "basename": "Botswana_180c89_botswana_sighting_re_e6ba74",
+        "title": "Sightings Map",
+        "permalink": "/sightings-map-435781/"
+      },
+      {
+        "basename": "Botswana_180c89_botswana_ufo_records_8114c4",
+        "title": "Records",
+        "permalink": "/records-5d1d27/"
+      },
+      {
+        "basename": "Botswana_180c89_kalahari_crash_hoax_27e6e2",
+        "title": "Kalahari Crash",
+        "permalink": "/kalahari-crash/"
+      },
+      {
+        "basename": "Brazil_37497a",
+        "title": "What Do Brazil's UFO Files Really Show?",
+        "permalink": "/what-do-brazils-ufo-files-really-show/"
+      },
+      {
+        "basename": "Brazil_37497a_major_ufo_cases_comp_775b2e",
+        "title": "Major Cases",
+        "permalink": "/major-cases-478c3c/"
+      },
+      {
+        "basename": "Brazil_37497a_official_ufo_night_1_77159f",
+        "title": "UFO Night",
+        "permalink": "/ufo-night/"
+      },
+      {
+        "basename": "Brazil_37497a_operation_saucer_col_df85d1",
+        "title": "Colares",
+        "permalink": "/colares/"
+      },
+      {
+        "basename": "Brazil_37497a_reading_brazil_ufo_a_dc8f5d",
+        "title": "Archives",
+        "permalink": "/archives-1c0d80/"
+      },
+      {
+        "basename": "Brunei_130e4a",
+        "title": "What Really Happened in Brunei's UFO Cases?",
+        "permalink": "/what-really-happened-in-bruneis-ufo/"
+      },
+      {
+        "basename": "Brunei_130e4a_brunei_ufo_reporting_e8c0a9",
+        "title": "Reporting Gaps",
+        "permalink": "/reporting-gaps/"
+      },
+      {
+        "basename": "Brunei_130e4a_brunei_ufo_timeline_f93305",
+        "title": "Sightings Map",
+        "permalink": "/sightings-map-fe47b1/"
+      },
+      {
+        "basename": "Brunei_130e4a_lumut_lights_explana_d64a32",
+        "title": "Lumut Lights",
+        "permalink": "/lumut-lights/"
+      },
+      {
+        "basename": "Brunei_130e4a_solved_brunei_myster_d5d13d",
+        "title": "Solved Lights",
+        "permalink": "/solved-lights/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Afghanistan_c69153",
+        "title": "What Does Afghanistan's UFO Record Actually Show?",
+        "permalink": "/what-does-afghanistans-ufo-record/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Albania_79b9d2",
+        "title": "What Really Happened in Albania's UFO Cases?",
+        "permalink": "/what-really-happened-in-albanias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "title": "Records",
+        "permalink": "/records/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Algeria_bd6acc",
+        "title": "What Really Happened in Algeria's UFO Cases?",
+        "permalink": "/what-really-happened-in-algerias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Andorra_9d3bd1",
+        "title": "What Really Flew Over Andorra?",
+        "permalink": "/what-really-flew-over-andorra/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Angola_a42522",
+        "title": "What Do Angola's UFO Reports Really Show?",
+        "permalink": "/what-do-angolas-ufo-reports-really-show/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518",
+        "title": "What Really Explains Antigua's UFO Sightings?",
+        "permalink": "/antigua-and-barbuda/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Argentina_354bf9",
+        "title": "Which Argentina UFO Cases Still Resist Explanation?",
+        "permalink": "/which-argentina-ufo-cases-still-resist/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Argentina_354bf9_trancas_lights_1bad1c",
+        "title": "Trancas",
+        "permalink": "/trancas/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Armenia_5f4599",
+        "title": "What Really Happened in Armenia's UFO Skies?",
+        "permalink": "/what-really-happened-in-armenias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "title": "2012 Spiral",
+        "permalink": "/2012-spiral/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "title": "Sightings",
+        "permalink": "/sightings/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Australia_ceafb5",
+        "title": "What Really Happened in Australia's UFO Cases?",
+        "permalink": "/what-really-happened-in-australias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Austria_593905",
+        "title": "What Really Happened in Austria's UFO Cases?",
+        "permalink": "/what-really-happened-in-austrias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Azerbaijan_213598",
+        "title": "What Really Happened in Azerbaijan's UFO Cases?",
+        "permalink": "/what-really-happened-in-azerbaijans-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bahrain_3ae11c",
+        "title": "What Really Happened in Bahrain's UFO Cases?",
+        "permalink": "/what-really-happened-in-bahrains-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bangladesh_fa6c37",
+        "title": "What Has Really Appeared Over Bangladesh?",
+        "permalink": "/what-has-really-appeared-over-bangladesh/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Barbados_93409a",
+        "title": "What Really Happened in Barbados Skies?",
+        "permalink": "/what-really-happened-in-barbados-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Belarus_027a12",
+        "title": "What Really Happened in Belarusian UFO Cases?",
+        "permalink": "/belarus/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Belgium_5cb4c9",
+        "title": "What Really Happened During Belgium's UFO Wave?",
+        "permalink": "/what-really-happened-during-belgiums-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Belize_42ab0c",
+        "title": "What Really Happened in Belize's Skies?",
+        "permalink": "/what-really-happened-in-belizes-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Belize_42ab0c_belmopan_lights_103acb",
+        "title": "Belmopan Lights",
+        "permalink": "/belmopan-lights/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Benin_373616",
+        "title": "What Do We Really Know About Benin UFOs?",
+        "permalink": "/what-do-we-really-know-about-benin-ufos/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bhutan_bb2254",
+        "title": "What Do Bhutan's UFO Records Actually Show?",
+        "permalink": "/what-do-bhutans-ufo-records-actually/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bolivia_a001af",
+        "title": "What Really Happened in Bolivia's UFO Cases?",
+        "permalink": "/what-really-happened-in-bolivias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bolivia_a001af_tarija_crash_claims_454739",
+        "title": "Tarija",
+        "permalink": "/tarija/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f",
+        "title": "What Really Flew Over Bosnia and Herzegovina?",
+        "permalink": "/bosnia-and-herzegovina/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_bosnia_ufo_records_660c49",
+        "title": "Records",
+        "permalink": "/records-6776c1/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Botswana_180c89",
+        "title": "What Really Happened in Botswana's UFO Cases?",
+        "permalink": "/what-really-happened-in-botswanas-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Botswana_180c89_botswana_ufo_records_8114c4",
+        "title": "Records",
+        "permalink": "/records-5d1d27/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Brazil_37497a",
+        "title": "What Do Brazil's UFO Files Really Show?",
+        "permalink": "/what-do-brazils-ufo-files-really-show/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Brazil_37497a_reading_brazil_ufo_a_dc8f5d",
+        "title": "Archives",
+        "permalink": "/archives-1c0d80/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Brunei_130e4a",
+        "title": "What Really Happened in Brunei's UFO Cases?",
+        "permalink": "/what-really-happened-in-bruneis-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bulgaria_5c7772",
+        "title": "What Really Happened in Bulgaria's UFO Cases?",
+        "permalink": "/what-really-happened-in-bulgarias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f",
+        "title": "What Is Really Behind Burkina Faso's UFO Stories?",
+        "permalink": "/what-is-really-behind-burkina-fasos-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Burundi_461758",
+        "title": "Why Are Burundi's UFO Records So Sparse?",
+        "permalink": "/why-are-burundis-ufo-records-so-sparse/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cambodia_314ccd",
+        "title": "What Really Happened in Cambodia's UFO Cases?",
+        "permalink": "/what-really-happened-in-cambodias-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cameroon_73a7dd",
+        "title": "What Do Cameroon's UFO Records Really Show?",
+        "permalink": "/what-do-cameroons-ufo-records-really/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Canada_cd6a7b",
+        "title": "What Do Canada's UFO Files Really Show?",
+        "permalink": "/what-do-canadas-ufo-files-really-show/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cape_Verde_556906",
+        "title": "What Really Happened in Cape Verde's UFO Reports?",
+        "permalink": "/what-really-happened-in-cape-verdes-ufo/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Albania_79b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Algeria_bd6acc",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Andorra_9d3bd1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Angola_a42522",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Antigua_and_Barbuda_0f8518",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Argentina_354bf9",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Armenia_5f4599",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Australia_ceafb5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Austria_593905",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Azerbaijan_213598",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bahrain_3ae11c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bangladesh_fa6c37",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Barbados_93409a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Belarus_027a12",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Belgium_5cb4c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Belize_42ab0c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Benin_373616",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bhutan_bb2254",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bolivia_a001af",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bosnia_and_Herzegovi_552c9f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Botswana_180c89",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Brazil_37497a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Brunei_130e4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bulgaria_5c7772",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Burkina_Faso_f61e5f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Burundi_461758",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cambodia_314ccd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cameroon_73a7dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Canada_cd6a7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cape_Verde_556906",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Central_African_Repu_358788",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Chad_6c6b1b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Chile_349507",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "China_d2eaf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Colombia_2f7373",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Comoros_e5bb59",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Congo_77f256",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Costa_Rica_fe586b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Croatia_d7e045",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cuba_c484b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cyprus_852add",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Czech_Republic_0c207e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "DR_Congo_b690cb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Denmark_89da12",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Djibouti_60a8b0",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Dominica_bc1cd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Dominican_Republic_dba665",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ecuador_09f199",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Egypt_1c39ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "El_Salvador_9b83b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Equatorial_Guinea_ae2c01",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Eritrea_18740a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Estonia_f0a96d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Eswatini_16cc7f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ethiopia_3d91f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Fiji_bbb7ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Finland_c909b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "France_e3772a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Gabon_a06dcd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Gambia_7c3997",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Germany_17d53e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ghana_317dba",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Greece_4902a4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Grenada_dbf2a2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guatemala_11760e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guinea-Bissau_b07cb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guinea_b47b54",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guyana_bc88a2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Haiti_a4842f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Honduras_5aa588",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Hungary_f14e46",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Iceland_b3c92e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "India_967ce3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Indonesia_35536a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Iran_889224",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Iraq_1aed9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ireland_eb2131",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Israel_4c197d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Italy_ad79ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ivory_Coast_0c79b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Jamaica_5eedd6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Japan_fcf29f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Jordan_674027",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kazakhstan_2f36b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kenya_a84f56",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kiribati_3f57ad",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kuwait_93295b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kyrgyzstan_c78791",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Laos_7998be",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Latvia_c5f5bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Lebanon_5caa7f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Lesotho_93b12b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Liberia_1ed5dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Libya_55949d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Liechtenstein_b0ddce",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Lithuania_74a788",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Luxembourg_507672",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Madagascar_f92bcb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Malawi_0ce65b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Malaysia_ff3ea3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Maldives_213cb2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mali_daa6a4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Malta_1a591a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Marshall_Islands_ccbdc0",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mauritania_85fa35",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mauritius_26160d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mexico_41937b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Micronesia_Federated_30e9e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Moldova_9791bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Monaco_35ab1c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mongolia_f54da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Montenegro_479fb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Morocco_32e087",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mozambique_a40a9b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Myanmar_928b7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Namibia_bfe79d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nauru_f648c7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nepal_0e1d58",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Netherlands_fb61c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "New_Zealand_3d3336",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nicaragua_481264",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Niger_6687e1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nigeria_9742d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "North_Korea_ccbbbb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "North_Macedonia_cece1d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Norway_988455",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Oman_c14c36",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Pakistan_82d220",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Palau_e5e0b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Panama_1e36b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Papua_New_Guinea_90e80c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Paraguay_71a452",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Peru_36c572",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Philippines_806736",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Poland_5ff03b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Portugal_a49519",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Qatar_83ef3e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Romania_d6b897",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Russia_6754fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Rwanda_7266a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saint_Kitts_and_Nevi_a66de5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saint_Lucia_85ac35",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saint_Vincent_and_th_3bce2a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Samoa_f56806",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "San_Marino_8ff2c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sao_Tome_and_Princip_3437b2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saudi_Arabia_8bf7f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Senegal_d8973b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Serbia_6d31bf",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Seychelles_3d2d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sierra_Leone_817b0d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Singapore_20c0b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Slovakia_b6c149",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Slovenia_d1aa05",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Solomon_Islands_6f943d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Somalia_4dfdf1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "South_Africa_3b27c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "South_Korea_7536d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "South_Sudan_80ac9c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Spain_20a8df",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sri_Lanka_db33ad",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sudan_1193ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Suriname_b17fc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sweden_72ddd2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Switzerland_77dcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Syria_3ed104",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tajikistan_279c77",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tanzania_7e380b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Thailand_a2b7c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "The_Bahamas_f765dc",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Timor-Leste_2d79f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Togo_30949d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tonga_e8a123",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Trinidad_and_Tobago_a73120",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tunisia_edf404",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Turkey_d7153e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Turkmenistan_1f8dc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tuvalu_9a2248",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Uganda_e92904",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ukraine_c951ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "United_Arab_Emirates_c92b89",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "United_Kingdom_d25561",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "United_States_f5f19f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Uruguay_66b989",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Uzbekistan_db800e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Vanuatu_d16ad2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Venezuela_9d4ac4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Vietnam_681101",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Yemen_ac33d6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Zambia_dcf25e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Zimbabwe_5922f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_afghanistan_1956_rep_d8d2a6",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_afghanistan_ufo_hoax_7f6008",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_afghanistan_verifica_eaf280",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_index",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "to": "Afghanistan_c69153",
+        "type": "parent"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "to": "Afghanistan_c69153_afghanistan_1956_rep_d8d2a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "to": "Afghanistan_c69153_afghanistan_ufo_hoax_7f6008",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_afghanistan_verifica_eaf280",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_2020_ir_814499",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_1956_rep_d8d2a6",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_ufo_hoax_7f6008",
+        "to": "Afghanistan_c69153_afghanistan_verifica_eaf280",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_ufo_hoax_7f6008",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_afghanistan_verifica_eaf280",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2",
+        "to": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2",
+        "to": "Albania_79b9d2_roskovec_landing_tra_1a8e69",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_coastal_urban_lights_609da3",
+        "to": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_coastal_urban_lights_609da3",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_cold_war_military_cl_27c359",
+        "to": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_cold_war_military_cl_27c359",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_roskovec_landing_tra_1a8e69",
+        "to": "Albania_79b9d2_archives_media_relia_9df3d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_roskovec_landing_tra_1a8e69",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_ufo_records_3b447a",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_ufo_records_3b447a",
+        "to": "Andorra_9d3bd1_andorra_witness_acco_5c43fb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_ufo_timeline_533ba3",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_ufo_timeline_533ba3",
+        "to": "Andorra_9d3bd1_andorra_witness_acco_5c43fb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_witness_acco_5c43fb",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_solved_andorra_ufo_c_31b3fb",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_future_case_verifica_765e30",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_luanda_lubango_sight_e07e1e",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_missing_ufo_chronolo_ec6025",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_ufo_claims_fact_chec_1e579b",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9",
+        "to": "Argentina_354bf9_bariloche_ufo_case_9ae4a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9",
+        "to": "Argentina_354bf9_argentina_air_force_8f2747",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9",
+        "to": "Argentina_354bf9_trancas_lights_1bad1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9",
+        "to": "Argentina_354bf9_uritorco_ufo_tourism_a14d09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_trancas_lights_1bad1c",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_bariloche_ufo_case_9ae4a1",
+        "to": "Argentina_354bf9_trancas_lights_1bad1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_bariloche_ufo_case_9ae4a1",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_argentina_air_force_8f2747",
+        "to": "Argentina_354bf9_bariloche_ufo_case_9ae4a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_argentina_air_force_8f2747",
+        "to": "Argentina_354bf9_trancas_lights_1bad1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_argentina_air_force_8f2747",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_uritorco_ufo_tourism_a14d09",
+        "to": "Argentina_354bf9_bariloche_ufo_case_9ae4a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_uritorco_ufo_tourism_a14d09",
+        "to": "Argentina_354bf9_trancas_lights_1bad1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_uritorco_ufo_tourism_a14d09",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599",
+        "to": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599",
+        "to": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "to": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "to": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_byurakan_seti_contex_bba2ad",
+        "to": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_byurakan_seti_contex_bba2ad",
+        "to": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_byurakan_seti_contex_bba2ad",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_soviet_armenia_ufo_r_97f2b9",
+        "to": "Armenia_5f4599_armenia_2012_spiral_dfb82a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_soviet_armenia_ufo_r_97f2b9",
+        "to": "Armenia_5f4599_armenia_sighting_evi_699006",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_soviet_armenia_ufo_r_97f2b9",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5",
+        "to": "Australia_ceafb5_australian_defence_u_8903aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5",
+        "to": "Australia_ceafb5_valentich_disappeara_e73a43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5",
+        "to": "Australia_ceafb5_westall_witnesses_ex_498d09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_australian_defence_u_8903aa",
+        "to": "Australia_ceafb5_valentich_disappeara_e73a43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_australian_defence_u_8903aa",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_australian_ufo_evide_e6175c",
+        "to": "Australia_ceafb5_valentich_disappeara_e73a43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_australian_ufo_evide_e6175c",
+        "to": "Australia_ceafb5_westall_witnesses_ex_498d09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_australian_ufo_evide_e6175c",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_valentich_disappeara_e73a43",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_westall_witnesses_ex_498d09",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905",
+        "to": "Austria_593905_austria_ufo_hoaxes_243265",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_austria_ufo_hoaxes_243265",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_austria_ufo_case_tim_ae6a51",
+        "to": "Austria_593905_austria_ufo_hoaxes_243265",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_austria_ufo_case_tim_ae6a51",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_austria_ufo_official_cb8c49",
+        "to": "Austria_593905_austria_ufo_hoaxes_243265",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_austria_ufo_official_cb8c49",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_austria_ufo_regional_318517",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598",
+        "to": "Azerbaijan_213598_1955_soviet_azerbaij_49761e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_1955_soviet_azerbaij_49761e",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_40th_parallel_theory_073233",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_azerbaijan_ufo_archi_17d5b6",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_modern_baku_sighting_788620",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc",
+        "to": "The_Bahamas_f765dc_autec_andros_ufo_myt_6c2a6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc",
+        "to": "The_Bahamas_f765dc_bahamas_ufo_records_e13790",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc",
+        "to": "The_Bahamas_f765dc_starship_bahamas_deb_71ea98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_bahamas_ufo_records_e13790",
+        "to": "The_Bahamas_f765dc_autec_andros_ufo_myt_6c2a6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_bahamas_ufo_records_e13790",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_autec_andros_ufo_myt_6c2a6c",
+        "to": "The_Bahamas_f765dc_bahamas_ufo_records_e13790",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_autec_andros_ufo_myt_6c2a6c",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_island_sighting_patt_f8ada8",
+        "to": "The_Bahamas_f765dc_autec_andros_ufo_myt_6c2a6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_island_sighting_patt_f8ada8",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_starship_bahamas_deb_71ea98",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_evidence_gaps_1106c2",
+        "to": "Bahrain_3ae11c_ordinary_explanation_a805d0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_evidence_gaps_1106c2",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_major_cases_compared_6d0cd4",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_official_records_gap_43c6bb",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_ordinary_explanation_a805d0",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a",
+        "to": "Barbados_93409a_declassified_record_fc9649",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a",
+        "to": "Barbados_93409a_possible_explanation_a70fcb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a",
+        "to": "Barbados_93409a_later_sightings_872e46",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_later_sightings_872e46",
+        "to": "Barbados_93409a_1987_mass_sighting_7b13a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_later_sightings_872e46",
+        "to": "Barbados_93409a_possible_explanation_a70fcb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_later_sightings_872e46",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_1987_mass_sighting_7b13a5",
+        "to": "Barbados_93409a_possible_explanation_a70fcb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_1987_mass_sighting_7b13a5",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_declassified_record_fc9649",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_possible_explanation_a70fcb",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9",
+        "to": "Belgium_5cb4c9_belgian_ufo_archives_30c44a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_f16_radar_scramble_09e9f0",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_belgian_ufo_archives_30c44a",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_belgian_ufo_evidence_9f026d",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_belgian_wave_timelin_f6c5d2",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c",
+        "to": "Belize_42ab0c_belmopan_lights_103acb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_belmopan_lights_103acb",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_coastal_ufo_claims_2b359e",
+        "to": "Belize_42ab0c_belmopan_lights_103acb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_coastal_ufo_claims_2b359e",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_belize_ufo_timeline_5bdc49",
+        "to": "Belize_42ab0c_belmopan_lights_103acb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_belize_ufo_timeline_5bdc49",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_official_records_gap_43c6bb",
+        "to": "Belize_42ab0c_belmopan_lights_103acb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_official_records_gap_43c6bb",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37",
+        "to": "Bangladesh_fa6c37_bangladesh_ufo_sight_dae58b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37",
+        "to": "Bangladesh_fa6c37_coxs_bazar_sky_trail_03d721",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_bangladesh_ufo_sight_dae58b",
+        "to": "Bangladesh_fa6c37_coxs_bazar_sky_trail_03d721",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_bangladesh_ufo_sight_dae58b",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_border_ufo_drone_sec_f75851",
+        "to": "Bangladesh_fa6c37_bangladesh_ufo_sight_dae58b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_border_ufo_drone_sec_f75851",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_coxs_bazar_sky_trail_03d721",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_regional_ufo_pattern_1823f7",
+        "to": "Bangladesh_fa6c37_bangladesh_ufo_sight_dae58b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_regional_ufo_pattern_1823f7",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

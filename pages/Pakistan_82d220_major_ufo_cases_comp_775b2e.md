@@ -1,0 +1,948 @@
+---
+level: 2
+basename: Pakistan_82d220_major_ufo_cases_comp_775b2e
+parent_basename: Pakistan_82d220
+child_basenames: []
+sibling_basenames:
+- Pakistan_82d220_likely_ufo_explanati_01bddc
+- Pakistan_82d220_missing_ufo_records_34e877
+- Pakistan_82d220_pilot_sightings_avia_38e6b6
+tags:
+- pakistan
+- major-cases
+keywords:
+- pakistan
+- major-cases
+affiliate_category: pakistan
+show_ads: true
+description: Pakistan's best-known cases differ sharply in witness quality, available evidence and the strength of conventional explanations.
+hero_summary: Pakistan's best-known cases differ sharply in witness quality, available evidence and the strength of conventional explanations.
+layout: default
+permalink: /major-cases-22f6be/
+sidebar_expanded_urls:
+- /pakistan/
+nav_short_title: Major Cases
+title: Which Pakistan UFO Cases Hold Up Best?
+title_full: Which Pakistan UFO Cases Hold Up Best?
+display_title_short: Major Cases
+display_title: Major Cases
+heading_title: Which Pakistan UFO Cases Hold Up Best?
+page_heading_title: Which Pakistan UFO Cases Hold Up Best?
+source_count: 37
+infographic_count: 3
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: horizon
+site_typography_tone: technical
+planned_sections:
+- Karachi, Rahim Yar Khan and Islamabad
+- Witnesses, footage and missing records
+- Resolved, plausible and still unresolved
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: example_portfolio
+search_intent: comparison
+content_role: branch_hub
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
+  topics: Topics
+  explore_another_branch: Explore another branch
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-18 19:47:09'
+parent_title: Pakistan
+parent_permalink: /pakistan/
+parent_nav_short_title: Pakistan
+parent_heading_title: What Really Flies Unidentified Over Pakistan?
+ancestor_links:
+- basename: Pakistan_82d220
+  title: Pakistan
+  permalink: /pakistan/
+  short_title: Pakistan
+breadcrumb_links:
+- basename: Pakistan_82d220
+  title: Pakistan
+  permalink: /pakistan/
+  short_title: Pakistan
+sibling_links:
+- basename: Pakistan_82d220_likely_ufo_explanati_01bddc
+  title: Explanations | What Really Flies Unidentified Over Pakistan?
+  permalink: /explanations-c6c2f0/
+  short_title: Explanations
+  heading_title: What Pakistan's UFOs Most Likely Were
+- basename: Pakistan_82d220_missing_ufo_records_34e877
+  title: Missing Records | What Really Flies Unidentified Over Pakistan?
+  permalink: /missing-records-ac8e00/
+  short_title: Missing Records
+  heading_title: Why Pakistan's UFO Cases Stay Unresolved
+- basename: Pakistan_82d220_pilot_sightings_avia_38e6b6
+  title: Pilot Reports | What Really Flies Unidentified Over Pakistan?
+  permalink: /pilot-reports/
+  short_title: Pilot Reports
+  heading_title: When Pilots See UFOs Over Pakistan
+up_link:
+  basename: Pakistan_82d220
+  title: Pakistan
+  permalink: /pakistan/
+  short_title: Pakistan
+has_inline_related_reports_panel: true
+prev_link:
+  basename: Pakistan_82d220_likely_ufo_explanati_01bddc
+  title: Explanations | What Really Flies Unidentified Over Pakistan?
+  permalink: /explanations-c6c2f0/
+  short_title: Explanations
+  heading_title: What Pakistan's UFOs Most Likely Were
+next_link:
+  basename: Pakistan_82d220_missing_ufo_records_34e877
+  title: Missing Records | What Really Flies Unidentified Over Pakistan?
+  permalink: /missing-records-ac8e00/
+  short_title: Missing Records
+  heading_title: Why Pakistan's UFO Cases Stay Unresolved
+header:
+  og_image: /assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-1-social.jpg
+  preview_image: /assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-1.webp
+image: /assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Pakistan]({{ 'pakistan/' | relative_url }})'s most widely discussed UFO cases are surprisingly few, and they vary greatly in evidential strength. Rather than forming a consistent pattern, the country's best-known reports range from a likely drone encounter near Karachi to a pilot-recorded bright object over Rahim Yar Khan and a lengthy civilian video of a dark object above Islamabad. None has been supported by publicly released radar data, official investigative reports or multiple independent sensor systems. That makes comparison more useful than treating each incident in isolation. When the available evidence is weighed against the quality of witnesses, imagery and plausible conventional [explanations]({{ 'explanations-c6c2f0/' | relative_url }}), the Pakistani record is better understood as a series of unresolved observational events than as evidence for extraordinary technology.
+
+
+
+<img src="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-1-dark.svg" | relative_url }}" alt="Major Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+## Which Pakistani cases are the strongest?
+
+### Karachi (2019): the aviation safety case
+
+The January 2019 incident near Karachi stands apart because it was immediately treated as an aviation safety issue rather than a mystery. A Pakistan International Airlines crew reported an object passing dangerously close to their aircraft shortly after departure, prompting communication with air traffic control. Contemporary reporting described the captain's own suspicion that the object was an unauthorised drone rather than an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-title">UFO sighting</span><span class="citation-popover-snippet">UFO sighting - Newspaper - DAWN.COMFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
+
+Compared with later Pakistani UFO stories, this case benefits from:
+
+
+
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/pakistan/' | relative_url }}"><span class="article-branch-link-short">Pakistan</span><span class="article-branch-link-heading">What Really Flies Unidentified Over Pakistan?</span></a></li>
+<li><a href="{{ '/missing-records-ac8e00/' | relative_url }}"><span class="article-branch-link-short">Missing Records</span><span class="article-branch-link-heading">Why Pakistan&#x27;s UFO Cases Stay Unresolved</span></a></li>
+<li><a href="{{ '/pilot-reports/' | relative_url }}"><span class="article-branch-link-short">Pilot Reports</span><span class="article-branch-link-heading">When Pilots See UFOs Over Pakistan</span></a></li>
+<li><a href="{{ '/explanations-c6c2f0/' | relative_url }}"><span class="article-branch-link-short">Explanations</span><span class="article-branch-link-heading">What Pakistan&#x27;s UFOs Most Likely Were</span></a></li>
+</ul>
+</section>
+<section class="related-reports-section related-reports-section-explore">
+<h3>Explore another branch</h3>
+<ul>
+<li><a href="{{ '/major-cases-b8a12e/' | relative_url }}"><span class="article-branch-link-short">Major Cases</span><span class="article-branch-link-heading">Which North Macedonia UFO Cases Still Defy Explanation?</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Professional flight crew witnesses.
+* A report made during flight operations.
+* A clearly defined time and location.
+* A practical aviation context.
+
+</div>
+
+However, it lacks publicly released radar recordings, photographs or technical investigation files. Because the reported behaviour fits the profile of a nearby drone far better than an object demonstrating unusual performance, the conventional explanation remains considerably stronger than any extraordinary interpretation.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sZqZS-JqV6w" title="UFO! I saw it with my own eyes..." loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sZqZS-JqV6w" target="_blank" rel="noopener noreferrer">UFO! I saw it with my own eyes...</a></p><p class="youtube-embed-meta">Channel: Zem TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sZqZS-JqV6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sZqZS-JqV6w">Open on YouTube</a></p></div></div></div>
+
+### Rahim Yar Khan (2021): the best-known pilot sighting
+
+The January 2021 Rahim Yar Khan event became Pakistan's most famous UFO report after PIA pilots photographed and filmed an intensely bright object during a Karachi-to-Lahore flight at cruising altitude. Airline representatives confirmed that the crew had reported an unidentified object through normal procedures, while local residents also claimed to have seen a bright object around the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geo.tv/amp/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new video revealsJanuary 27, 2021...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+
+This case is stronger than many internet UFO claims because:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* The principal witnesses were experienced commercial pilots.
+* Images and short video clips were released publicly.
+* The event was acknowledged by the airline rather than originating solely from anonymous social media.
+
+</div>
+
+At the same time, important weaknesses remain:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Only limited video footage is available.
+* No publicly released radar information accompanies the sighting.
+* Distance, altitude and actual size cannot be reliably determined from the imagery.
+* The object's movement relative to the aircraft cannot be reconstructed with confidence.
+
+</div>
+
+Independent sceptical analyses have suggested that a high-altitude balloon is a plausible explanation because the aircraft's own motion can create the impression that a distant stationary object is moving dramatically. Without original flight data or complete cockpit recordings, neither the balloon hypothesis nor any alternative can be confirmed decisively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/pia-pilot-reports-seeing-ufo-in-pakistans-airspace.11615/post-245813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace &#124; Metabunk</span><span class="citation-popover-snippet">PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace &#124; MetabunkFebruary 14, 2021...</span><span class="citation-popover-meta">Published: February 14, 2021</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaQ6ZWp6QFY" title="UFOs Sighted Over Pakistan | The Proof Is Out There (Season 4) | History" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 4:58">4:58</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaQ6ZWp6QFY" target="_blank" rel="noopener noreferrer">UFOs Sighted Over Pakistan | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 216.4K &middot; Uploaded: December 2024 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaQ6ZWp6QFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaQ6ZWp6QFY">Open on YouTube</a></p></div></div></div>
+
+### Islamabad (2022): the longest civilian recording
+
+The Islamabad case differs substantially from the aviation reports. A resident recorded more than twelve minutes of video showing a dark object apparently hovering over the city for an extended period after first noticing it while operating a drone. The footage attracted international attention because of its unusually long duration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://propakistani.pk/2022/02/23/dha-resident-spots-ufo-over-islamabad-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: propakistani.pk">[ProPakistani]</a><span class="citation-popover" role="note"><span class="citation-popover-source">propakistani.pk</span><span class="citation-popover-title">Pro Pakistani DHA Resident Spots UFO Over Islamabad [Video</span><span class="citation-popover-snippet">DHA Resident Spots UFO Over Islamabad [Video]February 23, 2022...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+
+Unlike the Rahim Yar Khan event, however, this case relies almost entirely on civilian imagery rather than aviation witnesses.
+
+Several ordinary explanations have been proposed, including:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A kite.
+* A balloon.
+* A distant object with unusual perspective effects.
+* An unidentified aerial platform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odni.gov">[odni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+</div>
+
+The video's duration alone does not make the case stronger. Long recordings can still contain insufficient information if there is no reliable estimate of range, wind conditions or object size. Analysts also noted the absence of numerous independent recordings despite claims that the object remained visible for hours over a populated urban area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://propakistani.pk/2022/02/23/dha-resident-spots-ufo-over-islamabad-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: propakistani.pk">[propakistani.pk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">propakistani.pk</span><span class="citation-popover-title">Pro Pakistani DHA Resident Spots UFO Over Islamabad [Video</span><span class="citation-popover-snippet">DHA Resident Spots UFO Over Islamabad [Video]February 23, 2022...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-2-dark.svg" | relative_url }}" alt="Major Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Comparing witnesses, imagery and available evidence
+
+The three principal Pakistani cases illustrate why witness quality and evidence quality are not the same thing.
+
+IncidentMain witnessesPublic imageryOfficial documentationMost likely current assessmentKarachi (2019)Commercial pilotsNone publicly releasedLimited reporting onlyProbably a drone or similar conventional objectRahim Yar Khan (2021)Commercial pilotsPhotographs and short videoAirline acknowledgement but no technical reportGenuinely unidentified from available evidence, with balloon among plausible explanationsIslamabad (2022)Civilian observerLong videoNo official investigation releasedInteresting footage but insufficient evidence for firm identification
+
+The Rahim Yar Khan incident remains the strongest of the three because it combines trained witnesses with recorded imagery. Nevertheless, it still falls well short of the evidential standard needed to establish an extraordinary aerial phenomenon.
+
+## Why none of the cases reaches a firm conclusion
+
+Several recurring limitations appear across Pakistan's most prominent UFO reports.
+
+**Missing sensor data.** None of the cases is accompanied by publicly released radar tracks, military sensor information or detailed air traffic records that would permit independent reconstruction.
+
+**Incomplete imagery.** Publicly available videos are compressed, relatively short or lack sufficient contextual information to estimate distance and speed accurately.
+
+**No published technical investigations.** Unlike countries with dedicated civilian reporting programmes, Pakistan has no publicly accessible body regularly publishing detailed analyses of unidentified aerial incidents.
+
+**Perspective problems.** Distant balloons, drones, kites and atmospheric effects can all appear highly unusual when viewed from aircraft or through high zoom levels, especially without multiple viewing angles.
+
+These limitations explain why several cases remain formally "unidentified" while still having entirely plausible conventional explanations.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6AhefTaCIxI" title="UFO spotted by Pakistani pilots near Rahim Yar Khan" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 0:48">0:48</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6AhefTaCIxI" target="_blank" rel="noopener noreferrer">UFO spotted by Pakistani pilots near Rahim Yar Khan</a></p><p class="youtube-embed-meta">Channel: Dubai News &middot; Views: 3.8K &middot; Uploaded: January 2021 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6AhefTaCIxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6AhefTaCIxI">Open on YouTube</a></p></div></div></div>
+
+## Resolved, plausible and still unresolved
+
+A useful comparison is to separate the cases by evidential status rather than by publicity.
+
+**Most plausibly explained**
+
+* **Karachi (2019):** available reporting strongly favours an unauthorised drone or similar conventional object creating an aviation hazard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-title">UFO sighting</span><span class="citation-popover-snippet">UFO sighting - Newspaper - DAWN.COMFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
+
+**Plausible conventional explanation but not demonstrated**
+
+* **Rahim Yar Khan (2021):** a balloon or other reflective high-altitude object remains a credible explanation, although publicly available evidence cannot conclusively identify it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geo.tv/amp/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new video revealsJanuary 27, 2021...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+* **Islamabad (2022):** kite, balloon and perspective-based interpretations remain viable, but no definitive identification has been established from the released footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://propakistani.pk/2022/02/23/dha-resident-spots-ufo-over-islamabad-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: propakistani.pk">[ProPakistani]</a><span class="citation-popover" role="note"><span class="citation-popover-source">propakistani.pk</span><span class="citation-popover-title">Pro Pakistani DHA Resident Spots UFO Over Islamabad [Video</span><span class="citation-popover-snippet">DHA Resident Spots UFO Over Islamabad [Video]February 23, 2022...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+
+**Still unresolved in the narrow sense**
+
+All three incidents remain unresolved only because the publicly available evidence is incomplete. None currently demonstrates flight characteristics that clearly exceed known aircraft, drones or atmospheric phenomena, and none has been supported by official documentation showing extraordinary performance.
+
+
+
+<img src="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-3-dark.svg" | relative_url }}" alt="Major Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_major_ufo_cases_comp_775b2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## What these comparisons reveal about Pakistan's UFO record
+
+Viewed together, Pakistan's major UFO incidents reveal less about unidentified craft than about the challenges of investigating unusual aerial observations. The country's most discussed reports consistently involve either experienced aviation witnesses with incomplete technical evidence or civilian videos lacking independent corroboration. This combination produces genuine uncertainty without providing persuasive evidence for exotic explanations.
+
+For that reason, the Rahim Yar Khan sighting remains Pakistan's most significant unresolved aerial observation from an evidential standpoint, the Karachi event is best interpreted as an aviation safety incident with a likely conventional cause, and the Islamabad footage remains an interesting but weakly documented visual observation whose true nature cannot be established from the material currently available.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Pakistan UFO Cases Hold Up Best?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
+        
+<p class="fr-book-desc">An award-winning journalist investigates a story largely ignored by mainstream media but right there, in front of our eyes ... UFOs, UAPs...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
+        
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward Ruppelt</p>
+        
+<p class="fr-book-desc">Book Excerpt: ing can never be positively identified. It might have been a hallucination or it might have been some vehicle from outer sp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">UFO wall art</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/800105862633?_skw=ufo+wall+art&amp;hash=itemba4a0695e9%3Ag%3AVQ8AAeSwE2Fp1m0Y&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/800105862633?_skw=ufo+wall+art&amp;hash=itemba4a0695e9%3Ag%3AVQ8AAeSwE2Fp1m0Y&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 156.70 | Shipping GBP 3.38</span><span>Used</span><span>Seller: siry 17 (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/800105862633?_skw=ufo+wall+art&amp;hash=itemba4a0695e9%3Ag%3AVQ8AAeSwE2Fp1m0Y&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/356866135406?_skw=ufo+wall+art&amp;hash=item5316e1156e%3Ag%3AQgIAAOSwbUdoGhmi&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGa%2F0g%2FAKTOTbOR2sQqfDLlNUyBhFh1Knd6p4qEZ947qs5MbXjXOLhNgWEeyVBor6lTo42LUL050uEudeiWd18tgtHSCNm1jAq%2FDAROKU7tKU0ztBgAiYsBGVJTcw2ysfgeV9ljw248dzLxZ3TT3NrS%2FB0EJpa%2BcCk4vmLQ8hADpIkQTPD9sUefbov0CvkK9nftQar9SIw9UI8NRJXhiVOGCspugGrDpO8ByuO%2BYhQx8H7pbvR95FWnu3%2FhvO2%2FSMtF8X1PYUsN7bH6Oy0CxKvCf&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/356866135406?_skw=ufo+wall+art&amp;hash=item5316e1156e%3Ag%3AQgIAAOSwbUdoGhmi&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGa%2F0g%2FAKTOTbOR2sQqfDLlNUyBhFh1Knd6p4qEZ947qs5MbXjXOLhNgWEeyVBor6lTo42LUL050uEudeiWd18tgtHSCNm1jAq%2FDAROKU7tKU0ztBgAiYsBGVJTcw2ysfgeV9ljw248dzLxZ3TT3NrS%2FB0EJpa%2BcCk4vmLQ8hADpIkQTPD9sUefbov0CvkK9nftQar9SIw9UI8NRJXhiVOGCspugGrDpO8ByuO%2BYhQx8H7pbvR95FWnu3%2FhvO2%2FSMtF8X1PYUsN7bH6Oy0CxKvCf&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 89.99 | Free shipping</span><span>New</span><span>Seller: canvas monkey (99.8% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/356866135406?_skw=ufo+wall+art&amp;hash=item5316e1156e%3Ag%3AQgIAAOSwbUdoGhmi&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGa%2F0g%2FAKTOTbOR2sQqfDLlNUyBhFh1Knd6p4qEZ947qs5MbXjXOLhNgWEeyVBor6lTo42LUL050uEudeiWd18tgtHSCNm1jAq%2FDAROKU7tKU0ztBgAiYsBGVJTcw2ysfgeV9ljw248dzLxZ3TT3NrS%2FB0EJpa%2BcCk4vmLQ8hADpIkQTPD9sUefbov0CvkK9nftQar9SIw9UI8NRJXhiVOGCspugGrDpO8ByuO%2BYhQx8H7pbvR95FWnu3%2FhvO2%2FSMtF8X1PYUsN7bH6Oy0CxKvCf&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/356834691150?_skw=ufo+wall+art&amp;hash=item531501484e%3Ag%3Aqw4AAOSwrxJoDssb&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaWiir5Meg72SzqqyNgUxXW80dxq7LdI2opMDyUA%2FsQJN3MRGi%2FxIk%2FEvIY2BaEPezHULlE7a4O8sqPrCWLFrElZlMmi333dwcloGZAS1%2FtJGiOruOwornKHfQxlWj9vocB3vO4BI50J079VD3J8pmMnxkPIzDT0SVG7iyIt143%2BaHDCfFNhET%2B7GGOnYnDhnWS9K777Ianz5x7z64r59TVn8T24MOwM2HDd6P8qmPxYPtm4GTPYriFj4lB2r5A5Fe0PsipvDak3HQaPTAJhRfh&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/356834691150?_skw=ufo+wall+art&amp;hash=item531501484e%3Ag%3Aqw4AAOSwrxJoDssb&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaWiir5Meg72SzqqyNgUxXW80dxq7LdI2opMDyUA%2FsQJN3MRGi%2FxIk%2FEvIY2BaEPezHULlE7a4O8sqPrCWLFrElZlMmi333dwcloGZAS1%2FtJGiOruOwornKHfQxlWj9vocB3vO4BI50J079VD3J8pmMnxkPIzDT0SVG7iyIt143%2BaHDCfFNhET%2B7GGOnYnDhnWS9K777Ianz5x7z64r59TVn8T24MOwM2HDd6P8qmPxYPtm4GTPYriFj4lB2r5A5Fe0PsipvDak3HQaPTAJhRfh&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.99 | Free shipping</span><span>New</span><span>Seller: canvas monkey (99.8% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/356834691150?_skw=ufo+wall+art&amp;hash=item531501484e%3Ag%3Aqw4AAOSwrxJoDssb&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaWiir5Meg72SzqqyNgUxXW80dxq7LdI2opMDyUA%2FsQJN3MRGi%2FxIk%2FEvIY2BaEPezHULlE7a4O8sqPrCWLFrElZlMmi333dwcloGZAS1%2FtJGiOruOwornKHfQxlWj9vocB3vO4BI50J079VD3J8pmMnxkPIzDT0SVG7iyIt143%2BaHDCfFNhET%2B7GGOnYnDhnWS9K777Ianz5x7z64r59TVn8T24MOwM2HDd6P8qmPxYPtm4GTPYriFj4lB2r5A5Fe0PsipvDak3HQaPTAJhRfh&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/365987565028?_skw=ufo+wall+art&amp;hash=item55368f0de4%3Ag%3AMqgAAeSwRFppFyDh&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaeDp4rRYnOD8v6MMeVbVP3WzpR5%2FeFuIaPJv%2B7ECS2eOvI0LJPqyjWH8ZJQJruIy0WyRqVdc7zji%2BlaBNPyNskK2HdWxeCjzoUzwcmQg2k5Lxt--4ID0jDRfkcWRt1zuJzbljxgLGvfI8mAdYYP3RVFHFMqfB%2FQmDz7dNBLLTcmaWXWqK6pjHNe93uMWYqjRIdRyn%2BjDJKURZnMFQywRuaRsmj4oeE3iir8rpG28i%2FYBGKTZdGi8SPaicgEgHXH1R%2FBJm7jNgFi8n0aO0MplqF&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/365987565028?_skw=ufo+wall+art&amp;hash=item55368f0de4%3Ag%3AMqgAAeSwRFppFyDh&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaeDp4rRYnOD8v6MMeVbVP3WzpR5%2FeFuIaPJv%2B7ECS2eOvI0LJPqyjWH8ZJQJruIy0WyRqVdc7zji%2BlaBNPyNskK2HdWxeCjzoUzwcmQg2k5Lxt--4ID0jDRfkcWRt1zuJzbljxgLGvfI8mAdYYP3RVFHFMqfB%2FQmDz7dNBLLTcmaWXWqK6pjHNe93uMWYqjRIdRyn%2BjDJKURZnMFQywRuaRsmj4oeE3iir8rpG28i%2FYBGKTZdGi8SPaicgEgHXH1R%2FBJm7jNgFi8n0aO0MplqF&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.50 | Shipping GBP 5.15</span><span>Used</span><span>Seller: robar 499043 (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/365987565028?_skw=ufo+wall+art&amp;hash=item55368f0de4%3Ag%3AMqgAAeSwRFppFyDh&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaeDp4rRYnOD8v6MMeVbVP3WzpR5%2FeFuIaPJv%2B7ECS2eOvI0LJPqyjWH8ZJQJruIy0WyRqVdc7zji%2BlaBNPyNskK2HdWxeCjzoUzwcmQg2k5Lxt--4ID0jDRfkcWRt1zuJzbljxgLGvfI8mAdYYP3RVFHFMqfB%2FQmDz7dNBLLTcmaWXWqK6pjHNe93uMWYqjRIdRyn%2BjDJKURZnMFQywRuaRsmj4oeE3iir8rpG28i%2FYBGKTZdGi8SPaicgEgHXH1R%2FBJm7jNgFi8n0aO0MplqF&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="major-cases-22f6be-which-pakistan-ufo-cases-hold-up-best-pakistan-ufo-wall-art-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: dawn.com  
+   Title: UFO sighting  
+   Link:<a href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1606902</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting - Newspaper - DAWN.COMFebruary 12, 2021...</p></details>
+   Published: February 12, 2021  
+
+2.<a id="endnote-2"></a>
+   Source: geo.tv  
+   Title: News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals  
+   Link:<a href="https://www.geo.tv/amp/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/amp/332053-pia-pilots-see-ufo-on-domestic-flight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new video revealsJanuary 27, 2021...</p></details>
+   Published: January 27, 2021  
+
+3.<a id="endnote-3"></a>
+   Source: metabunk.org  
+   Title: PIA [pilot Reports](&#123;&#123; 'pilot-reports/' | relative_url &#125;&#125;) Seeing UFO In Pakistan's Airspace | Metabunk  
+   Link:<a href="https://www.metabunk.org/threads/pia-pilot-reports-seeing-ufo-in-pakistans-airspace.11615/post-245813" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pia-pilot-reports-seeing-ufo-in-pakistans-airspace.11615/post-245813</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace | MetabunkFebruary 14, 2021...</p></details>
+   Published: February 14, 2021  
+
+4.<a id="endnote-4"></a>
+   Source: propakistani.pk  
+   Title: Pro Pakistani DHA Resident Spots UFO Over Islamabad [Video]  
+   Link:<a href="https://propakistani.pk/2022/02/23/dha-resident-spots-ufo-over-islamabad-video/" target="_blank" rel="noopener noreferrer nofollow">https://propakistani.pk/2022/02/23/dha-resident-spots-ufo-over-islamabad-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DHA Resident Spots UFO Over Islamabad [Video]February 23, 2022...</p></details>
+   Published: February 23, 2022  
+
+5.<a id="endnote-5"></a>
+   Source: ndtv.com  
+   Title: www.ndtv.com Video: Mysterious "Triangle UFO" Spotted Over Islamabad  
+   Link:<a href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082</a>  
+
+6.<a id="endnote-6"></a>
+   Source: dawn.com  
+   Title: Foo fighters  
+   Link:<a href="https://www.dawn.com/news/1767576" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1767576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper - DAWN.COMJuly 31, 2023 — FOO FIGHTERS Editorial Published July 31, 2023 comments Whatsapp Channel Add Dawn as a trusted source...</p></details>
+   Published: July 31, 2023  
+
+7.<a id="endnote-7"></a>
+   Source: ndtv.com  
+   Title: Mysterious "Triangle UFO" Spotted In Islamabad Skies  
+   Link:<a href="https://www.ndtv.com/video/mysterious-triangle-shaped-ufo-seen-in-the-sky-of-islamabad-621695" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/video/mysterious-triangle-shaped-ufo-seen-in-the-sky-of-islamabad-621695</a>  
+
+8.<a id="endnote-8"></a>
+   Source: metabunk.org  
+   Title: PI A pilot Reports Seeing UFO In Pakistan's Airspace | Metabunk  
+   Link:<a href="https://www.metabunk.org/threads/pia-pilot-reports-seeing-ufo-in-pakistans-airspace.11615/post-245804" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pia-pilot-reports-seeing-ufo-in-pakistans-airspace.11615/post-245804</a>  
+
+9.<a id="endnote-9"></a>
+   Source: geo.tv  
+   Title: 332468 false alarm pia pilot mistook saucer like cloud for a ufo  
+   Link:<a href="https://www.geo.tv/latest/332468-false-alarm-pia-pilot-mistook-saucer-like-cloud-for-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332468-false-alarm-pia-pilot-mistook-saucer-like-cloud-for-a-ufo</a>  
+
+10.<a id="endnote-10"></a>
+   Source: dawn.com  
+   Title: ‘Extraordinary’ object spotted in sky: PIA  
+   Link:<a href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1604030</a>  
+
+11.<a id="endnote-11"></a>
+   Source: geo.tv  
+   Title: UF O spotted by Pakistani pilots near Rahim Yar Khan, new video reveals  
+   Link:<a href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight</a>  
+
+12.<a id="endnote-12"></a>
+   Source: propakistani.pk  
+   Title: PI A Pilot Spots a UFO Next to His Aircraft in Karachi  
+   Link:<a href="https://propakistani.pk/2019/01/19/pia-pilot-spots-a-ufo-above-his-aircraft-in-karachi/" target="_blank" rel="noopener noreferrer nofollow">https://propakistani.pk/2019/01/19/pia-pilot-spots-a-ufo-above-his-aircraft-in-karachi/</a>  
+
+### Additional References
+
+13.<a id="endnote-13"></a>
+   Source: leadstories.com  
+   Link:<a href="https://leadstories.com/hoax-alert/2026/05/fact-check-video-of-flying-egg-shaped-object-does-not-come-from-pentagon-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://leadstories.com/hoax-alert/2026/05/fact-check-video-of-flying-egg-shaped-object-does-not-come-from-pentagon-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2026 — FACT CHECK: VIDEO OF FLYING EGG-SHAPED OBJECT DOES NOT COME FROM FIRST PENTAGON RELEASE OF UFO FILES FACT CHECK * May 15...</p></details>
+   Published: May 15, 2026  
+
+14.<a id="endnote-14"></a>
+   Source: leadstories.com  
+   Link:<a href="https://leadstories.com/hoax-alert/2022/08/fact-check-video-of-ufo-escorted-by-2-jets-not-real-cgi-effects.html" target="_blank" rel="noopener noreferrer nofollow">https://leadstories.com/hoax-alert/2022/08/fact-check-video-of-ufo-escorted-by-2-jets-not-real-cgi-effects.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 3, 2022 — FACT CHECK: VIDEO OF UFO ESCORTED BY 2 JETS IS NOT REAL -- CGI EFFECTS FOR ENTERTAINMENT FACT CHECK * Aug 3, 2022 * by...</p></details>
+   Published: August 3, 2022  
+
+15.<a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: UFOs Sighted Over Pakistan | The Proof Is Out There (Season 4) | History  
+   Link:<a href="https://www.youtube.com/watch?v=uaQ6ZWp6QFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uaQ6ZWp6QFY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted by Pakistani pilots near Rahim Yar Khan[https://www.youtube.com/watch?v=6AhefTaCIxI](https://www.youtube.com/watch?v=6AhefTaCIxI) timesofindia.indiatimes.com...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: odni.gov  
+   Link:<a href="https://www.odni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+
+17.<a id="endnote-17"></a>
+   Source: rt.com  
+   Link:<a href="https://www.rt.com/news/513822-pilots-ufo-pakistan-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/513822-pilots-ufo-pakistan-video/</a>  
+
+18.<a id="endnote-18"></a>
+   Source: indiatoday.in  
+   Link:<a href="https://www.indiatoday.in/world/story/ufo-video-object-islamabad-skies-leave-internet-abuzz-watch-1916838-2022-02-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiatoday.in/world/story/ufo-video-object-islamabad-skies-leave-internet-abuzz-watch-1916838-2022-02-23/</a>  
+
+19.<a id="endnote-19"></a>
+   Source: mod.gov.pk  
+   Link:<a href="https://www.mod.gov.pk/Detail/NTc2ZDUxZDMtNjY1NC00YTM3LTgzNTYtNzA4ZGFiMjBiZmNl" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.pk/Detail/NTc2ZDUxZDMtNjY1NC00YTM3LTgzNTYtNzA4ZGFiMjBiZmNl</a>  
+
+21.<a id="endnote-21"></a>
+   Source: en.dailypakistan.com.pk  
+   Link:<a href="https://en.dailypakistan.com.pk/30-Jan-2021/pia-pilot-mistook-lenticular-cloud-with-ufo-says-pu-professor" target="_blank" rel="noopener noreferrer nofollow">https://en.dailypakistan.com.pk/30-Jan-2021/pia-pilot-mistook-lenticular-cloud-with-ufo-says-pu-professor</a>  
+
+22.<a id="endnote-22"></a>
+   Source: meaww.com  
+   Title: Aliens in Pakistan? 'Bulging triangle UFO' filmed over Islamabad for 2 hours  
+   Link:<a href="https://meaww.com/a-suspicious-object-spotted-city-of-islamabad-might-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://meaww.com/a-suspicious-object-spotted-city-of-islamabad-might-be-a-ufo</a>  
