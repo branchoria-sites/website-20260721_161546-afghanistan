@@ -441,23 +441,6 @@ That approach does not dismiss witness testimony. Instead, it reflects the avail
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-
-        <p class="fr-book-desc">Helps identify bright sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -468,6 +451,40 @@ That approach does not dismiss witness testimony. Instead, it reflects the avail
         <p class="fr-book-desc">Explains common misidentifications in the sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bad+Astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites: A Petrologic, Chemical and Isotopic Synthesis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites: A Petrologic, Chemical and Isotopic Synthesis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Petrologic, Chemical and Isotopic Synthesis">Meteorites: A Petrologic, Chemical and Isotopic Synthesis</a>
+        </h4>
+        <p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
+
+        <p class="fr-book-desc">Directly addresses meteorite falls and fireballs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch: A Practical Guide to Viewing the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch: A Practical Guide to Viewing the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch: A Practical Guide to Viewing the Universe">NightWatch: A Practical Guide to Viewing the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+
+        <p class="fr-book-desc">Helps identify bright sky events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -490,26 +507,9 @@ That approach does not dismiss witness testimony. Instead, it reflects the avail
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis+Robert+Hutchison%2C+Andrew+Graham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites: A Petrologic, Chemical and Isotopic Synthesis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites: A Petrologic, Chemical and Isotopic Synthesis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis+Robert+Hutchison%2C+Andrew+Graham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Petrologic, Chemical and Isotopic Synthesis">Meteorites: A Petrologic, Chemical and Isotopic Synthesis</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
-
-        <p class="fr-book-desc">Directly addresses meteorite falls and fireballs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis+Robert+Hutchison%2C+Andrew+Graham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space: Meteorites and Meteorite Hunters</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites%3A+A+Petrologic%2C+Chemical+and+Isotopic+Synthesis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites: A Petrologic, Chemical and Isotopic Synthesis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+to+Viewing+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch: A Practical to Viewing the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

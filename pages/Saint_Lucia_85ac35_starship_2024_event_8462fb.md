@@ -516,16 +516,16 @@ Far from weakening UFO research, this approach strengthens it by separating well
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reentry+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reentry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14569121-M.jpg" alt="Cover for Reentry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reentry%3A+SpaceX%2C+Elon+Musk%2C+and+the+Reusable+Rockets+that+Launched+a+Second+Space+Age+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14569121-M.jpg" alt="Cover for Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reentry+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reentry">Reentry</a>
+          <a href="https://www.amazon.com/s?k=Reentry%3A+SpaceX%2C+Elon+Musk%2C+and+the+Reusable+Rockets+that+Launched+a+Second+Space+Age+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age">Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Lau...</a>
         </h4>
         <p class="fr-book-author">By Eric Berger</p>
 
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reentry+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Reentry%3A+SpaceX%2C+Elon+Musk%2C+and+the+Reusable+Rockets+that+Launched+a+Second+Space+Age+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
