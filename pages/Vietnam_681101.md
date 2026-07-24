@@ -210,12 +210,12 @@ description: 'Vietnam has a small but unusually varied UFO record: wartime milit
 hero_summary: 'Vietnam has a small but unusually varied UFO record: wartime military logs, disputed combat stories, civilian photographs and videos, an unexplained mid-air explosion over Phu Quoc, and objects initially described as mysterious before being identified as probable space debris. The central finding is less dramatic than many online retellings suggest.'
 layout: default
 permalink: /what-really-happened-in-vietnams-ufo/
-nav_short_title: What Really Happened in Vietnam's UFO Cases?
+nav_short_title: "The Gaps in Viet Nam's UFO Record"
 title: "The Gaps in Viet Nam's UFO Record"
-title_full: What Really Happened in Vietnam's UFO Cases?
-display_title_short: What Really Happened in Vietnam's UFO Cases?
+title_full: "The Gaps in Viet Nam's UFO Record"
+display_title_short: "The Gaps in Viet Nam's UFO Record"
 display_title: "The Gaps in Viet Nam's UFO Record"
-heading_title: What Really Happened in Vietnam's UFO Cases?
+heading_title: "The Gaps in Viet Nam's UFO Record"
 page_heading_title: "The Gaps in Viet Nam's UFO Record"
 source_count: 112
 infographic_count: 3

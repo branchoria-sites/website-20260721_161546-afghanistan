@@ -210,12 +210,12 @@ description: Iceland’s UFO history is best understood as a record of reported 
 hero_summary: Iceland’s UFO history is best understood as a record of reported unusual observations rather than a catalogue of confirmed extraterrestrial events.
 layout: default
 permalink: /what-really-happened-in-icelands-ufo/
-nav_short_title: What Really Happened in Iceland's UFO Stories?
+nav_short_title: "Inside the UFO Record of Iceland"
 title: "Inside the UFO Record of Iceland"
-title_full: What Really Happened in Iceland's UFO Stories?
-display_title_short: What Really Happened in Iceland's UFO Stories?
+title_full: "Inside the UFO Record of Iceland"
+display_title_short: "Inside the UFO Record of Iceland"
 display_title: "Inside the UFO Record of Iceland"
-heading_title: What Really Happened in Iceland's UFO Stories?
+heading_title: "Inside the UFO Record of Iceland"
 page_heading_title: "Inside the UFO Record of Iceland"
 source_count: 73
 infographic_count: 3

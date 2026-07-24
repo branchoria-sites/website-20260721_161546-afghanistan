@@ -210,12 +210,12 @@ description: Eritrea has a small but notable place in the historical record of U
 hero_summary: Eritrea has a small but notable place in the historical record of UFO reports because one of the better-documented early cases from the region occurred near Asmara during the period of British administration after the Second World War.
 layout: default
 permalink: /what-really-happened-in-eritreas-ufo/
-nav_short_title: What Really Happened In Eritrea's UFO Reports?
+nav_short_title: "The Gaps in Eritrea's UFO Record"
 title: "The Gaps in Eritrea's UFO Record"
-title_full: What Really Happened In Eritrea's UFO Reports?
-display_title_short: What Really Happened In Eritrea's UFO Reports?
+title_full: "The Gaps in Eritrea's UFO Record"
+display_title_short: "The Gaps in Eritrea's UFO Record"
 display_title: "The Gaps in Eritrea's UFO Record"
-heading_title: What Really Happened In Eritrea's UFO Reports?
+heading_title: "The Gaps in Eritrea's UFO Record"
 page_heading_title: "The Gaps in Eritrea's UFO Record"
 source_count: 69
 infographic_count: 3

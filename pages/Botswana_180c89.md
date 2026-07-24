@@ -210,12 +210,12 @@ description: Botswana has no well-documented national UFO case supported by auth
 hero_summary: Botswana has no well-documented national UFO case supported by authenticated government files, radar data, physical evidence and independent witness records. Its public record is instead a small, uneven collection of personal sightings, retrospective stories and one internationally circulated crash claim that researchers ultimately treated as a hoax.
 layout: default
 permalink: /what-really-happened-in-botswanas-ufo/
-nav_short_title: What Really Happened in Botswana's UFO Cases?
+nav_short_title: "How Much UFO Evidence Does Botswana Really Have?"
 title: "How Much UFO Evidence Does Botswana Really Have?"
-title_full: What Really Happened in Botswana's UFO Cases?
-display_title_short: What Really Happened in Botswana's UFO Cases?
+title_full: "How Much UFO Evidence Does Botswana Really Have?"
+display_title_short: "How Much UFO Evidence Does Botswana Really Have?"
 display_title: "How Much UFO Evidence Does Botswana Really Have?"
-heading_title: What Really Happened in Botswana's UFO Cases?
+heading_title: "How Much UFO Evidence Does Botswana Really Have?"
 page_heading_title: "How Much UFO Evidence Does Botswana Really Have?"
 source_count: 79
 infographic_count: 3

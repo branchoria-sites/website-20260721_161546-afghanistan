@@ -210,12 +210,12 @@ description: Sri Lanka has a genuine history of UFO reporting, but not a strong 
 hero_summary: Sri Lanka has a genuine history of UFO reporting, but not a strong body of verified UFO evidence. The best-documented episodes are clusters of eyewitness reports from places such as Bandarawela and Polonnaruwa, followed by later nationwide sightings captured on mobile phones.
 layout: default
 permalink: /what-really-happened-in-sri-lankas-ufo/
-nav_short_title: What Really Happened in Sri Lanka's UFO Cases?
+nav_short_title: "Tracing the UFO Reports of Sri Lanka"
 title: "Tracing the UFO Reports of Sri Lanka"
-title_full: What Really Happened in Sri Lanka's UFO Cases?
-display_title_short: What Really Happened in Sri Lanka's UFO Cases?
+title_full: "Tracing the UFO Reports of Sri Lanka"
+display_title_short: "Tracing the UFO Reports of Sri Lanka"
 display_title: "Tracing the UFO Reports of Sri Lanka"
-heading_title: What Really Happened in Sri Lanka's UFO Cases?
+heading_title: "Tracing the UFO Reports of Sri Lanka"
 page_heading_title: "Tracing the UFO Reports of Sri Lanka"
 source_count: 94
 infographic_count: 3

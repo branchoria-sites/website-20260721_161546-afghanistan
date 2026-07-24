@@ -210,12 +210,12 @@ description: Cambodia has no well-documented “classic” UFO case supported by
 hero_summary: Cambodia has no well-documented “classic” UFO case supported by radar data, official photographs, recovered material or a sustained government investigation.
 layout: default
 permalink: /what-really-happened-in-cambodias-ufo/
-nav_short_title: What Really Happened in Cambodia's UFO Cases?
+nav_short_title: "Why Is Cambodia's UFO Record So Thin?"
 title: "Why Is Cambodia's UFO Record So Thin?"
-title_full: What Really Happened in Cambodia's UFO Cases?
-display_title_short: What Really Happened in Cambodia's UFO Cases?
+title_full: "Why Is Cambodia's UFO Record So Thin?"
+display_title_short: "Why Is Cambodia's UFO Record So Thin?"
 display_title: "Why Is Cambodia's UFO Record So Thin?"
-heading_title: What Really Happened in Cambodia's UFO Cases?
+heading_title: "Why Is Cambodia's UFO Record So Thin?"
 page_heading_title: "Why Is Cambodia's UFO Record So Thin?"
 source_count: 106
 infographic_count: 3

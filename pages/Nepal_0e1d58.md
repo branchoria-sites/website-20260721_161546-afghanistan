@@ -210,12 +210,12 @@ description: Nepal has one exceptionally well-documented UFO episode, several mu
 hero_summary: Nepal has one exceptionally well-documented UFO episode, several much thinner reports and no publicly visible national programme devoted to investigating unidentified aerial phenomena. The strongest case occurred in 1968, when fiery objects were reported over eastern and western Nepal and metal debris was recovered near Pokhara.
 layout: default
 permalink: /what-really-happened-in-nepals-ufo-cases/
-nav_short_title: What Really Happened in Nepal's UFO Cases?
+nav_short_title: "From Strange Sightings to Answers in Nepal"
 title: "From Strange Sightings to Answers in Nepal"
-title_full: What Really Happened in Nepal's UFO Cases?
-display_title_short: What Really Happened in Nepal's UFO Cases?
+title_full: "From Strange Sightings to Answers in Nepal"
+display_title_short: "From Strange Sightings to Answers in Nepal"
 display_title: "From Strange Sightings to Answers in Nepal"
-heading_title: What Really Happened in Nepal's UFO Cases?
+heading_title: "From Strange Sightings to Answers in Nepal"
 page_heading_title: "From Strange Sightings to Answers in Nepal"
 source_count: 67
 infographic_count: 3

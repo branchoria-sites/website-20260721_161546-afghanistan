@@ -210,12 +210,12 @@ description: Kuwait’s UFO history is not a long sequence of well-documented en
 hero_summary: 'Kuwait’s UFO history is not a long sequence of well-documented encounters. It is dominated by one unusually significant episode: a cluster of sightings between November 1978 and January 1979 that prompted a government-appointed scientific committee, attracted diplomatic attention and raised concern about oil installations and air defence.'
 layout: default
 permalink: /what-really-happened-in-kuwaits-ufo/
-nav_short_title: What Really Happened in Kuwait's UFO Cases?
+nav_short_title: "Which UFO Claims From Kuwait Hold Up?"
 title: "Which UFO Claims From Kuwait Hold Up?"
-title_full: What Really Happened in Kuwait's UFO Cases?
-display_title_short: What Really Happened in Kuwait's UFO Cases?
+title_full: "Which UFO Claims From Kuwait Hold Up?"
+display_title_short: "Which UFO Claims From Kuwait Hold Up?"
 display_title: "Which UFO Claims From Kuwait Hold Up?"
-heading_title: What Really Happened in Kuwait's UFO Cases?
+heading_title: "Which UFO Claims From Kuwait Hold Up?"
 page_heading_title: "Which UFO Claims From Kuwait Hold Up?"
 source_count: 59
 infographic_count: 3

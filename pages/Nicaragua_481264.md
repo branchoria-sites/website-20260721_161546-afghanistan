@@ -210,12 +210,12 @@ description: 'Nicaragua has a modest but revealing UFO record: a small number of
 hero_summary: 'Nicaragua has a modest but revealing UFO record: a small number of historically traceable incidents, many recent social-media videos, and very little evidence of a sustained national investigation programme.'
 layout: default
 permalink: /what-really-happened-in-nicaraguas-ufo/
-nav_short_title: What Really Happened in Nicaragua's UFO Cases?
+nav_short_title: "Separating Reports From Evidence in Nicaragua"
 title: "Separating Reports From Evidence in Nicaragua"
-title_full: What Really Happened in Nicaragua's UFO Cases?
-display_title_short: What Really Happened in Nicaragua's UFO Cases?
+title_full: "Separating Reports From Evidence in Nicaragua"
+display_title_short: "Separating Reports From Evidence in Nicaragua"
 display_title: "Separating Reports From Evidence in Nicaragua"
-heading_title: What Really Happened in Nicaragua's UFO Cases?
+heading_title: "Separating Reports From Evidence in Nicaragua"
 page_heading_title: "Separating Reports From Evidence in Nicaragua"
 source_count: 123
 infographic_count: 3

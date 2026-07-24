@@ -210,12 +210,12 @@ description: Gabon has a small but notable record of reported UFO (unidentified 
 hero_summary: Gabon has a small but notable record of reported UFO (unidentified flying object) or UAP (unidentified anomalous phenomenon) cases, with the strongest documented example being the 1952 Port-Gentil sighting.
 layout: default
 permalink: /what-really-happened-in-gabons-ufo-cases/
-nav_short_title: What Really Happened in Gabon's UFO Cases?
+nav_short_title: "How Much UFO Evidence Does Gabon Really Have?"
 title: "How Much UFO Evidence Does Gabon Really Have?"
-title_full: What Really Happened in Gabon's UFO Cases?
-display_title_short: What Really Happened in Gabon's UFO Cases?
+title_full: "How Much UFO Evidence Does Gabon Really Have?"
+display_title_short: "How Much UFO Evidence Does Gabon Really Have?"
 display_title: "How Much UFO Evidence Does Gabon Really Have?"
-heading_title: What Really Happened in Gabon's UFO Cases?
+heading_title: "How Much UFO Evidence Does Gabon Really Have?"
 page_heading_title: "How Much UFO Evidence Does Gabon Really Have?"
 source_count: 71
 infographic_count: 3

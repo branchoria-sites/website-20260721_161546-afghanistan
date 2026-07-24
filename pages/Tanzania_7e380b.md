@@ -210,12 +210,12 @@ description: Tanzania has one historically significant UFO case, a small number 
 hero_summary: Tanzania has one historically significant UFO case, a small number of poorly documented modern reports, and no publicly identifiable national programme devoted specifically to unidentified anomalous phenomena.
 layout: default
 permalink: /what-really-happened-in-tanzanias-skies/
-nav_short_title: What Really Happened in Tanzania's Skies?
+nav_short_title: "How Much UFO Evidence Does Tanzania Really Have?"
 title: "How Much UFO Evidence Does Tanzania Really Have?"
-title_full: What Really Happened in Tanzania's Skies?
-display_title_short: What Really Happened in Tanzania's Skies?
+title_full: "How Much UFO Evidence Does Tanzania Really Have?"
+display_title_short: "How Much UFO Evidence Does Tanzania Really Have?"
 display_title: "How Much UFO Evidence Does Tanzania Really Have?"
-heading_title: What Really Happened in Tanzania's Skies?
+heading_title: "How Much UFO Evidence Does Tanzania Really Have?"
 page_heading_title: "How Much UFO Evidence Does Tanzania Really Have?"
 source_count: 126
 infographic_count: 3

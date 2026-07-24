@@ -210,12 +210,12 @@ description: Albania has a small but persistent body of UFO reports stretching f
 hero_summary: Albania has a small but persistent body of UFO reports stretching from an early twentieth-century memoir to military-era stories, alleged landing traces and modern sightings over Tirana and the Adriatic coast. The central finding, however, is not that Albania possesses a verified record of extraordinary craft.
 layout: default
 permalink: /what-really-happened-in-albanias-ufo/
-nav_short_title: What Really Happened in Albania's UFO Cases?
+nav_short_title: "How Much UFO Evidence Does Albania Really Have?"
 title: "How Much UFO Evidence Does Albania Really Have?"
-title_full: What Really Happened in Albania's UFO Cases?
-display_title_short: What Really Happened in Albania's UFO Cases?
+title_full: "How Much UFO Evidence Does Albania Really Have?"
+display_title_short: "How Much UFO Evidence Does Albania Really Have?"
 display_title: "How Much UFO Evidence Does Albania Really Have?"
-heading_title: What Really Happened in Albania's UFO Cases?
+heading_title: "How Much UFO Evidence Does Albania Really Have?"
 page_heading_title: "How Much UFO Evidence Does Albania Really Have?"
 source_count: 81
 infographic_count: 3

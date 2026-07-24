@@ -210,12 +210,12 @@ description: Cuba has a real history of reported unidentified flying objects, bu
 hero_summary: Cuba has a real history of reported unidentified flying objects, but not a strong public record of scientifically confirmed anomalies.
 layout: default
 permalink: /what-really-happened-in-cubas-ufo-cases/
-nav_short_title: What Really Happened in Cuba's UFO Cases?
+nav_short_title: "Cuba's UFO Files: Claims, Cases and Explanations"
 title: "Cuba's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Cuba's UFO Cases?
-display_title_short: What Really Happened in Cuba's UFO Cases?
+title_full: "Cuba's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Cuba's UFO Files: Claims, Cases and Explanations"
 display_title: "Cuba's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Cuba's UFO Cases?
+heading_title: "Cuba's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Cuba's UFO Files: Claims, Cases and Explanations"
 source_count: 83
 infographic_count: 3

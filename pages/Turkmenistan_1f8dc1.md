@@ -210,12 +210,12 @@ description: Turkmenistan has no well-documented national UFO case comparable wi
 hero_summary: Turkmenistan has no well-documented national UFO case comparable with the best-known military or aviation incidents elsewhere.
 layout: default
 permalink: /what-really-happened-in-turkmenistans/
-nav_short_title: What Really Happened in Turkmenistan's Skies?
+nav_short_title: "How Much UFO Evidence Does Turkmenistan Really Have?"
 title: "How Much UFO Evidence Does Turkmenistan Really Have?"
-title_full: What Really Happened in Turkmenistan's Skies?
-display_title_short: What Really Happened in Turkmenistan's Skies?
+title_full: "How Much UFO Evidence Does Turkmenistan Really Have?"
+display_title_short: "How Much UFO Evidence Does Turkmenistan Really Have?"
 display_title: "How Much UFO Evidence Does Turkmenistan Really Have?"
-heading_title: What Really Happened in Turkmenistan's Skies?
+heading_title: "How Much UFO Evidence Does Turkmenistan Really Have?"
 page_heading_title: "How Much UFO Evidence Does Turkmenistan Really Have?"
 source_count: 133
 infographic_count: 3

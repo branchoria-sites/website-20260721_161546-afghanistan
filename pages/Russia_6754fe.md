@@ -210,12 +210,12 @@ description: Russia has a substantial UFO history, but not a strong public recor
 hero_summary: Russia has a substantial UFO history, but not a strong public record of extraterrestrial evidence. The most important finding is that Soviet authorities genuinely investigated unusual aerial reports, especially where they might reveal missile launches, atmospheric effects, equipment failures or foreign technology.
 layout: default
 permalink: /what-really-happened-in-russias-ufo/
-nav_short_title: What Really Happened in Russia's UFO Files?
+nav_short_title: "What the UFO Record From Russia Actually Shows"
 title: "What the UFO Record From Russia Actually Shows"
-title_full: What Really Happened in Russia's UFO Files?
-display_title_short: What Really Happened in Russia's UFO Files?
+title_full: "What the UFO Record From Russia Actually Shows"
+display_title_short: "What the UFO Record From Russia Actually Shows"
 display_title: "What the UFO Record From Russia Actually Shows"
-heading_title: What Really Happened in Russia's UFO Files?
+heading_title: "What the UFO Record From Russia Actually Shows"
 page_heading_title: "What the UFO Record From Russia Actually Shows"
 source_count: 147
 infographic_count: 3

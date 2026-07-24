@@ -210,12 +210,12 @@ description: The Solomon Islands have acquired an outsized reputation in UFO lit
 hero_summary: The Solomon Islands have acquired an outsized reputation in UFO literature, particularly through stories of luminous craft entering the sea, disappearing into mountains or lakes, and interacting with supposed subterranean beings. Yet the documentary record is much thinner than the mythology suggests.
 layout: default
 permalink: /what-really-happened-in-the-solomon/
-nav_short_title: What Really Happened in the Solomon Islands Skies?
+nav_short_title: "What the UFO Record From the Solomon Islands Actually Shows"
 title: "What the UFO Record From the Solomon Islands Actually Shows"
-title_full: What Really Happened in the Solomon Islands Skies?
-display_title_short: What Really Happened in the Solomon Islands Skies?
+title_full: "What the UFO Record From the Solomon Islands Actually Shows"
+display_title_short: "What the UFO Record From the Solomon Islands Actually Shows"
 display_title: "What the UFO Record From the Solomon Islands Actually Shows"
-heading_title: What Really Happened in the Solomon Islands Skies?
+heading_title: "What the UFO Record From the Solomon Islands Actually Shows"
 page_heading_title: "What the UFO Record From the Solomon Islands Actually Shows"
 source_count: 150
 infographic_count: 3

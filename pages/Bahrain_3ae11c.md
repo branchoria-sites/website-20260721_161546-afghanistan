@@ -210,12 +210,12 @@ description: Bahrain has a small but traceable UFO record, dominated by isolated
 hero_summary: Bahrain has a small but traceable UFO record, dominated by isolated eyewitness reports, ambiguous photographs and short-lived social-media stories rather than instrumented investigations.
 layout: default
 permalink: /what-really-happened-in-bahrains-ufo/
-nav_short_title: What Really Happened in Bahrain's UFO Cases?
+nav_short_title: "Separating Reports From Evidence in Bahrain"
 title: "Separating Reports From Evidence in Bahrain"
-title_full: What Really Happened in Bahrain's UFO Cases?
-display_title_short: What Really Happened in Bahrain's UFO Cases?
+title_full: "Separating Reports From Evidence in Bahrain"
+display_title_short: "Separating Reports From Evidence in Bahrain"
 display_title: "Separating Reports From Evidence in Bahrain"
-heading_title: What Really Happened in Bahrain's UFO Cases?
+heading_title: "Separating Reports From Evidence in Bahrain"
 page_heading_title: "Separating Reports From Evidence in Bahrain"
 source_count: 93
 infographic_count: 3

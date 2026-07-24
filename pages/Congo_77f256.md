@@ -210,12 +210,12 @@ description: “Congo” has no large, well-documented national UFO case file co
 hero_summary: “Congo” has no large, well-documented national UFO case file comparable with those of several better-covered countries.
 layout: default
 permalink: /what-really-happened-in-congos-ufo-cases/
-nav_short_title: What Really Happened in Congo's UFO Cases?
+nav_short_title: "Congo's UFO History Under the Microscope"
 title: "Congo's UFO History Under the Microscope"
-title_full: What Really Happened in Congo's UFO Cases?
-display_title_short: What Really Happened in Congo's UFO Cases?
+title_full: "Congo's UFO History Under the Microscope"
+display_title_short: "Congo's UFO History Under the Microscope"
 display_title: "Congo's UFO History Under the Microscope"
-heading_title: What Really Happened in Congo's UFO Cases?
+heading_title: "Congo's UFO History Under the Microscope"
 page_heading_title: "Congo's UFO History Under the Microscope"
 source_count: 66
 infographic_count: 3

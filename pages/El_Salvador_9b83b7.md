@@ -210,12 +210,12 @@ description: Reports of unidentified flying objects (UFOs, or OVNIs in Spanish) 
 hero_summary: Reports of unidentified flying objects (UFOs, or OVNIs in Spanish) in El Salvador have appeared periodically for decades, ranging from newspaper-covered sightings over San Salvador to modern smartphone videos and social-media claims.
 layout: default
 permalink: /what-really-happened-in-el-salvadors-ufo/
-nav_short_title: What Really Happened in El Salvador's UFO Cases?
+nav_short_title: "Which UFO Claims From El Salvador Hold Up?"
 title: "Which UFO Claims From El Salvador Hold Up?"
-title_full: What Really Happened in El Salvador's UFO Cases?
-display_title_short: What Really Happened in El Salvador's UFO Cases?
+title_full: "Which UFO Claims From El Salvador Hold Up?"
+display_title_short: "Which UFO Claims From El Salvador Hold Up?"
 display_title: "Which UFO Claims From El Salvador Hold Up?"
-heading_title: What Really Happened in El Salvador's UFO Cases?
+heading_title: "Which UFO Claims From El Salvador Hold Up?"
 page_heading_title: "Which UFO Claims From El Salvador Hold Up?"
 source_count: 84
 infographic_count: 3

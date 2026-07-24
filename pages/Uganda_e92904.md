@@ -210,12 +210,12 @@ description: Uganda has a small but intriguing UFO record, dominated by a handfu
 hero_summary: Uganda has a small but intriguing UFO record, dominated by a handful of historical newspaper and archival claims rather than well-documented modern investigations.
 layout: default
 permalink: /what-really-happened-in-ugandas-skies/
-nav_short_title: What Really Happened in Uganda's Skies?
+nav_short_title: "How Much UFO Evidence Does Uganda Really Have?"
 title: "How Much UFO Evidence Does Uganda Really Have?"
-title_full: What Really Happened in Uganda's Skies?
-display_title_short: What Really Happened in Uganda's Skies?
+title_full: "How Much UFO Evidence Does Uganda Really Have?"
+display_title_short: "How Much UFO Evidence Does Uganda Really Have?"
 display_title: "How Much UFO Evidence Does Uganda Really Have?"
-heading_title: What Really Happened in Uganda's Skies?
+heading_title: "How Much UFO Evidence Does Uganda Really Have?"
 page_heading_title: "How Much UFO Evidence Does Uganda Really Have?"
 source_count: 80
 infographic_count: 3

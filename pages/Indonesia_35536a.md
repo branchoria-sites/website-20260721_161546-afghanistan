@@ -210,12 +210,12 @@ description: Indonesia has a long and unusually varied UFO tradition, but its ev
 hero_summary: Indonesia has a long and unusually varied UFO tradition, but its evidential record is much thinner than its folklore suggests. Reports range from wartime lights and alleged humanoid encounters to military-era sightings, pilot testimony, crop circles and modern phone videos.
 layout: default
 permalink: /what-really-happened-in-indonesias-ufo/
-nav_short_title: What Really Happened in Indonesia's UFO Cases?
+nav_short_title: "Inside the UFO Record of Indonesia"
 title: "Inside the UFO Record of Indonesia"
-title_full: What Really Happened in Indonesia's UFO Cases?
-display_title_short: What Really Happened in Indonesia's UFO Cases?
+title_full: "Inside the UFO Record of Indonesia"
+display_title_short: "Inside the UFO Record of Indonesia"
 display_title: "Inside the UFO Record of Indonesia"
-heading_title: What Really Happened in Indonesia's UFO Cases?
+heading_title: "Inside the UFO Record of Indonesia"
 page_heading_title: "Inside the UFO Record of Indonesia"
 source_count: 84
 infographic_count: 3

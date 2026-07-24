@@ -210,12 +210,12 @@ description: Georgia has one of the better-documented UFO histories in the south
 hero_summary: Georgia has one of the better-documented UFO histories in the southeastern United States, but its strongest cases are usually notable because of witnesses, records, and later explanations rather than because they prove extraterrestrial activity.
 layout: default
 permalink: /what-really-happened-in-georgia-ufo/
-nav_short_title: What Really Happened in Georgia UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in Georgia"
 title: "Sightings, Files and False Alarms in Georgia"
-title_full: What Really Happened in Georgia UFO Cases?
-display_title_short: What Really Happened in Georgia UFO Cases?
+title_full: "Sightings, Files and False Alarms in Georgia"
+display_title_short: "Sightings, Files and False Alarms in Georgia"
 display_title: "Sightings, Files and False Alarms in Georgia"
-heading_title: What Really Happened in Georgia UFO Cases?
+heading_title: "Sightings, Files and False Alarms in Georgia"
 page_heading_title: "Sightings, Files and False Alarms in Georgia"
 source_count: 73
 infographic_count: 3

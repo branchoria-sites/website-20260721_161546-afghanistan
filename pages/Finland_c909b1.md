@@ -210,12 +210,12 @@ description: Finland has a long record of UFO reports, but its most notable case
 hero_summary: Finland has a long record of UFO reports, but its most notable cases are best understood as a mixture of documented aerial observations, witness testimony, cultural history and unresolved reports rather than confirmed evidence of extraterrestrial craft.
 layout: default
 permalink: /what-really-happened-in-finlands-ufo/
-nav_short_title: What Really Happened in Finland's UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in Finland"
 title: "Sightings, Files and False Alarms in Finland"
-title_full: What Really Happened in Finland's UFO Cases?
-display_title_short: What Really Happened in Finland's UFO Cases?
+title_full: "Sightings, Files and False Alarms in Finland"
+display_title_short: "Sightings, Files and False Alarms in Finland"
 display_title: "Sightings, Files and False Alarms in Finland"
-heading_title: What Really Happened in Finland's UFO Cases?
+heading_title: "Sightings, Files and False Alarms in Finland"
 page_heading_title: "Sightings, Files and False Alarms in Finland"
 source_count: 68
 infographic_count: 3

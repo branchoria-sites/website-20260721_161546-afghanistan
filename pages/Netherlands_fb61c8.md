@@ -210,12 +210,12 @@ description: The Netherlands has a substantial record of reported unidentified f
 hero_summary: The Netherlands has a substantial record of reported unidentified flying objects, now often called unidentified anomalous phenomena, but no Dutch case has produced publicly verified evidence of extraterrestrial technology.
 layout: default
 permalink: /netherlands/
-nav_short_title: What Really Happened in the Dutch Skies?
+nav_short_title: "Sightings, Files and False Alarms in the Netherlands"
 title: "Sightings, Files and False Alarms in the Netherlands"
-title_full: What Really Happened in the Dutch Skies?
-display_title_short: What Really Happened in the Dutch Skies?
+title_full: "Sightings, Files and False Alarms in the Netherlands"
+display_title_short: "Sightings, Files and False Alarms in the Netherlands"
 display_title: "Sightings, Files and False Alarms in the Netherlands"
-heading_title: What Really Happened in the Dutch Skies?
+heading_title: "Sightings, Files and False Alarms in the Netherlands"
 page_heading_title: "Sightings, Files and False Alarms in the Netherlands"
 source_count: 88
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Guinea has a limited but notable record of unidentified flying obje
 hero_summary: Guinea has a limited but notable record of unidentified flying object (UFO) and unidentified anomalous phenomenon (UAP) reports, with most documented cases involving unusual objects seen in the sky or unexplained objects recovered on the ground rather than long-running official investigations.
 layout: default
 permalink: /what-really-happened-in-guineas-ufo/
-nav_short_title: What Really Happened in Guinea's UFO Cases?
+nav_short_title: "The Gaps in Guinea's UFO Record"
 title: "The Gaps in Guinea's UFO Record"
-title_full: What Really Happened in Guinea's UFO Cases?
-display_title_short: What Really Happened in Guinea's UFO Cases?
+title_full: "The Gaps in Guinea's UFO Record"
+display_title_short: "The Gaps in Guinea's UFO Record"
 display_title: "The Gaps in Guinea's UFO Record"
-heading_title: What Really Happened in Guinea's UFO Cases?
+heading_title: "The Gaps in Guinea's UFO Record"
 page_heading_title: "The Gaps in Guinea's UFO Record"
 source_count: 66
 infographic_count: 3

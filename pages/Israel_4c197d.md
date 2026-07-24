@@ -210,12 +210,12 @@ description: Israel has a lively history of UFO reports, but its publicly docume
 hero_summary: Israel has a lively history of UFO reports, but its publicly documented record is thinner and less conclusive than its reputation suggests.
 layout: default
 permalink: /what-really-happened-in-israels-ufo/
-nav_short_title: What Really Happened in Israel's UFO Skies?
+nav_short_title: "The Stories Behind Israel's UFO Reputation"
 title: "The Stories Behind Israel's UFO Reputation"
-title_full: What Really Happened in Israel's UFO Skies?
-display_title_short: What Really Happened in Israel's UFO Skies?
+title_full: "The Stories Behind Israel's UFO Reputation"
+display_title_short: "The Stories Behind Israel's UFO Reputation"
 display_title: "The Stories Behind Israel's UFO Reputation"
-heading_title: What Really Happened in Israel's UFO Skies?
+heading_title: "The Stories Behind Israel's UFO Reputation"
 page_heading_title: "The Stories Behind Israel's UFO Reputation"
 source_count: 120
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Belize has a modest but persistent UFO record rather than a single 
 hero_summary: Belize has a modest but persistent UFO record rather than a single nationally famous encounter. The clearest documented episode is the March 2008 Belmopan lights, witnessed for more than two hours by residents and senior security personnel.
 layout: default
 permalink: /what-really-happened-in-belizes-skies/
-nav_short_title: What Really Happened in Belize's Skies?
+nav_short_title: "Belize's UFO Files: Claims, Cases and Explanations"
 title: "Belize's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Belize's Skies?
-display_title_short: What Really Happened in Belize's Skies?
+title_full: "Belize's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Belize's UFO Files: Claims, Cases and Explanations"
 display_title: "Belize's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Belize's Skies?
+heading_title: "Belize's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Belize's UFO Files: Claims, Cases and Explanations"
 source_count: 90
 infographic_count: 3

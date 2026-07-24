@@ -210,12 +210,12 @@ description: 'Armenia has a real but thin UFO record. The strongest publicly doc
 hero_summary: 'Armenia has a real but thin UFO record. The strongest publicly documented case is not an unresolved mystery: on 7 June 2012, people across Armenia saw a large, slowly expanding spiral or flower-shaped light.'
 layout: default
 permalink: /what-really-happened-in-armenias-ufo/
-nav_short_title: What Really Happened in Armenia's UFO Skies?
+nav_short_title: "The Gaps in Armenia's UFO Record"
 title: "The Gaps in Armenia's UFO Record"
-title_full: What Really Happened in Armenia's UFO Skies?
-display_title_short: What Really Happened in Armenia's UFO Skies?
+title_full: "The Gaps in Armenia's UFO Record"
+display_title_short: "The Gaps in Armenia's UFO Record"
 display_title: "The Gaps in Armenia's UFO Record"
-heading_title: What Really Happened in Armenia's UFO Skies?
+heading_title: "The Gaps in Armenia's UFO Record"
 page_heading_title: "The Gaps in Armenia's UFO Record"
 source_count: 67
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Kyrgyzstan has a recognisable body of UFO folklore, but very little
 hero_summary: Kyrgyzstan has a recognisable body of UFO folklore, but very little publicly verifiable evidence. The country’s best-known claims cluster around Lake Issyk-Kul and the eastern Tian Shan, where witnesses have described luminous spheres, elongated objects, strange lights and objects apparently entering or leaving the water.
 layout: default
 permalink: /what-really-happened-in-kyrgyzstans-ufo/
-nav_short_title: What Really Happened in Kyrgyzstan's UFO Cases?
+nav_short_title: "Tracing the UFO Reports of Kyrgyzstan"
 title: "Tracing the UFO Reports of Kyrgyzstan"
-title_full: What Really Happened in Kyrgyzstan's UFO Cases?
-display_title_short: What Really Happened in Kyrgyzstan's UFO Cases?
+title_full: "Tracing the UFO Reports of Kyrgyzstan"
+display_title_short: "Tracing the UFO Reports of Kyrgyzstan"
 display_title: "Tracing the UFO Reports of Kyrgyzstan"
-heading_title: What Really Happened in Kyrgyzstan's UFO Cases?
+heading_title: "Tracing the UFO Reports of Kyrgyzstan"
 page_heading_title: "Tracing the UFO Reports of Kyrgyzstan"
 source_count: 102
 infographic_count: 3

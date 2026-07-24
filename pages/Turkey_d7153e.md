@@ -210,12 +210,12 @@ description: Turkey has a lively UFO culture and several widely reported inciden
 hero_summary: Turkey has a lively UFO culture and several widely reported incidents, but its public evidence base is much thinner than the volume of online claims suggests. The country’s best-known case is the Kumburgaz video series, filmed on the Sea of Marmara coast between 2007 and 2009.
 layout: default
 permalink: /what-really-happened-in-turkeys-ufo/
-nav_short_title: What Really Happened in Turkey's UFO Cases?
+nav_short_title: "Turkiye's UFO History Under the Microscope"
 title: "Turkiye's UFO History Under the Microscope"
-title_full: What Really Happened in Turkey's UFO Cases?
-display_title_short: What Really Happened in Turkey's UFO Cases?
+title_full: "Turkiye's UFO History Under the Microscope"
+display_title_short: "Turkiye's UFO History Under the Microscope"
 display_title: "Turkiye's UFO History Under the Microscope"
-heading_title: What Really Happened in Turkey's UFO Cases?
+heading_title: "Turkiye's UFO History Under the Microscope"
 page_heading_title: "Turkiye's UFO History Under the Microscope"
 source_count: 121
 infographic_count: 3

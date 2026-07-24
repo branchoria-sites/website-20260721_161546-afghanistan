@@ -210,12 +210,12 @@ description: Italy has one of Europe’s richest UFO histories, but not one body
 hero_summary: Italy has one of Europe’s richest UFO histories, but not one body of evidence. Its record combines mass sightings, regional “waves”, military files, police reports, civilian archives, sensational abduction narratives and disputed documents.
 layout: default
 permalink: /what-really-happened-in-italys-ufo/
-nav_short_title: What Really Happened in Italy's UFO History?
+nav_short_title: "From Strange Sightings to Answers in Italy"
 title: "From Strange Sightings to Answers in Italy"
-title_full: What Really Happened in Italy's UFO History?
-display_title_short: What Really Happened in Italy's UFO History?
+title_full: "From Strange Sightings to Answers in Italy"
+display_title_short: "From Strange Sightings to Answers in Italy"
 display_title: "From Strange Sightings to Answers in Italy"
-heading_title: What Really Happened in Italy's UFO History?
+heading_title: "From Strange Sightings to Answers in Italy"
 page_heading_title: "From Strange Sightings to Answers in Italy"
 source_count: 108
 infographic_count: 3

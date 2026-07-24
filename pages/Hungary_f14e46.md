@@ -210,12 +210,12 @@ description: Hungary has a long but uneven record of UFO reports, ranging from C
 hero_summary: Hungary has a long but uneven record of UFO reports, ranging from Cold War-era rumours and intelligence references to modern civilian investigations. The country has produced many claimed sightings, but only a small number have attracted sustained attention because of unusual witness accounts, archival material, or multiple lines of evidence.
 layout: default
 permalink: /what-really-happened-in-hungarys-ufo/
-nav_short_title: What Really Happened in Hungary's UFO Cases?
+nav_short_title: "From Strange Sightings to Answers in Hungary"
 title: "From Strange Sightings to Answers in Hungary"
-title_full: What Really Happened in Hungary's UFO Cases?
-display_title_short: What Really Happened in Hungary's UFO Cases?
+title_full: "From Strange Sightings to Answers in Hungary"
+display_title_short: "From Strange Sightings to Answers in Hungary"
 display_title: "From Strange Sightings to Answers in Hungary"
-heading_title: What Really Happened in Hungary's UFO Cases?
+heading_title: "From Strange Sightings to Answers in Hungary"
 page_heading_title: "From Strange Sightings to Answers in Hungary"
 source_count: 74
 infographic_count: 3

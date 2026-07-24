@@ -210,12 +210,12 @@ description: Libya has a small but intriguing UFO record, concentrated overwhelm
 hero_summary: Libya has a small but intriguing UFO record, concentrated overwhelmingly around Tripoli and the former US-run Wheelus Air Base during the 1950s. The strongest cases are not alleged alien encounters but military-era reports involving radar returns, trained observers and objects that investigators could not immediately identify.
 layout: default
 permalink: /what-really-happened-in-libyas-ufo-cases/
-nav_short_title: What Really Happened in Libya's UFO Cases?
+nav_short_title: "Separating Reports From Evidence in Libya"
 title: "Separating Reports From Evidence in Libya"
-title_full: What Really Happened in Libya's UFO Cases?
-display_title_short: What Really Happened in Libya's UFO Cases?
+title_full: "Separating Reports From Evidence in Libya"
+display_title_short: "Separating Reports From Evidence in Libya"
 display_title: "Separating Reports From Evidence in Libya"
-heading_title: What Really Happened in Libya's UFO Cases?
+heading_title: "Separating Reports From Evidence in Libya"
 page_heading_title: "Separating Reports From Evidence in Libya"
 source_count: 159
 infographic_count: 3

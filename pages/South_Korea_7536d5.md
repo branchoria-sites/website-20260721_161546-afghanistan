@@ -210,12 +210,12 @@ description: South Korea has a substantial history of unusual aerial reports, bu
 hero_summary: South Korea has a substantial history of unusual aerial reports, but the surviving evidence does not support a national pattern of confirmed extraterrestrial craft.
 layout: default
 permalink: /what-really-happened-in-south-koreas/
-nav_short_title: What Really Happened in South Korea's Skies?
+nav_short_title: "What the UFO Record From South Korea Actually Shows"
 title: "What the UFO Record From South Korea Actually Shows"
-title_full: What Really Happened in South Korea's Skies?
-display_title_short: What Really Happened in South Korea's Skies?
+title_full: "What the UFO Record From South Korea Actually Shows"
+display_title_short: "What the UFO Record From South Korea Actually Shows"
 display_title: "What the UFO Record From South Korea Actually Shows"
-heading_title: What Really Happened in South Korea's Skies?
+heading_title: "What the UFO Record From South Korea Actually Shows"
 page_heading_title: "What the UFO Record From South Korea Actually Shows"
 source_count: 188
 infographic_count: 3

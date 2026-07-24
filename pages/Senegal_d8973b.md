@@ -210,12 +210,12 @@ description: Senegal’s UFO record is real in the limited sense that unusual ae
 hero_summary: Senegal’s UFO record is real in the limited sense that unusual aerial events have been reported there, but the surviving evidence is sparse, uneven and often several steps removed from the original witnesses.
 layout: default
 permalink: /what-really-happened-in-senegals-ufo/
-nav_short_title: What Really Happened in Senegal's UFO Cases?
+nav_short_title: "Why Is Senegal's UFO Record So Thin?"
 title: "Why Is Senegal's UFO Record So Thin?"
-title_full: What Really Happened in Senegal's UFO Cases?
-display_title_short: What Really Happened in Senegal's UFO Cases?
+title_full: "Why Is Senegal's UFO Record So Thin?"
+display_title_short: "Why Is Senegal's UFO Record So Thin?"
 display_title: "Why Is Senegal's UFO Record So Thin?"
-heading_title: What Really Happened in Senegal's UFO Cases?
+heading_title: "Why Is Senegal's UFO Record So Thin?"
 page_heading_title: "Why Is Senegal's UFO Record So Thin?"
 source_count: 136
 infographic_count: 3

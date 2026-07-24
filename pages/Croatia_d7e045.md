@@ -210,12 +210,12 @@ description: Croatia has a lively UFO tradition, but not a strong body of public
 hero_summary: Croatia has a lively UFO tradition, but not a strong body of publicly verifiable UFO evidence. Its best-known stories range from unexplained lights reported over Zagreb and the Adriatic coast to the so-called Pag Triangle and the circular gaps discovered in offshore seagrass.
 layout: default
 permalink: /what-really-happened-in-croatias-ufo/
-nav_short_title: What Really Happened in Croatia's UFO Mysteries?
+nav_short_title: "How Strong Is the UFO Evidence From Croatia?"
 title: "How Strong Is the UFO Evidence From Croatia?"
-title_full: What Really Happened in Croatia's UFO Mysteries?
-display_title_short: What Really Happened in Croatia's UFO Mysteries?
+title_full: "How Strong Is the UFO Evidence From Croatia?"
+display_title_short: "How Strong Is the UFO Evidence From Croatia?"
 display_title: "How Strong Is the UFO Evidence From Croatia?"
-heading_title: What Really Happened in Croatia's UFO Mysteries?
+heading_title: "How Strong Is the UFO Evidence From Croatia?"
 page_heading_title: "How Strong Is the UFO Evidence From Croatia?"
 source_count: 116
 infographic_count: 3

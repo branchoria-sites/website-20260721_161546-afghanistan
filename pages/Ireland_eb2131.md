@@ -210,12 +210,12 @@ description: Ireland has a long record of unusual lights, apparent craft and une
 hero_summary: Ireland has a long record of unusual lights, apparent craft and unexplained aerial events, but the evidence does not support a hidden national history of confirmed extraterrestrial encounters.
 layout: default
 permalink: /what-really-happened-in-irelands-ufo/
-nav_short_title: What Really Happened in Ireland's UFO Cases?
+nav_short_title: "Ireland's UFO History Under the Microscope"
 title: "Ireland's UFO History Under the Microscope"
-title_full: What Really Happened in Ireland's UFO Cases?
-display_title_short: What Really Happened in Ireland's UFO Cases?
+title_full: "Ireland's UFO History Under the Microscope"
+display_title_short: "Ireland's UFO History Under the Microscope"
 display_title: "Ireland's UFO History Under the Microscope"
-heading_title: What Really Happened in Ireland's UFO Cases?
+heading_title: "Ireland's UFO History Under the Microscope"
 page_heading_title: "Ireland's UFO History Under the Microscope"
 source_count: 110
 infographic_count: 3

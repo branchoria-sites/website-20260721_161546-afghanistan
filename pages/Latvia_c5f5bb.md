@@ -210,12 +210,12 @@ description: Latvia has a recognisable UFO folklore, but not a well-documented n
 hero_summary: Latvia has a recognisable UFO folklore, but not a well-documented national UFO case file. Reports cluster around Riga, Liepāja and its lake, Daugavpils, and the rural Višķi area in the south-east. Most survive as brief press items, television recollections, videos without supporting data, or later compilations that repeat earlier claims.
 layout: default
 permalink: /what-really-happened-in-latvias-ufo/
-nav_short_title: What Really Happened in Latvia's UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in Latvia"
 title: "Sightings, Files and False Alarms in Latvia"
-title_full: What Really Happened in Latvia's UFO Cases?
-display_title_short: What Really Happened in Latvia's UFO Cases?
+title_full: "Sightings, Files and False Alarms in Latvia"
+display_title_short: "Sightings, Files and False Alarms in Latvia"
 display_title: "Sightings, Files and False Alarms in Latvia"
-heading_title: What Really Happened in Latvia's UFO Cases?
+heading_title: "Sightings, Files and False Alarms in Latvia"
 page_heading_title: "Sightings, Files and False Alarms in Latvia"
 source_count: 94
 infographic_count: 3

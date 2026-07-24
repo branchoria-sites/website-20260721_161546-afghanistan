@@ -210,12 +210,12 @@ description: New Zealand has a long record of reported unidentified flying objec
 hero_summary: New Zealand has a long record of reported unidentified flying objects, but the evidence is uneven.
 layout: default
 permalink: /what-really-happened-in-new-zealands/
-nav_short_title: What Really Happened in New Zealand's Skies?
+nav_short_title: "The Stories Behind New Zealand's UFO Reputation"
 title: "The Stories Behind New Zealand's UFO Reputation"
-title_full: What Really Happened in New Zealand's Skies?
-display_title_short: What Really Happened in New Zealand's Skies?
+title_full: "The Stories Behind New Zealand's UFO Reputation"
+display_title_short: "The Stories Behind New Zealand's UFO Reputation"
 display_title: "The Stories Behind New Zealand's UFO Reputation"
-heading_title: What Really Happened in New Zealand's Skies?
+heading_title: "The Stories Behind New Zealand's UFO Reputation"
 page_heading_title: "The Stories Behind New Zealand's UFO Reputation"
 source_count: 89
 infographic_count: 3

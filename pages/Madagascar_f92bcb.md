@@ -210,12 +210,12 @@ description: Madagascar’s UFO record is much thinner than popular retellings s
 hero_summary: 'Madagascar’s UFO record is much thinner than popular retellings suggest. One event dominates almost everything written about the subject: the mass sighting over Antananarivo, then commonly called Tananarive, on 16 August 1954.'
 layout: default
 permalink: /what-really-happened-in-madagascars/
-nav_short_title: What Really Happened in Madagascar's Skies?
+nav_short_title: "Madagascar's UFO Files: Claims, Cases and Explanations"
 title: "Madagascar's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Madagascar's Skies?
-display_title_short: What Really Happened in Madagascar's Skies?
+title_full: "Madagascar's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Madagascar's UFO Files: Claims, Cases and Explanations"
 display_title: "Madagascar's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Madagascar's Skies?
+heading_title: "Madagascar's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Madagascar's UFO Files: Claims, Cases and Explanations"
 source_count: 101
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Lesotho’s UFO record is exceptionally thin. The country has no we
 hero_summary: Lesotho’s UFO record is exceptionally thin. The country has no well-documented national series of sightings, no publicly available official investigation archive devoted to unidentified aerial phenomena, and no confirmed case supported by physical evidence, authenticated government papers or independently verified witnesses.
 layout: default
 permalink: /what-really-happened-in-lesothos-ufo/
-nav_short_title: What Really Happened in Lesotho's UFO Story?
+nav_short_title: "Separating Reports From Evidence in Lesotho"
 title: "Separating Reports From Evidence in Lesotho"
-title_full: What Really Happened in Lesotho's UFO Story?
-display_title_short: What Really Happened in Lesotho's UFO Story?
+title_full: "Separating Reports From Evidence in Lesotho"
+display_title_short: "Separating Reports From Evidence in Lesotho"
 display_title: "Separating Reports From Evidence in Lesotho"
-heading_title: What Really Happened in Lesotho's UFO Story?
+heading_title: "Separating Reports From Evidence in Lesotho"
 page_heading_title: "Separating Reports From Evidence in Lesotho"
 source_count: 98
 infographic_count: 3

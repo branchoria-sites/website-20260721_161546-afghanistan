@@ -210,12 +210,12 @@ description: Brunei has a UFO history, but not a strong body of UFO evidence.
 hero_summary: Brunei has a UFO history, but not a strong body of UFO evidence. The public record is dominated by a small number of eyewitness stories, low-resolution videos and social-media discussions rather than radar data, aviation reports, physical traces or official investigations. The best-known case is a cluster of lights filmed over Kampong Lumut in July 2009.
 layout: default
 permalink: /what-really-happened-in-bruneis-ufo/
-nav_short_title: What Really Happened in Brunei's UFO Cases?
+nav_short_title: "From Strange Sightings to Answers in Brunei"
 title: "From Strange Sightings to Answers in Brunei"
-title_full: What Really Happened in Brunei's UFO Cases?
-display_title_short: What Really Happened in Brunei's UFO Cases?
+title_full: "From Strange Sightings to Answers in Brunei"
+display_title_short: "From Strange Sightings to Answers in Brunei"
 display_title: "From Strange Sightings to Answers in Brunei"
-heading_title: What Really Happened in Brunei's UFO Cases?
+heading_title: "From Strange Sightings to Answers in Brunei"
 page_heading_title: "From Strange Sightings to Answers in Brunei"
 source_count: 79
 infographic_count: 3

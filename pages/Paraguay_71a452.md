@@ -210,12 +210,12 @@ description: Paraguay has a genuine history of UFO reporting, but not a strong p
 hero_summary: Paraguay has a genuine history of UFO reporting, but not a strong publicly accessible body of verified physical evidence. The best-documented material consists of newspaper archives, witness testimony, aviation reports, a small number of references in United States Air Force files and later compilations by local researchers.
 layout: default
 permalink: /what-really-happened-in-paraguays-ufo/
-nav_short_title: What Really Happened in Paraguay's UFO Skies?
+nav_short_title: "How Strong Is the UFO Evidence From Paraguay?"
 title: "How Strong Is the UFO Evidence From Paraguay?"
-title_full: What Really Happened in Paraguay's UFO Skies?
-display_title_short: What Really Happened in Paraguay's UFO Skies?
+title_full: "How Strong Is the UFO Evidence From Paraguay?"
+display_title_short: "How Strong Is the UFO Evidence From Paraguay?"
 display_title: "How Strong Is the UFO Evidence From Paraguay?"
-heading_title: What Really Happened in Paraguay's UFO Skies?
+heading_title: "How Strong Is the UFO Evidence From Paraguay?"
 page_heading_title: "How Strong Is the UFO Evidence From Paraguay?"
 source_count: 150
 infographic_count: 3

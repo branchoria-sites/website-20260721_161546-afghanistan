@@ -210,12 +210,12 @@ description: Tajikistan has a small but intriguing UFO record, dominated by eyew
 hero_summary: Tajikistan has a small but intriguing UFO record, dominated by eyewitness stories rather than instrumented investigations. The strongest document linked to the country is a 1994 US diplomatic cable describing an extraordinary observation by a Tajik Air crew, although the aircraft was over western Kazakhstan rather than Tajikistan.
 layout: default
 permalink: /what-really-happened-in-tajikistans-ufo/
-nav_short_title: What Really Happened in Tajikistan's UFO Cases?
+nav_short_title: "Why Is Tajikistan's UFO Record So Thin?"
 title: "Why Is Tajikistan's UFO Record So Thin?"
-title_full: What Really Happened in Tajikistan's UFO Cases?
-display_title_short: What Really Happened in Tajikistan's UFO Cases?
+title_full: "Why Is Tajikistan's UFO Record So Thin?"
+display_title_short: "Why Is Tajikistan's UFO Record So Thin?"
 display_title: "Why Is Tajikistan's UFO Record So Thin?"
-heading_title: What Really Happened in Tajikistan's UFO Cases?
+heading_title: "Why Is Tajikistan's UFO Record So Thin?"
 page_heading_title: "Why Is Tajikistan's UFO Record So Thin?"
 source_count: 99
 infographic_count: 3

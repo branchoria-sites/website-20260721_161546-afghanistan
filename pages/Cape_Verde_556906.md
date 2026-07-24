@@ -210,12 +210,12 @@ description: Cape Verde has no well-documented national UFO wave, famous militar
 hero_summary: Cape Verde has no well-documented national UFO wave, famous military investigation or verified collection of unexplained incidents comparable with the better-known archives of some larger countries.
 layout: default
 permalink: /what-really-happened-in-cape-verdes-ufo/
-nav_short_title: What Really Happened in Cape Verde's UFO Reports?
+nav_short_title: "The Gaps in Cabo Verde's UFO Record"
 title: "The Gaps in Cabo Verde's UFO Record"
-title_full: What Really Happened in Cape Verde's UFO Reports?
-display_title_short: What Really Happened in Cape Verde's UFO Reports?
+title_full: "The Gaps in Cabo Verde's UFO Record"
+display_title_short: "The Gaps in Cabo Verde's UFO Record"
 display_title: "The Gaps in Cabo Verde's UFO Record"
-heading_title: What Really Happened in Cape Verde's UFO Reports?
+heading_title: "The Gaps in Cabo Verde's UFO Record"
 page_heading_title: "The Gaps in Cabo Verde's UFO Record"
 source_count: 109
 infographic_count: 3

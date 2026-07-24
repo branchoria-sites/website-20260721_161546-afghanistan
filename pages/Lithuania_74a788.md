@@ -210,12 +210,12 @@ description: 'Lithuania has a modest but revealing UFO record: a few nationally 
 hero_summary: 'Lithuania has a modest but revealing UFO record: a few nationally remembered incidents, scattered witness reports and one unusually well-documented police encounter, but no strong public evidence of extraterrestrial craft.'
 layout: default
 permalink: /what-really-happened-in-lithuanias-ufo/
-nav_short_title: What Really Happened in Lithuania's UFO Cases?
+nav_short_title: "Separating Reports From Evidence in Lithuania"
 title: "Separating Reports From Evidence in Lithuania"
-title_full: What Really Happened in Lithuania's UFO Cases?
-display_title_short: What Really Happened in Lithuania's UFO Cases?
+title_full: "Separating Reports From Evidence in Lithuania"
+display_title_short: "Separating Reports From Evidence in Lithuania"
 display_title: "Separating Reports From Evidence in Lithuania"
-heading_title: What Really Happened in Lithuania's UFO Cases?
+heading_title: "Separating Reports From Evidence in Lithuania"
 page_heading_title: "Separating Reports From Evidence in Lithuania"
 source_count: 91
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Oman has a small and fragmented UFO record rather than a well-docum
 hero_summary: Oman has a small and fragmented UFO record rather than a well-documented national mystery. Publicly accessible material consists mainly of isolated witness submissions, social-media videos and local news reports about unusual lights.
 layout: default
 permalink: /what-really-happened-in-omans-ufo-cases/
-nav_short_title: What Really Happened in Oman's UFO Cases?
+nav_short_title: "Separating Reports From Evidence in Oman"
 title: "Separating Reports From Evidence in Oman"
-title_full: What Really Happened in Oman's UFO Cases?
-display_title_short: What Really Happened in Oman's UFO Cases?
+title_full: "Separating Reports From Evidence in Oman"
+display_title_short: "Separating Reports From Evidence in Oman"
 display_title: "Separating Reports From Evidence in Oman"
-heading_title: What Really Happened in Oman's UFO Cases?
+heading_title: "Separating Reports From Evidence in Oman"
 page_heading_title: "Separating Reports From Evidence in Oman"
 source_count: 101
 infographic_count: 3

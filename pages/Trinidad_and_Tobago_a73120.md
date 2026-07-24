@@ -210,12 +210,12 @@ description: Trinidad and Tobago has a modest but persistent record of unidentif
 hero_summary: Trinidad and Tobago has a modest but persistent record of unidentified flying object reports, ranging from retrospective stories about alleged landings to modern videos of unusual lights.
 layout: default
 permalink: /trinidad-and-tobago/
-nav_short_title: What Really Happened in Trinidad's UFO Cases?
+nav_short_title: "Tracing the UFO Reports of Trinidad and Tobago"
 title: "Tracing the UFO Reports of Trinidad and Tobago"
-title_full: What Really Happened in Trinidad's UFO Cases?
-display_title_short: What Really Happened in Trinidad's UFO Cases?
+title_full: "Tracing the UFO Reports of Trinidad and Tobago"
+display_title_short: "Tracing the UFO Reports of Trinidad and Tobago"
 display_title: "Tracing the UFO Reports of Trinidad and Tobago"
-heading_title: What Really Happened in Trinidad's UFO Cases?
+heading_title: "Tracing the UFO Reports of Trinidad and Tobago"
 page_heading_title: "Tracing the UFO Reports of Trinidad and Tobago"
 source_count: 146
 infographic_count: 3

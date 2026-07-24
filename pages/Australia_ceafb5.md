@@ -210,12 +210,12 @@ description: Australia has a substantial UFO history, but not a body of evidence
 hero_summary: Australia has a substantial UFO history, but not a body of evidence that establishes extraterrestrial visitation. Its strongest cases combine multiple witnesses, trained observers, radar returns or unresolved disappearances; its weakest rest on memories recorded decades later, sensational reporting or lights seen without reliable distance and scale.
 layout: default
 permalink: /what-really-happened-in-australias-ufo/
-nav_short_title: What Really Happened in Australia's UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in Australia"
 title: "Sightings, Files and False Alarms in Australia"
-title_full: What Really Happened in Australia's UFO Cases?
-display_title_short: What Really Happened in Australia's UFO Cases?
+title_full: "Sightings, Files and False Alarms in Australia"
+display_title_short: "Sightings, Files and False Alarms in Australia"
 display_title: "Sightings, Files and False Alarms in Australia"
-heading_title: What Really Happened in Australia's UFO Cases?
+heading_title: "Sightings, Files and False Alarms in Australia"
 page_heading_title: "Sightings, Files and False Alarms in Australia"
 source_count: 113
 infographic_count: 3

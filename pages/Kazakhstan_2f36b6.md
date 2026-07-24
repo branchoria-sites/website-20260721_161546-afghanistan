@@ -210,12 +210,12 @@ description: Kazakhstan has a genuine UFO history, but not a strong extraterrest
 hero_summary: Kazakhstan has a genuine UFO history, but not a strong extraterrestrial one. Its best-documented cases consist mainly of unusual lights reported near strategic Soviet installations, an airline crew’s prolonged 1994 observation, and later videos or photographs whose origins are uncertain.
 layout: default
 permalink: /what-really-happened-in-kazakhstans-ufo/
-nav_short_title: What Really Happened in Kazakhstan's UFO Cases?
+nav_short_title: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
 title: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Kazakhstan's UFO Cases?
-display_title_short: What Really Happened in Kazakhstan's UFO Cases?
+title_full: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
 display_title: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Kazakhstan's UFO Cases?
+heading_title: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Kazakhstan's UFO Files: Claims, Cases and Explanations"
 source_count: 73
 infographic_count: 3

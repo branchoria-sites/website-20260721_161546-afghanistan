@@ -210,12 +210,12 @@ description: Suriname has a small but unusually well-documented UFO history.
 hero_summary: Suriname has a small but unusually well-documented UFO history. Its strongest record is not a government archive or a collection of military sensor data, but a cluster of newspaper reports, witness interviews and investigations conducted by the independent Meldpunt UFO’s boven Surinaams Territorium, or MUST, between 2009 and 2015.
 layout: default
 permalink: /what-really-happened-in-surinames-ufo/
-nav_short_title: What Really Happened in Suriname's UFO Cases?
+nav_short_title: "Separating Reports From Evidence in Suriname"
 title: "Separating Reports From Evidence in Suriname"
-title_full: What Really Happened in Suriname's UFO Cases?
-display_title_short: What Really Happened in Suriname's UFO Cases?
+title_full: "Separating Reports From Evidence in Suriname"
+display_title_short: "Separating Reports From Evidence in Suriname"
 display_title: "Separating Reports From Evidence in Suriname"
-heading_title: What Really Happened in Suriname's UFO Cases?
+heading_title: "Separating Reports From Evidence in Suriname"
 page_heading_title: "Separating Reports From Evidence in Suriname"
 source_count: 60
 infographic_count: 3

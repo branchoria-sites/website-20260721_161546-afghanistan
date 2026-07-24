@@ -210,12 +210,12 @@ description: Germany has a long history of UFO and UAP (Unidentified Anomalous P
 hero_summary: Germany has a long history of UFO and UAP (Unidentified Anomalous Phenomena) reports, but the country’s record is better understood as a history of investigation, classification, and uncertainty than as a catalogue of proven extraordinary events.
 layout: default
 permalink: /what-really-happened-in-germanys-ufo/
-nav_short_title: What Really Happened in Germany's UFO Cases?
+nav_short_title: "From Strange Sightings to Answers in Germany"
 title: "From Strange Sightings to Answers in Germany"
-title_full: What Really Happened in Germany's UFO Cases?
-display_title_short: What Really Happened in Germany's UFO Cases?
+title_full: "From Strange Sightings to Answers in Germany"
+display_title_short: "From Strange Sightings to Answers in Germany"
 display_title: "From Strange Sightings to Answers in Germany"
-heading_title: What Really Happened in Germany's UFO Cases?
+heading_title: "From Strange Sightings to Answers in Germany"
 page_heading_title: "From Strange Sightings to Answers in Germany"
 source_count: 34
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Malaysia has a long but poorly documented history of unidentified f
 hero_summary: Malaysia has a long but poorly documented history of unidentified flying object reports, ranging from newspaper accounts of strange lights to elaborate stories involving landed craft and miniature humanoids.
 layout: default
 permalink: /what-really-happened-in-malaysias-ufo/
-nav_short_title: What Really Happened in Malaysia's UFO Cases?
+nav_short_title: "Malaysia's UFO Files: Claims, Cases and Explanations"
 title: "Malaysia's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Malaysia's UFO Cases?
-display_title_short: What Really Happened in Malaysia's UFO Cases?
+title_full: "Malaysia's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Malaysia's UFO Files: Claims, Cases and Explanations"
 display_title: "Malaysia's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Malaysia's UFO Cases?
+heading_title: "Malaysia's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Malaysia's UFO Files: Claims, Cases and Explanations"
 source_count: 108
 infographic_count: 3

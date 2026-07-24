@@ -210,12 +210,12 @@ description: Panama has a genuine history of UFO reporting, but not a strong bod
 hero_summary: Panama has a genuine history of UFO reporting, but not a strong body of verified UFO evidence. The surviving record is fragmented across newspaper archives, opinion columns, foreign civilian databases and personal testimony.
 layout: default
 permalink: /what-really-happened-in-panamas-ufo/
-nav_short_title: What Really Happened in Panama's UFO Cases?
+nav_short_title: "Panama's UFO Files: Claims, Cases and Explanations"
 title: "Panama's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Panama's UFO Cases?
-display_title_short: What Really Happened in Panama's UFO Cases?
+title_full: "Panama's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Panama's UFO Files: Claims, Cases and Explanations"
 display_title: "Panama's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Panama's UFO Cases?
+heading_title: "Panama's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Panama's UFO Files: Claims, Cases and Explanations"
 source_count: 164
 infographic_count: 3

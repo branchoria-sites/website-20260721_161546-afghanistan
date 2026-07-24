@@ -210,12 +210,12 @@ description: Barbados has one well-documented mass UFO episode, a small collecti
 hero_summary: Barbados has one well-documented mass UFO episode, a small collection of later witness reports and very little evidence of sustained official investigation. The central case occurred on the night of 1 September 1987, although it is often retold as a 2 September event because the surviving news report was transmitted the following day.
 layout: default
 permalink: /what-really-happened-in-barbados-skies/
-nav_short_title: What Really Happened in Barbados Skies?
+nav_short_title: "Why Is Barbados' UFO Record So Thin?"
 title: "Why Is Barbados' UFO Record So Thin?"
-title_full: What Really Happened in Barbados Skies?
-display_title_short: What Really Happened in Barbados Skies?
+title_full: "Why Is Barbados' UFO Record So Thin?"
+display_title_short: "Why Is Barbados' UFO Record So Thin?"
 display_title: "Why Is Barbados' UFO Record So Thin?"
-heading_title: What Really Happened in Barbados Skies?
+heading_title: "Why Is Barbados' UFO Record So Thin?"
 page_heading_title: "Why Is Barbados' UFO Record So Thin?"
 source_count: 99
 infographic_count: 3

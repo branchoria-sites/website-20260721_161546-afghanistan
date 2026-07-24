@@ -210,12 +210,12 @@ description: Poland has a rich UFO tradition, but not a strong body of publicly 
 hero_summary: Poland has a rich UFO tradition, but not a strong body of publicly verified evidence for extraordinary craft.
 layout: default
 permalink: /what-really-happened-in-polands-ufo/
-nav_short_title: What Really Happened in Poland's UFO Cases?
+nav_short_title: "Tracing the UFO Reports of Poland"
 title: "Tracing the UFO Reports of Poland"
-title_full: What Really Happened in Poland's UFO Cases?
-display_title_short: What Really Happened in Poland's UFO Cases?
+title_full: "Tracing the UFO Reports of Poland"
+display_title_short: "Tracing the UFO Reports of Poland"
 display_title: "Tracing the UFO Reports of Poland"
-heading_title: What Really Happened in Poland's UFO Cases?
+heading_title: "Tracing the UFO Reports of Poland"
 page_heading_title: "Tracing the UFO Reports of Poland"
 source_count: 193
 infographic_count: 3

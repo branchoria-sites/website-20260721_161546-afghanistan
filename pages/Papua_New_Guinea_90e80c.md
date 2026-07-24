@@ -210,12 +210,12 @@ description: 'Papua New Guinea’s UFO history is dominated by one extraordinary
 hero_summary: 'Papua New Guinea’s UFO history is dominated by one extraordinary but unresolved episode: the June 1959 sightings at the Anglican mission at Boianai, in what is now Milne Bay Province. The principal witness, the Reverend William Gill, recorded luminous objects, apparent figures and signalling behaviour while numerous mission residents watched.'
 layout: default
 permalink: /what-really-happened-in-papua-new/
-nav_short_title: What Really Happened in Papua New Guinea's Skies?
+nav_short_title: "The Stories Behind Papua New Guinea's UFO Reputation"
 title: "The Stories Behind Papua New Guinea's UFO Reputation"
-title_full: What Really Happened in Papua New Guinea's Skies?
-display_title_short: What Really Happened in Papua New Guinea's Skies?
+title_full: "The Stories Behind Papua New Guinea's UFO Reputation"
+display_title_short: "The Stories Behind Papua New Guinea's UFO Reputation"
 display_title: "The Stories Behind Papua New Guinea's UFO Reputation"
-heading_title: What Really Happened in Papua New Guinea's Skies?
+heading_title: "The Stories Behind Papua New Guinea's UFO Reputation"
 page_heading_title: "The Stories Behind Papua New Guinea's UFO Reputation"
 source_count: 103
 infographic_count: 3

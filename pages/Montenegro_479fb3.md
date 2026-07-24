@@ -210,12 +210,12 @@ description: 'Montenegro has one nationally significant UFO case: the reported e
 hero_summary: 'Montenegro has one nationally significant UFO case: the reported encounters involving Yugoslav military pilots based at Golubovci, near present-day Podgorica, in early 1975. It stands apart because named aircrew later described repeated observations, attempted interceptions and an internal military response.'
 layout: default
 permalink: /what-really-happened-in-montenegros-ufo/
-nav_short_title: What Really Happened in Montenegro's UFO Cases?
+nav_short_title: "How Strong Is the UFO Evidence From Montenegro?"
 title: "How Strong Is the UFO Evidence From Montenegro?"
-title_full: What Really Happened in Montenegro's UFO Cases?
-display_title_short: What Really Happened in Montenegro's UFO Cases?
+title_full: "How Strong Is the UFO Evidence From Montenegro?"
+display_title_short: "How Strong Is the UFO Evidence From Montenegro?"
 display_title: "How Strong Is the UFO Evidence From Montenegro?"
-heading_title: What Really Happened in Montenegro's UFO Cases?
+heading_title: "How Strong Is the UFO Evidence From Montenegro?"
 page_heading_title: "How Strong Is the UFO Evidence From Montenegro?"
 source_count: 24
 infographic_count: 3

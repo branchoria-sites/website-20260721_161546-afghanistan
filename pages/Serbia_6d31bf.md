@@ -210,12 +210,12 @@ description: Serbia has a recognisable UFO history, but not a strong body of pub
 hero_summary: Serbia has a recognisable UFO history, but not a strong body of publicly verified extraordinary evidence. Its best-documented episodes range from a mass sighting over Belgrade in 1954, which an official scientific commission attributed to clouds and optical effects, to later pilot testimony and isolated photographs whose supporting records remain incomplete.
 layout: default
 permalink: /what-really-happened-in-serbias-ufo/
-nav_short_title: What Really Happened in Serbia's UFO Cases?
+nav_short_title: "Inside the UFO Record of Serbia"
 title: "Inside the UFO Record of Serbia"
-title_full: What Really Happened in Serbia's UFO Cases?
-display_title_short: What Really Happened in Serbia's UFO Cases?
+title_full: "Inside the UFO Record of Serbia"
+display_title_short: "Inside the UFO Record of Serbia"
 display_title: "Inside the UFO Record of Serbia"
-heading_title: What Really Happened in Serbia's UFO Cases?
+heading_title: "Inside the UFO Record of Serbia"
 page_heading_title: "Inside the UFO Record of Serbia"
 source_count: 120
 infographic_count: 3

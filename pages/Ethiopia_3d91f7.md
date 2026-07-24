@@ -210,12 +210,12 @@ description: Ethiopia has one of the better-known African UFO case histories, bu
 hero_summary: Ethiopia has one of the better-known African UFO case histories, but the country does not have a large publicly documented archive of unidentified aerial phenomena (UAP) investigations. The strongest Ethiopia-linked case in UFO literature is the 1970 Saladare incident near Asmara, in which witnesses reported a luminous red object causing physical damage.
 layout: default
 permalink: /what-really-happened-in-ethiopias-ufo/
-nav_short_title: What Really Happened in Ethiopia's UFO Cases
+nav_short_title: "Inside the Official UFO Record of Ethiopia"
 title: "Inside the Official UFO Record of Ethiopia"
-title_full: What Really Happened in Ethiopia's UFO Cases
-display_title_short: What Really Happened in Ethiopia's UFO Cases
+title_full: "Inside the Official UFO Record of Ethiopia"
+display_title_short: "Inside the Official UFO Record of Ethiopia"
 display_title: "Inside the Official UFO Record of Ethiopia"
-heading_title: What Really Happened in Ethiopia's UFO Cases
+heading_title: "Inside the Official UFO Record of Ethiopia"
 page_heading_title: "Inside the Official UFO Record of Ethiopia"
 source_count: 73
 infographic_count: 3

@@ -210,12 +210,12 @@ description: China has a long and unusually varied UFO history, but the public e
 hero_summary: China has a long and unusually varied UFO history, but the public evidence does not support a simple narrative of repeated encounters with extraterrestrial craft.
 layout: default
 permalink: /what-really-happened-in-chinas-ufo-cases/
-nav_short_title: What Really Happened in China's UFO Cases?
+nav_short_title: "How Strong Is the UFO Evidence From China?"
 title: "How Strong Is the UFO Evidence From China?"
-title_full: What Really Happened in China's UFO Cases?
-display_title_short: What Really Happened in China's UFO Cases?
+title_full: "How Strong Is the UFO Evidence From China?"
+display_title_short: "How Strong Is the UFO Evidence From China?"
 display_title: "How Strong Is the UFO Evidence From China?"
-heading_title: What Really Happened in China's UFO Cases?
+heading_title: "How Strong Is the UFO Evidence From China?"
 page_heading_title: "How Strong Is the UFO Evidence From China?"
 source_count: 91
 infographic_count: 3

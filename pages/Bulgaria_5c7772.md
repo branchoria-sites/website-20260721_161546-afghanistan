@@ -210,12 +210,12 @@ description: Bulgaria has a recognisable UFO tradition, but not a strong body of
 hero_summary: Bulgaria has a recognisable UFO tradition, but not a strong body of scientifically verified cases.
 layout: default
 permalink: /what-really-happened-in-bulgarias-ufo/
-nav_short_title: What Really Happened in Bulgaria's UFO Cases?
+nav_short_title: "Bulgaria's UFO History Under the Microscope"
 title: "Bulgaria's UFO History Under the Microscope"
-title_full: What Really Happened in Bulgaria's UFO Cases?
-display_title_short: What Really Happened in Bulgaria's UFO Cases?
+title_full: "Bulgaria's UFO History Under the Microscope"
+display_title_short: "Bulgaria's UFO History Under the Microscope"
 display_title: "Bulgaria's UFO History Under the Microscope"
-heading_title: What Really Happened in Bulgaria's UFO Cases?
+heading_title: "Bulgaria's UFO History Under the Microscope"
 page_heading_title: "Bulgaria's UFO History Under the Microscope"
 source_count: 61
 infographic_count: 3

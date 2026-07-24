@@ -210,12 +210,12 @@ description: UFO reports in the Philippines form a real but fragmented historica
 hero_summary: UFO reports in the Philippines form a real but fragmented historical record. People have repeatedly reported unexplained lights, discs, formations and apparently hovering objects over Luzon, Metro Manila, the Visayas and Mindanao.
 layout: default
 permalink: /philippines/
-nav_short_title: What Really Happened in Philippine UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in the Philippines"
 title: "Sightings, Files and False Alarms in the Philippines"
-title_full: What Really Happened in Philippine UFO Cases?
-display_title_short: What Really Happened in Philippine UFO Cases?
+title_full: "Sightings, Files and False Alarms in the Philippines"
+display_title_short: "Sightings, Files and False Alarms in the Philippines"
 display_title: "Sightings, Files and False Alarms in the Philippines"
-heading_title: What Really Happened in Philippine UFO Cases?
+heading_title: "Sightings, Files and False Alarms in the Philippines"
 page_heading_title: "Sightings, Files and False Alarms in the Philippines"
 source_count: 155
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Morocco has a genuine UFO history, but not one that supports a clea
 hero_summary: 'Morocco has a genuine UFO history, but not one that supports a clear case for extraterrestrial visitation. The record is fragmented: Cold War intelligence files preserve reports from the early 1950s, private databases collect later witness accounts, and social media now supplies a steady stream of lights, discs and “orbs”.'
 layout: default
 permalink: /what-really-happened-in-moroccos-ufo/
-nav_short_title: What Really Happened in Morocco's UFO Skies?
+nav_short_title: "What the UFO Record From Morocco Actually Shows"
 title: "What the UFO Record From Morocco Actually Shows"
-title_full: What Really Happened in Morocco's UFO Skies?
-display_title_short: What Really Happened in Morocco's UFO Skies?
+title_full: "What the UFO Record From Morocco Actually Shows"
+display_title_short: "What the UFO Record From Morocco Actually Shows"
 display_title: "What the UFO Record From Morocco Actually Shows"
-heading_title: What Really Happened in Morocco's UFO Skies?
+heading_title: "What the UFO Record From Morocco Actually Shows"
 page_heading_title: "What the UFO Record From Morocco Actually Shows"
 source_count: 85
 infographic_count: 3

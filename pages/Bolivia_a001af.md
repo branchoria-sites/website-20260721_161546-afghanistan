@@ -210,12 +210,12 @@ description: Bolivia has a long and culturally persistent record of unidentified
 hero_summary: Bolivia has a long and culturally persistent record of unidentified flying-object reports, but its evidential picture is much thinner than the best-known stories suggest. The country’s central case is the 6 May 1978 Tarija incident, when witnesses across the southern border region described a fiery object and a powerful explosion.
 layout: default
 permalink: /what-really-happened-in-bolivias-ufo/
-nav_short_title: What Really Happened in Bolivia's UFO Cases?
+nav_short_title: "The Stories Behind Bolivia's UFO Reputation"
 title: "The Stories Behind Bolivia's UFO Reputation"
-title_full: What Really Happened in Bolivia's UFO Cases?
-display_title_short: What Really Happened in Bolivia's UFO Cases?
+title_full: "The Stories Behind Bolivia's UFO Reputation"
+display_title_short: "The Stories Behind Bolivia's UFO Reputation"
 display_title: "The Stories Behind Bolivia's UFO Reputation"
-heading_title: What Really Happened in Bolivia's UFO Cases?
+heading_title: "The Stories Behind Bolivia's UFO Reputation"
 page_heading_title: "The Stories Behind Bolivia's UFO Reputation"
 source_count: 84
 infographic_count: 3

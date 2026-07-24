@@ -210,12 +210,12 @@ description: Myanmar has a UFO history, but not a large or well-documented one.
 hero_summary: Myanmar has a UFO history, but not a large or well-documented one. The strongest publicly accessible case is a 1954 report from Rangoon, now Yangon, preserved in the United States Air Force’s Project Blue Book archive.
 layout: default
 permalink: /what-really-happened-in-myanmars-ufo/
-nav_short_title: What Really Happened in Myanmar's UFO Cases?
+nav_short_title: "Myanmar's UFO Files: Claims, Cases and Explanations"
 title: "Myanmar's UFO Files: Claims, Cases and Explanations"
-title_full: What Really Happened in Myanmar's UFO Cases?
-display_title_short: What Really Happened in Myanmar's UFO Cases?
+title_full: "Myanmar's UFO Files: Claims, Cases and Explanations"
+display_title_short: "Myanmar's UFO Files: Claims, Cases and Explanations"
 display_title: "Myanmar's UFO Files: Claims, Cases and Explanations"
-heading_title: What Really Happened in Myanmar's UFO Cases?
+heading_title: "Myanmar's UFO Files: Claims, Cases and Explanations"
 page_heading_title: "Myanmar's UFO Files: Claims, Cases and Explanations"
 source_count: 87
 infographic_count: 3

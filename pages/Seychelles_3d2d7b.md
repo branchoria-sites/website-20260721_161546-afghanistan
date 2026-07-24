@@ -210,12 +210,12 @@ description: The documented UFO record for Seychelles is exceptionally thin.
 hero_summary: The documented UFO record for Seychelles is exceptionally thin.
 layout: default
 permalink: /what-really-happened-in-seychelles-skies/
-nav_short_title: What Really Happened in Seychelles Skies?
+nav_short_title: "Separating Reports From Evidence in the Seychelles"
 title: "Separating Reports From Evidence in the Seychelles"
-title_full: What Really Happened in Seychelles Skies?
-display_title_short: What Really Happened in Seychelles Skies?
+title_full: "Separating Reports From Evidence in the Seychelles"
+display_title_short: "Separating Reports From Evidence in the Seychelles"
 display_title: "Separating Reports From Evidence in the Seychelles"
-heading_title: What Really Happened in Seychelles Skies?
+heading_title: "Separating Reports From Evidence in the Seychelles"
 page_heading_title: "Separating Reports From Evidence in the Seychelles"
 source_count: 154
 infographic_count: 3

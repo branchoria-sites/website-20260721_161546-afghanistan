@@ -210,12 +210,12 @@ description: Belarus has a genuine history of unidentified aerial reports, but n
 hero_summary: Belarus has a genuine history of unidentified aerial reports, but not a well-documented catalogue of extraordinary craft. Its best-known case is the luminous phenomenon observed by Aeroflot crews near Minsk on 7 September 1984.
 layout: default
 permalink: /belarus/
-nav_short_title: What Really Happened in Belarusian UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in Belarus"
 title: "Sightings, Files and False Alarms in Belarus"
-title_full: What Really Happened in Belarusian UFO Cases?
-display_title_short: What Really Happened in Belarusian UFO Cases?
+title_full: "Sightings, Files and False Alarms in Belarus"
+display_title_short: "Sightings, Files and False Alarms in Belarus"
 display_title: "Sightings, Files and False Alarms in Belarus"
-heading_title: What Really Happened in Belarusian UFO Cases?
+heading_title: "Sightings, Files and False Alarms in Belarus"
 page_heading_title: "Sightings, Files and False Alarms in Belarus"
 source_count: 105
 infographic_count: 3

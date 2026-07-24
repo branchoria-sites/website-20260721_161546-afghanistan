@@ -210,12 +210,12 @@ description: Switzerland has a genuine UFO history, but not a strong body of evi
 hero_summary: Switzerland has a genuine UFO history, but not a strong body of evidence for extraterrestrial craft. Its record consists of military observation forms, scattered police and civilian reports, a few unresolved pilot sightings, famous photographs with serious authenticity problems, and much older sky narratives later reinterpreted through a modern UFO lens.
 layout: default
 permalink: /what-really-happened-in-switzerlands/
-nav_short_title: What Really Happened in Switzerland's Skies?
+nav_short_title: "Tracing the UFO Reports of Switzerland"
 title: "Tracing the UFO Reports of Switzerland"
-title_full: What Really Happened in Switzerland's Skies?
-display_title_short: What Really Happened in Switzerland's Skies?
+title_full: "Tracing the UFO Reports of Switzerland"
+display_title_short: "Tracing the UFO Reports of Switzerland"
 display_title: "Tracing the UFO Reports of Switzerland"
-heading_title: What Really Happened in Switzerland's Skies?
+heading_title: "Tracing the UFO Reports of Switzerland"
 page_heading_title: "Tracing the UFO Reports of Switzerland"
 source_count: 124
 infographic_count: 3

@@ -210,12 +210,12 @@ description: Mauritius has a small but persistent record of UFO reports, yet the
 hero_summary: Mauritius has a small but persistent record of UFO reports, yet the available evidence is fragmented and rarely supported by official investigation files, instrument data or independently verified imagery. The clearest nationally relevant cases point towards ordinary explanations rather than extraordinary craft.
 layout: default
 permalink: /what-really-happened-in-mauritiuss-ufo/
-nav_short_title: What Really Happened in Mauritius's UFO Cases?
+nav_short_title: "How Much UFO Evidence Does Mauritius Really Have?"
 title: "How Much UFO Evidence Does Mauritius Really Have?"
-title_full: What Really Happened in Mauritius's UFO Cases?
-display_title_short: What Really Happened in Mauritius's UFO Cases?
+title_full: "How Much UFO Evidence Does Mauritius Really Have?"
+display_title_short: "How Much UFO Evidence Does Mauritius Really Have?"
 display_title: "How Much UFO Evidence Does Mauritius Really Have?"
-heading_title: What Really Happened in Mauritius's UFO Cases?
+heading_title: "How Much UFO Evidence Does Mauritius Really Have?"
 page_heading_title: "How Much UFO Evidence Does Mauritius Really Have?"
 source_count: 72
 infographic_count: 3

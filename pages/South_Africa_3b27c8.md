@@ -210,12 +210,12 @@ description: South Africa has a long and unusually varied UFO history, but its c
 hero_summary: South Africa has a long and unusually varied UFO history, but its cases do not add up to evidence of extraterrestrial visitation.
 layout: default
 permalink: /what-really-happened-in-south-africas/
-nav_short_title: What Really Happened in South Africa's Skies?
+nav_short_title: "South Africa's UFO History Under the Microscope"
 title: "South Africa's UFO History Under the Microscope"
-title_full: What Really Happened in South Africa's Skies?
-display_title_short: What Really Happened in South Africa's Skies?
+title_full: "South Africa's UFO History Under the Microscope"
+display_title_short: "South Africa's UFO History Under the Microscope"
 display_title: "South Africa's UFO History Under the Microscope"
-heading_title: What Really Happened in South Africa's Skies?
+heading_title: "South Africa's UFO History Under the Microscope"
 page_heading_title: "South Africa's UFO History Under the Microscope"
 source_count: 187
 infographic_count: 3
