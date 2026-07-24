@@ -211,12 +211,12 @@ hero_summary: Sri Lanka has a genuine history of UFO reporting, but not a strong
 layout: default
 permalink: /what-really-happened-in-sri-lankas-ufo/
 nav_short_title: What Really Happened in Sri Lanka's UFO Cases?
-title: What Really Happened in Sri Lanka's UFO Cases?
+title: "Tracing the UFO Reports of Sri Lanka"
 title_full: What Really Happened in Sri Lanka's UFO Cases?
 display_title_short: What Really Happened in Sri Lanka's UFO Cases?
-display_title: What Really Happened in Sri Lanka's UFO Cases?
+display_title: "Tracing the UFO Reports of Sri Lanka"
 heading_title: What Really Happened in Sri Lanka's UFO Cases?
-page_heading_title: What Really Happened in Sri Lanka's UFO Cases?
+page_heading_title: "Tracing the UFO Reports of Sri Lanka"
 source_count: 94
 infographic_count: 3
 page_website_name: Sri Lanka
@@ -1307,8 +1307,7 @@ After a magnitude 2.3 earth tremor near Vavuniya on 18 June 2024, reports circul
 
 The tremor itself was confirmed by the Geological Survey and Mines Bureau. The UFO connection was not. No instrument record, image analysis or recognised geophysical mechanism was presented to show that the lights were caused by, predicted or accompanied the tremor. The case should therefore be divided into two claims: a minor earthquake occurred, which is confirmed; people subsequently reported aerial lights, which remains anecdotal. The assertion that the two were causally linked is unsupported by the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailymirror.lk/breaking-news/Minor-earth-tremor-reported-in-Vavuniya/108-285195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror Minor earth tremor reported in Vavuniya</span><span class="citation-popover-snippet">Colombo, June 19 (Daily Mirror) - The Geological Survey and Mines Bureau confirmed that a minor tremor with a magnitude of 2.3 was report...</span></span></span>
 
-## Confirmed, contested and debunked
-
+## Sorting confirmed and disputed claims from Sri Lanka's UFO record
 A useful assessment separates the existence of a report from the truth of its most dramatic interpretation.
 
 **Confirmed events or observations**

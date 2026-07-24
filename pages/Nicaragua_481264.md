@@ -211,12 +211,12 @@ hero_summary: 'Nicaragua has a modest but revealing UFO record: a small number o
 layout: default
 permalink: /what-really-happened-in-nicaraguas-ufo/
 nav_short_title: What Really Happened in Nicaragua's UFO Cases?
-title: What Really Happened in Nicaragua's UFO Cases?
+title: "Separating Reports From Evidence in Nicaragua"
 title_full: What Really Happened in Nicaragua's UFO Cases?
 display_title_short: What Really Happened in Nicaragua's UFO Cases?
-display_title: What Really Happened in Nicaragua's UFO Cases?
+display_title: "Separating Reports From Evidence in Nicaragua"
 heading_title: What Really Happened in Nicaragua's UFO Cases?
-page_heading_title: What Really Happened in Nicaragua's UFO Cases?
+page_heading_title: "Separating Reports From Evidence in Nicaragua"
 source_count: 123
 infographic_count: 3
 page_website_name: Nicaragua
@@ -1283,8 +1283,7 @@ No strong evidence was found for a continuous Nicaraguan government UAP office, 
 
 <figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Original document</div><img src="{{ "/assets/images/Nicaragua_481264-photo1.webp" | relative_url }}" alt="Project Blue Book, complete status reports Untitled" loading="lazy" decoding="async"><figcaption><strong>Project Blue Book, complete status reports</strong><span class="archive-evidence-meta">US Air Force &middot; Wikimedia Commons &middot; 1951-1955 &middot; 127155209</span><span class="archive-evidence-explanation">This Project Blue Book document is a primary archival record from the same investigation programme that contains the 1962 Managua case, making it a directly relevant and recognisable real artifact that strengthens the article’s evidence‑led framing.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Project_Blue_Book,_complete_status_reports.pdf" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Nicaragua's UFO record
 The most useful way to assess Nicaragua’s record is to separate the existence of an observation from claims about its cause.
 
 **Confirmed observations or events**

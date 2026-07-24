@@ -211,12 +211,12 @@ hero_summary: Malaysia has a long but poorly documented history of unidentified 
 layout: default
 permalink: /what-really-happened-in-malaysias-ufo/
 nav_short_title: What Really Happened in Malaysia's UFO Cases?
-title: What Really Happened in Malaysia's UFO Cases?
+title: "Malaysia's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Malaysia's UFO Cases?
 display_title_short: What Really Happened in Malaysia's UFO Cases?
-display_title: What Really Happened in Malaysia's UFO Cases?
+display_title: "Malaysia's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Malaysia's UFO Cases?
-page_heading_title: What Really Happened in Malaysia's UFO Cases?
+page_heading_title: "Malaysia's UFO Files: Claims, Cases and Explanations"
 source_count: 108
 infographic_count: 3
 page_website_name: Malaysia
@@ -1318,8 +1318,7 @@ In April 2026, the ministry investigated footage of a possible object or debris 
 
 The pattern is revealing. Malaysia’s [official response]({{ 'official-response/' | relative_url }}) has evolved not into a secretive “UFO programme”, but towards space situational awareness—the tracking and interpretation of objects orbiting or re-entering Earth.
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Malaysia's UFO record
 The word “UFO” means only that an observed object was unidentified at the time. It does not establish that the object was a spacecraft, alien technology or even a solid object.
 
 

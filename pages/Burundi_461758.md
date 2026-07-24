@@ -1280,8 +1280,7 @@ No Burundi-specific UFO material was identified in the searchable public holding
 
 Similarly, recently published United States military imagery includes cases labelled only by broad regions such as “Africa”. Those entries do not identify Burundi. One African case was assessed as migratory birds, while others remained unresolved because the imagery did not provide enough information to determine what the sensors had recorded. None can responsibly be reassigned to Burundi without coordinates or an official location statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Burundi's UFO record
 Because no substantial Burundi case file was found, the usual evidence categories require careful wording.
 
 **Confirmed observations:** There are no located Burundi incidents confirmed through independent witnesses, calibrated instruments, aviation records or meteorological reconstruction. “Confirmed” here would mean confirmation that a specific phenomenon occurred, not confirmation of an extraterrestrial explanation.

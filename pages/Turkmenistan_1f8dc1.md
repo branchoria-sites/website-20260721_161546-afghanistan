@@ -211,12 +211,12 @@ hero_summary: Turkmenistan has no well-documented national UFO case comparable w
 layout: default
 permalink: /what-really-happened-in-turkmenistans/
 nav_short_title: What Really Happened in Turkmenistan's Skies?
-title: What Really Happened in Turkmenistan's Skies?
+title: "How Much UFO Evidence Does Turkmenistan Really Have?"
 title_full: What Really Happened in Turkmenistan's Skies?
 display_title_short: What Really Happened in Turkmenistan's Skies?
-display_title: What Really Happened in Turkmenistan's Skies?
+display_title: "How Much UFO Evidence Does Turkmenistan Really Have?"
 heading_title: What Really Happened in Turkmenistan's Skies?
-page_heading_title: What Really Happened in Turkmenistan's Skies?
+page_heading_title: "How Much UFO Evidence Does Turkmenistan Really Have?"
 source_count: 133
 infographic_count: 3
 page_website_name: Turkmenistan
@@ -1279,8 +1279,7 @@ Regional variation therefore reflects the distribution of surviving stories and 
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Turkmenistan&#x27;s... illustration 2" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Turkmenistan's UFO record
 The Turkmenistan material becomes clearer when separated by evidence quality.
 
 ### Confirmed facts

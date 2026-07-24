@@ -211,12 +211,12 @@ hero_summary: Iceland’s UFO history is best understood as a record of reported
 layout: default
 permalink: /what-really-happened-in-icelands-ufo/
 nav_short_title: What Really Happened in Iceland's UFO Stories?
-title: What Really Happened in Iceland's UFO Stories?
+title: "Inside the UFO Record of Iceland"
 title_full: What Really Happened in Iceland's UFO Stories?
 display_title_short: What Really Happened in Iceland's UFO Stories?
-display_title: What Really Happened in Iceland's UFO Stories?
+display_title: "Inside the UFO Record of Iceland"
 heading_title: What Really Happened in Iceland's UFO Stories?
-page_heading_title: What Really Happened in Iceland's UFO Stories?
+page_heading_title: "Inside the UFO Record of Iceland"
 source_count: 73
 infographic_count: 3
 page_website_name: Iceland UFO Files

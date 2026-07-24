@@ -211,12 +211,12 @@ hero_summary: Tajikistan has a small but intriguing UFO record, dominated by eye
 layout: default
 permalink: /what-really-happened-in-tajikistans-ufo/
 nav_short_title: What Really Happened in Tajikistan's UFO Cases?
-title: What Really Happened in Tajikistan's UFO Cases?
+title: "Why Is Tajikistan's UFO Record So Thin?"
 title_full: What Really Happened in Tajikistan's UFO Cases?
 display_title_short: What Really Happened in Tajikistan's UFO Cases?
-display_title: What Really Happened in Tajikistan's UFO Cases?
+display_title: "Why Is Tajikistan's UFO Record So Thin?"
 heading_title: What Really Happened in Tajikistan's UFO Cases?
-page_heading_title: What Really Happened in Tajikistan's UFO Cases?
+page_heading_title: "Why Is Tajikistan's UFO Record So Thin?"
 source_count: 99
 infographic_count: 3
 page_website_name: Tajikistan

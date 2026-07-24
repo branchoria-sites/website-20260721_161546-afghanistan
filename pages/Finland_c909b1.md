@@ -211,12 +211,12 @@ hero_summary: Finland has a long record of UFO reports, but its most notable cas
 layout: default
 permalink: /what-really-happened-in-finlands-ufo/
 nav_short_title: What Really Happened in Finland's UFO Cases?
-title: What Really Happened in Finland's UFO Cases?
+title: "Sightings, Files and False Alarms in Finland"
 title_full: What Really Happened in Finland's UFO Cases?
 display_title_short: What Really Happened in Finland's UFO Cases?
-display_title: What Really Happened in Finland's UFO Cases?
+display_title: "Sightings, Files and False Alarms in Finland"
 heading_title: What Really Happened in Finland's UFO Cases?
-page_heading_title: What Really Happened in Finland's UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in Finland"
 source_count: 68
 infographic_count: 3
 page_website_name: Finland UFO Files

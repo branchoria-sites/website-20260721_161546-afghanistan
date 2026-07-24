@@ -1341,8 +1341,7 @@ Social-media posts are weaker still when they lack original files, exact dates, 
 
 A credible local case would ideally include the original recording; precise date and local time; island and viewing position; direction and angular elevation; duration; apparent movement relative to stars or clouds; weather conditions; multiple independent witnesses; and checks against aviation, shipping, missile, satellite and meteor records. Without these elements, confidence should remain low regardless of how remarkable a description sounds.
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Marshall Islands' UFO record
 The evidence divides cleanly into three levels.
 
 **Confirmed or well explained**

@@ -1303,8 +1303,7 @@ This does not prove that every Egyptian sighting has a simple explanation, but i
 
 <img src="{{ "/assets/images/Egypt_1c39ab-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Egypt&#x27;s UFO Stories? illustration 2" data-theme-src-dark="{{ "/assets/images/Egypt_1c39ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Egypt_1c39ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Egypt's UFO record
 The Egyptian UFO record is best understood by separating different levels of evidence.
 
 **Confirmed:**

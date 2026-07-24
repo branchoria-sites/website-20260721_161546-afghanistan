@@ -211,12 +211,12 @@ hero_summary: South Korea has a substantial history of unusual aerial reports, b
 layout: default
 permalink: /what-really-happened-in-south-koreas/
 nav_short_title: What Really Happened in South Korea's Skies?
-title: What Really Happened in South Korea's Skies?
+title: "What the UFO Record From South Korea Actually Shows"
 title_full: What Really Happened in South Korea's Skies?
 display_title_short: What Really Happened in South Korea's Skies?
-display_title: What Really Happened in South Korea's Skies?
+display_title: "What the UFO Record From South Korea Actually Shows"
 heading_title: What Really Happened in South Korea's Skies?
-page_heading_title: What Really Happened in South Korea's Skies?
+page_heading_title: "What the UFO Record From South Korea Actually Shows"
 source_count: 188
 infographic_count: 3
 page_website_name: Korea UFO Files
@@ -1334,8 +1334,7 @@ The country’s geography adds further ambiguity. Mountains can block the lower 
 
 Better evidence requires more than a striking image. A useful case should preserve the original file, exact time and location, viewing direction, camera settings and witness account. Independent recordings should be compared rather than simply compiled. Investigators should check flight tracking, astronomical data, weather, balloon releases, rocket notices and military statements before assigning an unexplained classification. Two separated cameras, as used by South Korean meteor researchers, can establish a trajectory and altitude that a single smartphone recording cannot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-## The most defensible assessment
-
+## Reading the evidence around South Korea's UFO record conservatively
 South Korea has experienced real and sometimes dramatic unidentified-aerial incidents, including wartime military reports, a hazardous air-defence response over Seoul and nationwide public scares. Yet the evidential record is dominated by incomplete files, retrospective testimony and observations later attributable to ordinary aerospace or astronomical causes.
 
 The 1976 Seoul case remains the country’s strongest unresolved historical episode because it involved mass observation, military action and an official explanation that does not answer every reported detail. Even so, the available evidence does not demonstrate a craft of non-human origin. The Korean War files are valuable archival records but are constrained by battlefield conditions and uneven investigation. Modern cases repeatedly show that rockets, meteors, balloons and digital manipulation can produce persuasive UFO narratives before basic contextual information becomes available.

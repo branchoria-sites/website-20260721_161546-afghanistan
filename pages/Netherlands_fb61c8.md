@@ -211,12 +211,12 @@ hero_summary: The Netherlands has a substantial record of reported unidentified 
 layout: default
 permalink: /netherlands/
 nav_short_title: What Really Happened in the Dutch Skies?
-title: What Really Happened in the Dutch Skies?
+title: "Sightings, Files and False Alarms in the Netherlands"
 title_full: What Really Happened in the Dutch Skies?
 display_title_short: What Really Happened in the Dutch Skies?
-display_title: What Really Happened in the Dutch Skies?
+display_title: "Sightings, Files and False Alarms in the Netherlands"
 heading_title: What Really Happened in the Dutch Skies?
-page_heading_title: What Really Happened in the Dutch Skies?
+page_heading_title: "Sightings, Files and False Alarms in the Netherlands"
 source_count: 88
 infographic_count: 3
 page_website_name: Dutch UFO Files
@@ -1329,8 +1329,7 @@ The most useful future archival work would therefore be procedural rather than s
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9dqgLsirxz8" title="👽 UFOs of Soesterberg | The 1979 Air Base Sighting – Full Documentary" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9dqgLsirxz8" target="_blank" rel="noopener noreferrer">👽 UFOs of Soesterberg | The 1979 Air Base Sighting – Full Documentary</a></p><p class="youtube-embed-meta">Channel: TenaaTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9dqgLsirxz8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9dqgLsirxz8">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Netherlands' UFO record
 The Dutch evidence is clearest when separated by status.
 
 **Confirmed observations with ordinary explanations** include the 2019 Starlink procession and many reports matched to planets, aircraft, balloons, drones or industrial lighting. These incidents matter because the witnesses often did see something unusual; the error lay in identification rather than fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufomeldpunt.nl/verklaringen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Verklaringen</span><span class="citation-popover-snippet">UFO Meldpunt Nederland Verklaringen</span></span></span>

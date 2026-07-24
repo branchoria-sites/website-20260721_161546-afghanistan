@@ -1283,8 +1283,7 @@ Indian documentation is more difficult to evaluate because there is no readily a
 
 This fragmented record creates two opposite errors. Enthusiasts may interpret missing documents as evidence of concealment; sceptics may assume that an incomplete case is automatically worthless. A more defensible position is that secrecy and poor disclosure can prevent identification without making an extraordinary explanation more probable.
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for India's UFO record
 The most useful way to assess Indian UFO cases is to separate what is demonstrably true from what witnesses or later commentators inferred.
 
 

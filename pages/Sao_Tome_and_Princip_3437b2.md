@@ -1287,8 +1287,7 @@ The lack of a famous case does not make every unusual observation trivial. São 
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-2-dark.svg" | relative_url }}" alt="Sao Tome and Principe illustration 2" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Sao Tome and Principe's UFO record
 The existing São Tomé and Príncipe material can be divided more accurately by evidential status than by dramatic case type.
 
 ### Confirmed

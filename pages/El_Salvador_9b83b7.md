@@ -211,12 +211,12 @@ hero_summary: Reports of unidentified flying objects (UFOs, or OVNIs in Spanish)
 layout: default
 permalink: /what-really-happened-in-el-salvadors-ufo/
 nav_short_title: What Really Happened in El Salvador's UFO Cases?
-title: What Really Happened in El Salvador's UFO Cases?
+title: "Which UFO Claims From El Salvador Hold Up?"
 title_full: What Really Happened in El Salvador's UFO Cases?
 display_title_short: What Really Happened in El Salvador's UFO Cases?
-display_title: What Really Happened in El Salvador's UFO Cases?
+display_title: "Which UFO Claims From El Salvador Hold Up?"
 heading_title: What Really Happened in El Salvador's UFO Cases?
-page_heading_title: What Really Happened in El Salvador's UFO Cases?
+page_heading_title: "Which UFO Claims From El Salvador Hold Up?"
 source_count: 84
 infographic_count: 3
 page_website_name: Salvador UFO Files

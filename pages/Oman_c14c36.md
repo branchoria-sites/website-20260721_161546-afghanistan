@@ -211,12 +211,12 @@ hero_summary: Oman has a small and fragmented UFO record rather than a well-docu
 layout: default
 permalink: /what-really-happened-in-omans-ufo-cases/
 nav_short_title: What Really Happened in Oman's UFO Cases?
-title: What Really Happened in Oman's UFO Cases?
+title: "Separating Reports From Evidence in Oman"
 title_full: What Really Happened in Oman's UFO Cases?
 display_title_short: What Really Happened in Oman's UFO Cases?
-display_title: What Really Happened in Oman's UFO Cases?
+display_title: "Separating Reports From Evidence in Oman"
 heading_title: What Really Happened in Oman's UFO Cases?
-page_heading_title: What Really Happened in Oman's UFO Cases?
+page_heading_title: "Separating Reports From Evidence in Oman"
 source_count: 101
 infographic_count: 3
 page_website_name: Oman
@@ -1337,8 +1337,7 @@ No prominent Oman-based UFO investigation organisation with a sustained public c
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t-XlB2JeI3w" title="New video raises questions at House hearing on UFOs" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 2:58">2:58</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t-XlB2JeI3w" target="_blank" rel="noopener noreferrer">New video raises questions at House hearing on UFOs</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 69.5K &middot; Uploaded: September 2025 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t-XlB2JeI3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t-XlB2JeI3w">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Oman's UFO record
 The available Oman material can be sorted into three broad evidence levels.
 
 **Explained or strongly identified**
@@ -1390,8 +1389,7 @@ For genuinely difficult cases, modern scientific proposals favour multiple senso
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-gGbw5Dr-Jo" title="UFO sighting in Gulf of Oman." loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-gGbw5Dr-Jo" target="_blank" rel="noopener noreferrer">UFO sighting in Gulf of Oman.</a></p><p class="youtube-embed-meta">Channel: ORYG1N</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-gGbw5Dr-Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-gGbw5Dr-Jo">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## The strongest conclusion supported by Oman's UFO record
 Oman has UFO reports, but it does not yet have a strong, coherent body of UFO evidence. Its most prominent incidents fall into two categories: spectacular astronomical or spaceflight phenomena that received plausible explanations, and isolated observations too poorly documented to resolve.
 
 The national pattern is therefore one of **limited reporting rather than persistent anomaly**. Muscat dominates the databases because it has more observers, visitors, cameras and air traffic, while the rest of the country is scarcely represented. Local astronomers have repeatedly supplied the most credible interpretations, especially for meteors, rocket debris and rare atmospheric displays.

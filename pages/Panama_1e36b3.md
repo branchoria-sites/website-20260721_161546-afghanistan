@@ -211,12 +211,12 @@ hero_summary: Panama has a genuine history of UFO reporting, but not a strong bo
 layout: default
 permalink: /what-really-happened-in-panamas-ufo/
 nav_short_title: What Really Happened in Panama's UFO Cases?
-title: What Really Happened in Panama's UFO Cases?
+title: "Panama's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Panama's UFO Cases?
 display_title_short: What Really Happened in Panama's UFO Cases?
-display_title: What Really Happened in Panama's UFO Cases?
+display_title: "Panama's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Panama's UFO Cases?
-page_heading_title: What Really Happened in Panama's UFO Cases?
+page_heading_title: "Panama's UFO Files: Claims, Cases and Explanations"
 source_count: 164
 infographic_count: 3
 page_website_name: Panama
@@ -1309,8 +1309,7 @@ Historical US records may also be relevant because the former Canal Zone contain
 
 <img src="{{ "/assets/images/Panama_1e36b3-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Panama&#x27;s UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Panama's UFO record
 The Panamanian material becomes clearer when divided by evidential status.
 
 **Confirmed observations** are cases in which people demonstrably photographed or reported something they could not identify. The 2015 Panama City photographs and the 2016 Bugaba sequence fit this limited definition. Their existence as reports is confirmed; the extraordinary nature of the objects is not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.critica.com.pa/chiriqui/ovni-la-vista-241001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pa</span><span class="citation-popover-title">Crítica¡Ovni a la vista!</span><span class="citation-popover-snippet">ChiriquíEl avistamiento en el cielo chiricano de un objeto volador no identificado (ovni) fue reportado por un ciudadano, quien logró alg...</span></span></span>

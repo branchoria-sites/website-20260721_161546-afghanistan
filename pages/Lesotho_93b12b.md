@@ -211,12 +211,12 @@ hero_summary: Lesotho’s UFO record is exceptionally thin. The country has no w
 layout: default
 permalink: /what-really-happened-in-lesothos-ufo/
 nav_short_title: What Really Happened in Lesotho's UFO Story?
-title: What Really Happened in Lesotho's UFO Story?
+title: "Separating Reports From Evidence in Lesotho"
 title_full: What Really Happened in Lesotho's UFO Story?
 display_title_short: What Really Happened in Lesotho's UFO Story?
-display_title: What Really Happened in Lesotho's UFO Story?
+display_title: "Separating Reports From Evidence in Lesotho"
 heading_title: What Really Happened in Lesotho's UFO Story?
-page_heading_title: What Really Happened in Lesotho's UFO Story?
+page_heading_title: "Separating Reports From Evidence in Lesotho"
 source_count: 98
 infographic_count: 3
 page_website_name: Lesotho

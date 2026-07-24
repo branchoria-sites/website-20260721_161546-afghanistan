@@ -211,12 +211,12 @@ hero_summary: Libya has a small but intriguing UFO record, concentrated overwhel
 layout: default
 permalink: /what-really-happened-in-libyas-ufo-cases/
 nav_short_title: What Really Happened in Libya's UFO Cases?
-title: What Really Happened in Libya's UFO Cases?
+title: "Separating Reports From Evidence in Libya"
 title_full: What Really Happened in Libya's UFO Cases?
 display_title_short: What Really Happened in Libya's UFO Cases?
-display_title: What Really Happened in Libya's UFO Cases?
+display_title: "Separating Reports From Evidence in Libya"
 heading_title: What Really Happened in Libya's UFO Cases?
-page_heading_title: What Really Happened in Libya's UFO Cases?
+page_heading_title: "Separating Reports From Evidence in Libya"
 source_count: 159
 infographic_count: 3
 page_website_name: Libya
@@ -1329,8 +1329,7 @@ Current official UAP investigations elsewhere consistently find that balloons, b
 
 <img src="{{ "/assets/images/Libya_55949d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Libya&#x27;s UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Libya_55949d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Libya's UFO record
 The Libyan record becomes clearer when separated by evidential status.
 
 **Confirmed as reports:** US-linked UFO observations were recorded around Wheelus during the 1950s, including radar-related incidents. Their existence as reports is supported by Blue Book-derived indexes, archival finding aids and specialist reproductions. That confirms that observers and investigators reported anomalies; it does not confirm the observers’ interpretation of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesBulk Downloads for Records Related to Unidentified...ARCHIVES: NATIONAL: PROJECT BLUE BOOK: UFO SIGHTINGS · catalog-exp...</span></span></span>
@@ -1374,8 +1373,7 @@ The decisive distinction is not between “identified” and “alien”. It is 
 
 <img src="{{ "/assets/images/Libya_55949d-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Libya&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Libya_55949d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## What the record supports about Libya's UFO record
 Libya’s UFO history is real in the limited sense that unusual aerial observations were formally recorded, particularly at Wheelus Air Base in the 1950s. The January 1956 radar track and September 1958 visual-radar report deserve archival attention because they are linked to an official investigative system and potentially contain more information than is visible in online summaries.
 
 Beyond that narrow core, the evidence weakens quickly. The famous 1954 landing story is poorly sourced, retrospective reports suffer from memory and documentation problems, and modern conflict footage is inseparable from Libya’s crowded world of aircraft, drones, missiles and covert foreign intervention. The apparent Tripoli concentration is best understood as a product of radar coverage and American reporting infrastructure, not proof that the capital experienced an exceptional phenomenon.

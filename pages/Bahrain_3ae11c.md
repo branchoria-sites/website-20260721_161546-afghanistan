@@ -211,12 +211,12 @@ hero_summary: Bahrain has a small but traceable UFO record, dominated by isolate
 layout: default
 permalink: /what-really-happened-in-bahrains-ufo/
 nav_short_title: What Really Happened in Bahrain's UFO Cases?
-title: What Really Happened in Bahrain's UFO Cases?
+title: "Separating Reports From Evidence in Bahrain"
 title_full: What Really Happened in Bahrain's UFO Cases?
 display_title_short: What Really Happened in Bahrain's UFO Cases?
-display_title: What Really Happened in Bahrain's UFO Cases?
+display_title: "Separating Reports From Evidence in Bahrain"
 heading_title: What Really Happened in Bahrain's UFO Cases?
-page_heading_title: What Really Happened in Bahrain's UFO Cases?
+page_heading_title: "Separating Reports From Evidence in Bahrain"
 source_count: 93
 infographic_count: 3
 page_website_name: Bahrain
@@ -1305,8 +1305,7 @@ The strongest conclusion is consequently modest: **there is no accessible eviden
 
 <img src="{{ "/assets/images/Bahrain_3ae11c-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Bahrain&#x27;s UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Bahrain_3ae11c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bahrain_3ae11c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## Claims, explanations and evidence in Bahrain's UFO record
 The surviving material becomes clearer when separated by evidential status.
 
 **Confirmed observations**
@@ -1375,8 +1374,7 @@ The scarcity of reliable local material also creates an archival distortion. A d
 
 <img src="{{ "/assets/images/Bahrain_3ae11c-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Bahrain&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Bahrain_3ae11c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bahrain_3ae11c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## What the record supports about Bahrain's UFO record
 Bahrain has a genuine folklore and reporting history of unusual aerial observations, but not a well-documented catalogue of high-quality UFO cases. Its public chronology is short, fragmented and heavily dependent on voluntary submissions and local media stories. The most prominent incidents remain unidentified only in the ordinary evidential sense: too little information survives to determine exactly what was seen.
 
 No case currently provides a persuasive basis for concluding that Bahrain has hosted an aircraft displaying technology beyond known human capability. Nor does the record justify declaring every report solved. The balanced position lies between those extremes: witnesses probably observed real lights or visual forms, conventional explanations remain plausible, and the failure to record the events properly has left some of them permanently ambiguous.

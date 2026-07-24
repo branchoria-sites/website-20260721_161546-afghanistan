@@ -211,12 +211,12 @@ hero_summary: Latvia has a recognisable UFO folklore, but not a well-documented 
 layout: default
 permalink: /what-really-happened-in-latvias-ufo/
 nav_short_title: What Really Happened in Latvia's UFO Cases?
-title: What Really Happened in Latvia's UFO Cases?
+title: "Sightings, Files and False Alarms in Latvia"
 title_full: What Really Happened in Latvia's UFO Cases?
 display_title_short: What Really Happened in Latvia's UFO Cases?
-display_title: What Really Happened in Latvia's UFO Cases?
+display_title: "Sightings, Files and False Alarms in Latvia"
 heading_title: What Really Happened in Latvia's UFO Cases?
-page_heading_title: What Really Happened in Latvia's UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in Latvia"
 source_count: 94
 infographic_count: 3
 page_website_name: Latvia
@@ -1340,8 +1340,7 @@ Similarly, Latvian defence announcements concern airspace protection. The armed 
 
 Publicly available Latvian material therefore differs from the large declassified UFO collections associated with the United States or United Kingdom. The Latvian record is dispersed among aviation reports, defence statements, media archives, amateur compilations and private videos. Any undisclosed Soviet military holdings would require careful archival work and authentication before they could be treated as evidence.
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Latvia's UFO record
 The Latvian evidence is easiest to understand when separated by outcome rather than by how dramatic a report initially sounded.
 
 
@@ -1420,8 +1419,7 @@ Modern scientific proposals for studying unidentified aerial phenomena emphasise
 
 None of Latvia’s widely circulated historical cases currently meets that standard in the public record.
 
-## The most defensible assessment
-
+## What the record supports about Latvia's UFO record
 Latvia has a modest but culturally persistent UFO tradition, centred on recurring local stories, a handful of night-time videos and occasional incidents that briefly engage emergency, aviation or defence authorities. Its most famous examples do not form a consistent pattern of extraordinary craft.
 
 The strongest investigated cases have ordinary outcomes: a meteor, migratory birds, drone-related confusion or a publicity hoax. The most intriguing claims—particularly those connected with Višķi, Liepāja Lake and alleged Soviet military activity—remain weak because the evidential record is fragmented. They may describe genuine observations, but there is not enough information to determine what was observed.

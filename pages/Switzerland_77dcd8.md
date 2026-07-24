@@ -211,12 +211,12 @@ hero_summary: Switzerland has a genuine UFO history, but not a strong body of ev
 layout: default
 permalink: /what-really-happened-in-switzerlands/
 nav_short_title: What Really Happened in Switzerland's Skies?
-title: What Really Happened in Switzerland's Skies?
+title: "Tracing the UFO Reports of Switzerland"
 title_full: What Really Happened in Switzerland's Skies?
 display_title_short: What Really Happened in Switzerland's Skies?
-display_title: What Really Happened in Switzerland's Skies?
+display_title: "Tracing the UFO Reports of Switzerland"
 heading_title: What Really Happened in Switzerland's Skies?
-page_heading_title: What Really Happened in Switzerland's Skies?
+page_heading_title: "Tracing the UFO Reports of Switzerland"
 source_count: 124
 infographic_count: 3
 page_website_name: Swiss UFO Files

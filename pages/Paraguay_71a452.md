@@ -211,12 +211,12 @@ hero_summary: Paraguay has a genuine history of UFO reporting, but not a strong 
 layout: default
 permalink: /what-really-happened-in-paraguays-ufo/
 nav_short_title: What Really Happened in Paraguay's UFO Skies?
-title: What Really Happened in Paraguay's UFO Skies?
+title: "How Strong Is the UFO Evidence From Paraguay?"
 title_full: What Really Happened in Paraguay's UFO Skies?
 display_title_short: What Really Happened in Paraguay's UFO Skies?
-display_title: What Really Happened in Paraguay's UFO Skies?
+display_title: "How Strong Is the UFO Evidence From Paraguay?"
 heading_title: What Really Happened in Paraguay's UFO Skies?
-page_heading_title: What Really Happened in Paraguay's UFO Skies?
+page_heading_title: "How Strong Is the UFO Evidence From Paraguay?"
 source_count: 150
 infographic_count: 3
 page_website_name: Paraguay
@@ -1362,8 +1362,7 @@ Cases lacking most of these elements may still be sincere, but they cannot suppo
 
 <img src="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Paraguay's UFO record
 ### What is confirmed
 
 It is confirmed that Paraguay has produced recurring reports of unusual aerial phenomena, including reports by pilots and air-traffic personnel. It is also confirmed that some Paraguayan cases entered foreign military or private UFO archives, and that national researchers have assembled a substantial historical collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/edicion-impresa/suplementos/abc-revista/el-retorno-de-la-fantasia-1503677.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">ABCEl retorno de la fantasía</span><span class="citation-popover-snippet">ABCEl retorno de la fantasía</span></span></span>

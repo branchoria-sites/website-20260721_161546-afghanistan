@@ -1349,8 +1349,7 @@ A single phone video of a distant light is usually weak evidence. Without range,
 
 <img src="{{ "/assets/images/Comoros_e5bb59-Illustration-3-dark.svg" | relative_url }}" alt="What Do We Really Know About Comoros UFOs? illustration 3" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## What the record supports about Comoros' UFO record
 The Comoros UFO record is defined by missing documentation rather than a sequence of compelling encounters. No accessible incident presently supports claims of an anomalous craft, extraterrestrial visitation or a national pattern. Online pages that imply numerous reports do not supply the evidence needed to verify those claims, while major public databases provide little or no usable Comoros-specific material.
 
 The correct assessment is therefore **insufficient evidence**, not “nothing ever happened” and not “an unexplained presence has been confirmed”. Comoros remains a genuine blank area in public UAP documentation: potentially containing unrecorded observations, but lacking the dated testimony, official files and sensor evidence required to turn stories into defensible cases.

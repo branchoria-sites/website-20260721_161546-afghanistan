@@ -211,12 +211,12 @@ hero_summary: Hungary has a long but uneven record of UFO reports, ranging from 
 layout: default
 permalink: /what-really-happened-in-hungarys-ufo/
 nav_short_title: What Really Happened in Hungary's UFO Cases?
-title: What Really Happened in Hungary's UFO Cases?
+title: "From Strange Sightings to Answers in Hungary"
 title_full: What Really Happened in Hungary's UFO Cases?
 display_title_short: What Really Happened in Hungary's UFO Cases?
-display_title: What Really Happened in Hungary's UFO Cases?
+display_title: "From Strange Sightings to Answers in Hungary"
 heading_title: What Really Happened in Hungary's UFO Cases?
-page_heading_title: What Really Happened in Hungary's UFO Cases?
+page_heading_title: "From Strange Sightings to Answers in Hungary"
 source_count: 74
 infographic_count: 3
 page_website_name: Hungary UFO Files

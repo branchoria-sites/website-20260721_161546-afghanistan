@@ -457,8 +457,7 @@ That is different from demonstrating that an object was extraordinary.
 
 Likewise, the absence of a conventional explanation today does not automatically support an extraterrestrial explanation. It more often reflects insufficient evidence.
 
-## Overall assessment
-
+## The balanced reading of Source Check
 The available source landscape for Antigua and Barbuda is uneven but manageable. Local contemporary reporting provides the best starting point because it records eyewitness accounts close to the time of an event. Official launch schedules, aviation information and astronomical data provide the strongest tools for testing those accounts. Commercial UFO databases are useful catalogues but should not be treated as verified case files, while anonymous social-media claims and recycled internet stories deserve the greatest scepticism.
 
 Given the country's sparse documented record, credibility depends less on how dramatic a claim appears than on whether it can withstand independent verification. At present, no publicly documented Antigua case combines multiple independent witnesses, high-quality physical evidence, official sensor data and the elimination of known aerospace explanations strongly enough to justify treating it as a confirmed unexplained phenomenon.

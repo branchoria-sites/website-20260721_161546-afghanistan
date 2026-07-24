@@ -1323,8 +1323,7 @@ A serious investigation of a future Czech UAP would ideally require several inde
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hF_tM4Q4ED4" title="The Vranov UFO Incident #ufo #czechoslovakia #history#paranormal" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:24">1:24</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hF_tM4Q4ED4" target="_blank" rel="noopener noreferrer">The Vranov UFO Incident #ufo #czechoslovakia #history#paranormal</a></p><p class="youtube-embed-meta">Channel: rayinprague &middot; Views: 101 &middot; Uploaded: November 2024 &middot; Length: 1 minute 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hF_tM4Q4ED4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hF_tM4Q4ED4">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked
-
+## The evidence ledger for Czechia's UFO record
 The Czech record becomes clearer when claims are separated by what the evidence actually supports.
 
 **Confirmed facts include:**
@@ -1356,8 +1355,7 @@ The Czech sceptical organisation Sisyfos has sometimes expressed that position c
 
 <img src="{{ "/assets/images/Czech_Republic_0c207e-Illustration-3-dark.svg" | relative_url }}" alt="Czech Republic illustration 3" data-theme-src-dark="{{ "/assets/images/Czech_Republic_0c207e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czech_Republic_0c207e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## The strongest conclusion supported by Czechia's UFO record
 The Czech Republic’s UFO history is strongest as a study of reporting, military uncertainty and the limits of retrospective evidence. Vranov stands out because trained personnel and radar were allegedly involved, but the missing primary records prevent a decisive judgement. Miličín is memorable because of the number and richness of its stories, yet its extraordinary claims become less secure as they move away from simple observations of light. The western [border cases]({{ 'border-cases/' | relative_url }}) deserve archival attention, but published summaries lack the technical detail needed to distinguish unusual craft from ordinary radar and aviation problems.
 
 No publicly available Czech incident currently meets the standard required to demonstrate extraterrestrial technology: independently authenticated sensor data, known geometry, reliable chain of custody and evidence that excludes conventional objects, atmospheric phenomena and instrument error. That does not render the national archive worthless. It shows where the real historical questions lie—what witnesses experienced, how military systems responded, which records survive and why uncertain observations were transformed into enduring stories.

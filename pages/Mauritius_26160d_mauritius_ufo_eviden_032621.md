@@ -316,8 +316,7 @@ Most reported incidents share several characteristics:
 
 These limitations make it difficult to distinguish between genuinely unusual phenomena and ordinary misidentifications.
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Evidence
 Mauritius presents a useful contrast between sightings that received later explanations and those that simply remain undocumented.
 
 ### Cases with conventional explanations

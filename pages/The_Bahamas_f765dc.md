@@ -1306,8 +1306,7 @@ This episode demonstrates why identification should not be attempted from appear
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJCQUnCx0sY" title="Debris from SpaceX Starship flight 8 explosion streaks across Bahamas night sky" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:05">1:05</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJCQUnCx0sY" target="_blank" rel="noopener noreferrer">Debris from SpaceX Starship flight 8 explosion streaks across Bahamas night sky</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 134.5K &middot; Uploaded: March 2025 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJCQUnCx0sY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJCQUnCx0sY">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Bahamas' UFO record
 The Bahamian evidence can be divided into three broad categories.
 
 **Confirmed events** are observations for which an ordinary source has been independently established. The March 2025 Starship breakup is the strongest example. Rocket exhaust, debris re-entry, meteors, aircraft and satellites should be treated similarly when their timing and trajectories match the observation.

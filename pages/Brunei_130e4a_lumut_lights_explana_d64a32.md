@@ -425,8 +425,7 @@ Consequently, witness testimony establishes that people sincerely reported seein
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 10:56">10:56</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What keeps Lumut Lights unresolved
 More than fifteen years later, the Lumut lights occupy an unusual position within Brunei's limited UFO history. They are neither convincingly explained nor supported by evidence strong enough to justify extraordinary conclusions.
 
 The competing explanations can be assessed as follows:

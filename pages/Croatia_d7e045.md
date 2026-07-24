@@ -211,12 +211,12 @@ hero_summary: Croatia has a lively UFO tradition, but not a strong body of publi
 layout: default
 permalink: /what-really-happened-in-croatias-ufo/
 nav_short_title: What Really Happened in Croatia's UFO Mysteries?
-title: What Really Happened in Croatia's UFO Mysteries?
+title: "How Strong Is the UFO Evidence From Croatia?"
 title_full: What Really Happened in Croatia's UFO Mysteries?
 display_title_short: What Really Happened in Croatia's UFO Mysteries?
-display_title: What Really Happened in Croatia's UFO Mysteries?
+display_title: "How Strong Is the UFO Evidence From Croatia?"
 heading_title: What Really Happened in Croatia's UFO Mysteries?
-page_heading_title: What Really Happened in Croatia's UFO Mysteries?
+page_heading_title: "How Strong Is the UFO Evidence From Croatia?"
 source_count: 116
 infographic_count: 3
 page_website_name: Croatia
@@ -1361,8 +1361,7 @@ The reliability of any Croatian case should therefore be judged by its evidentia
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TKPSIMEzp9c" title="UFO Triangle of Pag! Motorcycle adventure towards TET Croatia" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 12:04">12:04</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TKPSIMEzp9c" target="_blank" rel="noopener noreferrer">UFO Triangle of Pag! Motorcycle adventure towards TET Croatia</a></p><p class="youtube-embed-meta">Channel: OFFroad-OFFcourse &middot; Views: 4.0K &middot; Uploaded: June 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TKPSIMEzp9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TKPSIMEzp9c">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Croatia's UFO record
 The Croatian record becomes clearer when claims are divided by what the evidence actually supports.
 
 ### Confirmed observations
@@ -1412,8 +1411,7 @@ The decisive improvement would be a standard national reporting protocol rather 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YbgbviR6NtM" title="UFO(orb) sightings above Hvar, Croatia 28.Aug.2016." loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:25">3:25</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer">UFO(orb) sightings above Hvar, Croatia 28.Aug.2016.</a></p><p class="youtube-embed-meta">Channel: Hvar Live &middot; Views: 10.7K &middot; Uploaded: August 2016 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YbgbviR6NtM">Open on YouTube</a></p></div></div></div>
 
-## The most defensible conclusion
-
+## What the record supports about Croatia's UFO record
 Croatia has authentic UFO folklore, authentic witness reports and several memorable physical mysteries, but no publicly demonstrated case that establishes extraterrestrial technology. The Pag Triangle owes much of its fame to suggestive geometry and tourism; the Adriatic circles became an ecological research question once divers examined them; the Zagreb scare showed how quickly expectation can manufacture a mass-sighting narrative.
 
 A small residue of Croatian reports remains unidentified because information is missing, not because ordinary causes have been conclusively ruled out. That distinction is the key to reading the national record responsibly. The interesting question is not whether witnesses “really saw something” — many plainly did — but whether the surviving evidence is detailed enough to determine what that something was. In most Croatian cases, it is not.

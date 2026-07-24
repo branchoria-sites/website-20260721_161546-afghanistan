@@ -211,12 +211,12 @@ hero_summary: Cuba has a real history of reported unidentified flying objects, b
 layout: default
 permalink: /what-really-happened-in-cubas-ufo-cases/
 nav_short_title: What Really Happened in Cuba's UFO Cases?
-title: What Really Happened in Cuba's UFO Cases?
+title: "Cuba's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Cuba's UFO Cases?
 display_title_short: What Really Happened in Cuba's UFO Cases?
-display_title: What Really Happened in Cuba's UFO Cases?
+display_title: "Cuba's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Cuba's UFO Cases?
-page_heading_title: What Really Happened in Cuba's UFO Cases?
+page_heading_title: "Cuba's UFO Files: Claims, Cases and Explanations"
 source_count: 83
 infographic_count: 3
 page_website_name: Cuba UFO Files

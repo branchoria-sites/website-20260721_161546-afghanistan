@@ -211,12 +211,12 @@ hero_summary: UFO reports in the Philippines form a real but fragmented historic
 layout: default
 permalink: /philippines/
 nav_short_title: What Really Happened in Philippine UFO Cases?
-title: What Really Happened in Philippine UFO Cases?
+title: "Sightings, Files and False Alarms in the Philippines"
 title_full: What Really Happened in Philippine UFO Cases?
 display_title_short: What Really Happened in Philippine UFO Cases?
-display_title: What Really Happened in Philippine UFO Cases?
+display_title: "Sightings, Files and False Alarms in the Philippines"
 heading_title: What Really Happened in Philippine UFO Cases?
-page_heading_title: What Really Happened in Philippine UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in the Philippines"
 source_count: 155
 infographic_count: 3
 page_website_name: Philippine UFO Files
@@ -1326,8 +1326,7 @@ Other common sources of Philippine reports are likely to include bright planets,
 
 <img src="{{ "/assets/images/Philippines_806736-Illustration-2-dark.svg" | relative_url }}" alt="Philippines illustration 2" data-theme-src-dark="{{ "/assets/images/Philippines_806736-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Philippines_806736-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Philippines' UFO record
 The Philippine evidence is easiest to understand when divided by outcome rather than by how dramatic a report sounds.
 
 ### Confirmed observations with identified causes

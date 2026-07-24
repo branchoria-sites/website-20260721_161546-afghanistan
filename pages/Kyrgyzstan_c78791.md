@@ -211,12 +211,12 @@ hero_summary: Kyrgyzstan has a recognisable body of UFO folklore, but very littl
 layout: default
 permalink: /what-really-happened-in-kyrgyzstans-ufo/
 nav_short_title: What Really Happened in Kyrgyzstan's UFO Cases?
-title: What Really Happened in Kyrgyzstan's UFO Cases?
+title: "Tracing the UFO Reports of Kyrgyzstan"
 title_full: What Really Happened in Kyrgyzstan's UFO Cases?
 display_title_short: What Really Happened in Kyrgyzstan's UFO Cases?
-display_title: What Really Happened in Kyrgyzstan's UFO Cases?
+display_title: "Tracing the UFO Reports of Kyrgyzstan"
 heading_title: What Really Happened in Kyrgyzstan's UFO Cases?
-page_heading_title: What Really Happened in Kyrgyzstan's UFO Cases?
+page_heading_title: "Tracing the UFO Reports of Kyrgyzstan"
 source_count: 102
 infographic_count: 3
 page_website_name: Kyrgyzstan
@@ -1349,8 +1349,7 @@ A more reliable Kyrgyz case file would need, at minimum, the exact date and time
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YSctDMU2rn0" title="Issyk Kul Lake in 4K – The Hidden Jewel of Kyrgyzstan’s Mountains" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YSctDMU2rn0" target="_blank" rel="noopener noreferrer">Issyk Kul Lake in 4K – The Hidden Jewel of Kyrgyzstan’s Mountains</a></p><p class="youtube-embed-meta">Channel: Verdelune</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YSctDMU2rn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YSctDMU2rn0">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked
-
+## Claims, explanations and evidence in Kyrgyzstan's UFO record
 The evidence can be divided into three practical categories.
 
 **Confirmed observations:** In some recent cases, multiple people or cameras may confirm that unusual lights were visible. This confirms the observation, not an extraordinary origin. A light remains unidentified only until enough contextual data are obtained.

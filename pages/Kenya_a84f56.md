@@ -1303,8 +1303,7 @@ The available cases do not justify calling any Kenyan county a proven UFO “hot
 
 Kenya’s regional variation is therefore largely variation in visibility, population, aviation activity, terrain and access to reporting channels—not evidence that unidentified craft preferentially visit one county.
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Kenya's UFO record
 The word “UFO” describes an observer’s temporary lack of identification. It does not describe the object’s origin. A useful Kenyan evidence map separates cases into three broad classes.
 
 
@@ -1397,8 +1396,7 @@ Modern scientific proposals for UAP study emphasise multiple instruments rather 
 
 Kenya is well placed for such work because it combines major aviation routes, equatorial orbital visibility, large dark-sky regions and an expanding national space sector. Yet without systematic collection, the national record will continue to consist mainly of anecdotes separated by long gaps.
 
-## The most defensible assessment
-
+## The strongest conclusion supported by Kenya's UFO record
 Kenya has one notable historical UFO report, several modern public scares and a substantial background of ordinary celestial and aerospace events that can generate unfamiliar appearances. The 1951 East African Airways case deserves preservation as an unresolved aviation observation because of its multiple witnesses and contemporary documentation. It does not provide recoverable physical proof or a sufficiently complete photographic record to establish an exotic craft.
 
 Recent incidents demonstrate a more practical lesson. A heavy piece of rocket hardware can fall into a Kenyan village and initially look extraordinary; a meteor can produce a brilliant light and surviving stones; a satellite or re-entering object can be visible across several counties. In each case, “unidentified” is the beginning of an investigation rather than its conclusion.

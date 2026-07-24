@@ -1311,8 +1311,7 @@ The databases themselves also carry structural biases. NUFORC is based in the Un
 
 <img src="{{ "/assets/images/Cameroon_73a7dd-Illustration-2-dark.svg" | relative_url }}" alt="What Do Cameroon&#x27;s UFO Records Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Cameroon_73a7dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cameroon_73a7dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked
-
+## Sorting confirmed and disputed claims from Cameroon's UFO record
 The most accurate evidence split for Cameroon is unusually straightforward.
 
 **Confirmed:** A small number of Cameroon-labelled reports exist in international civilian UFO databases. Cameroons aviation authority also operates channels through which unusual objects affecting flight safety could, in principle, be reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 Cameroon, 2. Caribbean, 2. Caribbean Sea, 10. Caribbean Sea/Atantic Ocean, 2... 68 New...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>

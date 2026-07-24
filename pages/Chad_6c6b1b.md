@@ -1312,8 +1312,7 @@ More importantly, no publicly identified Chadian government programme appears to
 
 A future discovery in diplomatic, colonial, military or civil-aviation records remains possible. French administrative archives may contain references from the period when Chad was part of French Equatorial Africa, while aviation organisations may hold incident logs not indexed under UFO terminology. Until exact documents emerge, however, supposed “declassified Chad UFO cases” should not be inferred from generic archive search results.
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Chad's UFO record
 The present evidence can be divided into three practical categories.
 
 **Confirmed event with a conventional identification:** The Zagobo object fell on 4 July 2024, was recovered and was identified as a meteorological radiosonde. The occurrence is well enough documented to accept, while its extraordinary interpretation is not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alwihdainfo.com">[Alwihda Info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alwihdainfo.com</span><span class="citation-popover-title">Alwihda Info Tchad: l&#x27;ASECNA rassure sur l&#x27;innocuité du ballon</span><span class="citation-popover-snippet">Alwihda InfoTchad: l&#x27;ASECNA rassure sur l&#x27;innocuité du ballon...July 7, 2024 — 7 Jul 2024 — Un objet volant non identifié (OVNI) s&#x27;est...</span><span class="citation-popover-meta">Published: July 7, 2024</span></span></span>
@@ -1353,8 +1352,7 @@ Reports should also preserve uncertainty. A witness may be reliable while still 
 
 <img src="{{ "/assets/images/Chad_6c6b1b-Illustration-3-dark.svg" | relative_url }}" alt="What Do Chad&#x27;s UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## Reading the evidence around Chad's UFO record conservatively
 Chad does not currently possess a credible public catalogue of persistent UFO mysteries. Its best-documented modern incident, the 2024 Zagobo event, began with a genuinely unfamiliar glowing object and ended with a straightforward identification as a weather-balloon radiosonde. Other alleged sightings remain too fragmentary to establish a reliable chronology, regional pattern or unexplained technological phenomenon.
 
 The responsible position is therefore neither to dismiss every witness nor to inflate gaps in documentation into evidence of alien activity. Chad’s UFO record is primarily a story about sparse reporting, weak archival continuity and the ease with which meteorological, astronomical or aviation objects can appear extraordinary when encountered without context. Until higher-quality cases emerge, the evidence supports caution rather than mystery.

@@ -1283,8 +1283,7 @@ Aircraft remain especially relevant around Tongatapu, home to Tonga’s principa
 
 <img src="{{ "/assets/images/Tonga_e8a123-Illustration-2-dark.svg" | relative_url }}" alt="What Really Explains Tonga&#x27;s UFO Stories? illustration 2" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Tonga's UFO record
 The evidence can be divided into three practical categories.
 
 **Confirmed observations** are events for which there is reasonable evidence that people saw or photographed something, without implying an extraordinary origin. The 1978 retrospective red-light account belongs here only in the limited sense that it is a recorded witness statement. The 2017 cloud photograph is also a genuine image of a cloud formation, although the religious figure exists in interpretation rather than as an independently established object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open &#124; 11/15/1978 23:00 &#124; Tonga (unspecified location) &#124; &#124; Tonga &#124; Unknown &#124; We saw a red light moving horizontally from left to right ac...</span></span></span>

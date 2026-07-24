@@ -211,12 +211,12 @@ hero_summary: New Zealand has a long record of reported unidentified flying obje
 layout: default
 permalink: /what-really-happened-in-new-zealands/
 nav_short_title: What Really Happened in New Zealand's Skies?
-title: What Really Happened in New Zealand's Skies?
+title: "The Stories Behind New Zealand's UFO Reputation"
 title_full: What Really Happened in New Zealand's Skies?
 display_title_short: What Really Happened in New Zealand's Skies?
-display_title: What Really Happened in New Zealand's Skies?
+display_title: "The Stories Behind New Zealand's UFO Reputation"
 heading_title: What Really Happened in New Zealand's Skies?
-page_heading_title: What Really Happened in New Zealand's Skies?
+page_heading_title: "The Stories Behind New Zealand's UFO Reputation"
 source_count: 89
 infographic_count: 3
 page_website_name: New Zealand

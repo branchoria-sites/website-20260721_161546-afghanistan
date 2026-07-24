@@ -1348,8 +1348,7 @@ For luminous aerial events, two geographically separated cameras are far more va
 
 <img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5-Illustration-3-dark.svg" | relative_url }}" alt="What Really Flew Over Saint Kitts and Nevis? illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## The strongest conclusion supported by Saint Kitts and Nevis' UFO record
 Saint Kitts and Nevis has experienced genuine episodes in which residents saw or recovered something they could not immediately identify. That limited claim is well supported. A smaller number of reports are preserved in civilian databases, and the Conyers incident prompted an acknowledged police investigation.
 
 The evidence does not support a national pattern of extraordinary aircraft. The best-observed recent wave was a SpaceX launch; another harbour sighting was judged probably rocket-related; and the remaining cases are too incomplete for confident identification. There is no verified cluster centred on Nevis, no publicly documented government programme devoted to UFO investigation, and no open case supported by the combination of sensor data, physical analysis and independent corroboration needed to demonstrate genuinely anomalous technology.

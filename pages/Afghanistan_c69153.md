@@ -1309,8 +1309,7 @@ Accounts published years after the alleged event deserve particular care. They m
 
 <figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Original document</div><img src="{{ "/assets/images/Afghanistan_c69153-photo1.webp" | relative_url }}" alt="Project Blue Book report - 1956-01-7340421-Afghanistan Untitled" loading="lazy" decoding="async"><figcaption><strong>Project Blue Book report - 1956-01-7340421-Afghanistan</strong><span class="archive-evidence-meta">Project Blue Book &middot; Wikimedia Commons &middot; 1956-01 &middot; 132925666</span><span class="archive-evidence-explanation">This is the only candidate that directly depicts the specific Afghanistan Project Blue Book file referenced in the article, making it the most relevant primary document.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Project_Blue_Book_report_-_1956-01-7340421-Afghanistan.pdf" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Afghanistan's UFO record
 The available Afghan material becomes clearer when “confirmed” refers to the existence of a record rather than confirmation of an extraordinary object.
 
 **Confirmed records**
@@ -1400,8 +1399,7 @@ The 2014 hoax failed several of these checks almost immediately. The 2020 milita
 
 <img src="{{ "/assets/images/Afghanistan_c69153-Illustration-3-dark.svg" | relative_url }}" alt="What Does Afghanistan&#x27;s UFO Record Actually... illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## Reading the evidence around Afghanistan's UFO record conservatively
 Afghanistan has an authentic but extremely limited documentary UFO history. Its central cases are not equal: the 1956 episode is a record of remarkable but unconfirmed reports; the 2020 infrared footage is a genuine investigative artefact whose content and provenance remain too uncertain for a physical conclusion; and the best-known viral “attack” video is a demonstrated fabrication.
 
 There is presently no strong public evidence that Afghanistan experienced a verified landing, recovery or encounter with technology exhibiting capabilities beyond known human systems. Nor is there enough consistent reporting to identify meaningful regional hotspots. The unresolved cases remain unresolved mainly because decisive information is missing—not because conventional explanations were tested and defeated.

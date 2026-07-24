@@ -339,8 +339,7 @@ The strongest criticism of extraordinary interpretations is not that the objects
 
 <img src="{{ "/assets/images/Estonia_f0a96d_rapla_footage_ab3abb-Illustration-2-dark.svg" | relative_url }}" alt="Rapla Footage illustration 2" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d_rapla_footage_ab3abb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d_rapla_footage_ab3abb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## What keeps Rapla Footage unresolved
 The Rapla footage remains debated because it contains both strengths and weaknesses as evidence. Its strength is that it is a real recording of something visible in the environment. Its weakness is that the recording does not clearly establish the physical properties of the objects.
 
 A stronger investigation would require the original uncompressed files, complete metadata, exact filming location, weather information, drone flight data, and analysis of the surrounding environment. Multi-sensor confirmation — such as radar, multiple independent cameras, or reliable tracking data — would greatly improve confidence. Modern scientific approaches to unidentified aerial phenomena generally emphasise combining multiple measurement methods rather than relying on appearance in a single video.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>

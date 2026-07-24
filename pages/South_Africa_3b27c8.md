@@ -211,12 +211,12 @@ hero_summary: South Africa has a long and unusually varied UFO history, but its 
 layout: default
 permalink: /what-really-happened-in-south-africas/
 nav_short_title: What Really Happened in South Africa's Skies?
-title: What Really Happened in South Africa's Skies?
+title: "South Africa's UFO History Under the Microscope"
 title_full: What Really Happened in South Africa's Skies?
 display_title_short: What Really Happened in South Africa's Skies?
-display_title: What Really Happened in South Africa's Skies?
+display_title: "South Africa's UFO History Under the Microscope"
 heading_title: What Really Happened in South Africa's Skies?
-page_heading_title: What Really Happened in South Africa's Skies?
+page_heading_title: "South Africa's UFO History Under the Microscope"
 source_count: 187
 infographic_count: 3
 page_website_name: South African
@@ -1362,8 +1362,7 @@ These collections are valuable historical sources, but their contents vary great
 
 Private archives are therefore best read as repositories of reports rather than catalogues of verified events. They show what people experienced and believed, how stories circulated, and which incidents attracted attention. They do not by themselves establish what was physically present.
 
-## Confirmed, contested and debunked
-
+## Sorting confirmed and disputed claims from South Africa's UFO record
 The South African material becomes clearer when cases are separated by evidential outcome rather than fame.
 
 

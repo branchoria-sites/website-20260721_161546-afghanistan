@@ -211,12 +211,12 @@ hero_summary: 'Armenia has a real but thin UFO record. The strongest publicly do
 layout: default
 permalink: /what-really-happened-in-armenias-ufo/
 nav_short_title: What Really Happened in Armenia's UFO Skies?
-title: What Really Happened in Armenia's UFO Skies?
+title: "The Gaps in Armenia's UFO Record"
 title_full: What Really Happened in Armenia's UFO Skies?
 display_title_short: What Really Happened in Armenia's UFO Skies?
-display_title: What Really Happened in Armenia's UFO Skies?
+display_title: "The Gaps in Armenia's UFO Record"
 heading_title: What Really Happened in Armenia's UFO Skies?
-page_heading_title: What Really Happened in Armenia's UFO Skies?
+page_heading_title: "The Gaps in Armenia's UFO Record"
 source_count: 67
 infographic_count: 3
 page_website_name: Armenia
@@ -1306,8 +1306,7 @@ Armenia’s public record has several recurring weaknesses:
 
 <img src="{{ "/assets/images/Armenia_5f4599-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Armenia&#x27;s UFO Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Armenia's UFO record
 The Armenian evidence is best understood by separating three categories rather than treating every sighting as equally mysterious.
 
 ### Confirmed observations with ordinary explanations
@@ -1334,8 +1333,7 @@ There is no strong public evidence that Armenia has recovered non-human vehicles
 
 Likewise, Byurakan’s SETI history should not be presented as proof of UFO knowledge. It establishes Armenia’s importance in scientific debate about possible distant civilisations, not evidence that such civilisations have visited Armenian airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1905.03225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv SETI in Russia, USSR and the post-Soviet space: a century of research</span><span class="citation-popover-snippet">arXiv SETI in Russia, USSR and the post-Soviet space: a century of research</span></span></span>
 
-## The most defensible assessment
-
+## What the record supports about Armenia's UFO record
 Armenia’s UFO story is more revealing about observation, secrecy and evidence than about extraordinary craft. Its most famous modern sighting was a missile plume; its Soviet background connects it to a large reporting system that explained the overwhelming majority of cases; and its strongest extraterrestrial association comes from legitimate astronomical conferences rather than encounters in the atmosphere.
 
 Some Armenian sightings remain unidentified because the surviving reports are too poor to test. That residual uncertainty should be preserved rather than filled with speculation. A genuinely strong Armenian case would require original sensor data, independently timed observations, known camera geometry, aviation and launch checks, and analysis by specialists able to reproduce one another’s results. On the evidence currently available, Armenia has documented unusual things seen in the sky, but no publicly verified case demonstrating technology beyond conventional human or natural explanations.

@@ -1310,8 +1310,7 @@ The available record nonetheless supports several conclusions:
 
 <img src="{{ "/assets/images/Uruguay_66b989-Illustration-2-dark.svg" | relative_url }}" alt="What Really Explains Uruguay&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Uruguay_66b989-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uruguay_66b989-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Uruguay's UFO record
 The Uruguayan record becomes clearer when reports are separated by evidential status.
 
 ### Confirmed observations with conventional explanations
@@ -1376,8 +1375,7 @@ Modern scientific proposals for studying unidentified aerial phenomena similarly
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDkJoNlvZCg" title="Journalist, UFO Eyewitness BREAKS DOWN New Jersey Theories" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDkJoNlvZCg" target="_blank" rel="noopener noreferrer">Journalist, UFO Eyewitness BREAKS DOWN New Jersey Theories</a></p><p class="youtube-embed-meta">Channel: Breaking Points</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDkJoNlvZCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDkJoNlvZCg">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## Reading the evidence around Uruguay's UFO record conservatively
 Uruguay’s experience does not support either extreme commonly applied to UFO reports. It does not show that every witness is mistaken or that every unexplained light is trivial. Nor does it provide robust evidence that extraterrestrial vehicles have entered Uruguayan airspace.
 
 What it does show is more useful. A small country has maintained an official reporting channel for decades, enabling recurrent sightings to be checked against aviation, radar and astronomical information. That process has resolved many dramatic reports as aircraft and satellites, including several incidents that initially generated national headlines. At the same time, limited resources, incomplete public access and historically poor data have left a small group of cases unresolved.

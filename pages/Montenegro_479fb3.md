@@ -211,12 +211,12 @@ hero_summary: 'Montenegro has one nationally significant UFO case: the reported 
 layout: default
 permalink: /what-really-happened-in-montenegros-ufo/
 nav_short_title: What Really Happened in Montenegro's UFO Cases?
-title: What Really Happened in Montenegro's UFO Cases?
+title: "How Strong Is the UFO Evidence From Montenegro?"
 title_full: What Really Happened in Montenegro's UFO Cases?
 display_title_short: What Really Happened in Montenegro's UFO Cases?
-display_title: What Really Happened in Montenegro's UFO Cases?
+display_title: "How Strong Is the UFO Evidence From Montenegro?"
 heading_title: What Really Happened in Montenegro's UFO Cases?
-page_heading_title: What Really Happened in Montenegro's UFO Cases?
+page_heading_title: "How Strong Is the UFO Evidence From Montenegro?"
 source_count: 24
 infographic_count: 3
 page_website_name: Montenegro

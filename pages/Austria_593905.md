@@ -1293,8 +1293,7 @@ Private databases provide useful leads but have structural weaknesses. Reporting
 
 <img src="{{ "/assets/images/Austria_593905-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Austria&#x27;s UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Austria_593905-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Austria_593905-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Austria's UFO record
 The Austrian evidence becomes clearer when separated by outcome.
 
 **Confirmed observations with conventional causes** include the June 2026 lights over Vienna and Lower Austria, which were traced to concert lighting reflected from cloud. The observers genuinely saw an unusual aerial display; what changed was its identification. Satellite trains, bright planets, drones and event lights belong to the same category when timing and direction match independent records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.krone.at/4186981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krone.at">[Kronen Zeitung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krone.at</span><span class="citation-popover-title">n Zeitung &quot;Are those aliens?</span><span class="citation-popover-snippet">n Zeitung &quot;Are those aliens?&quot; - A Shimmering Mystery Over Vienna: Here’s What’s Behind It &#124; krone.at...</span></span></span>

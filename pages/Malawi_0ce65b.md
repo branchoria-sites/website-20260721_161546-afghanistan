@@ -1304,8 +1304,7 @@ These explanations should not be assigned automatically. A genuine investigation
 
 <img src="{{ "/assets/images/Malawi_0ce65b-Illustration-2-dark.svg" | relative_url }}" alt="What Do We Really Know About Malawi&#x27;s UFOs? illustration 2" data-theme-src-dark="{{ "/assets/images/Malawi_0ce65b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malawi_0ce65b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Malawi's UFO record
 Malawi’s available UFO material can be divided into three evidence levels.
 
 **Confirmed facts**
@@ -1378,8 +1377,7 @@ Multi-sensor systems offer a stronger model still. Scientific UAP projects propo
 
 <img src="{{ "/assets/images/Malawi_0ce65b-Illustration-3-dark.svg" | relative_url }}" alt="What Do We Really Know About Malawi&#x27;s UFOs? illustration 3" data-theme-src-dark="{{ "/assets/images/Malawi_0ce65b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malawi_0ce65b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## Reading the evidence around Malawi's UFO record conservatively
 Malawi’s UFO history is not a chronology of established encounters but a record of missing documentation. The Mount Mulanje article of 2003 is the principal concrete anchor, yet its surviving evidence is too incomplete to determine what the story described. Other alleged sightings remain scattered, difficult to locate or unsupported by accessible primary material.
 
 That makes Malawi important for a different reason. It illustrates how national UFO histories are shaped by archives, journalism and reporting infrastructure as much as by events in the sky. Countries with active civilian investigators accumulate large case catalogues; countries without them may appear silent even when residents occasionally observe unexplained lights. The responsible position is therefore neither to dismiss every Malawian report nor to inflate archival silence into a government cover-up. On the current evidence, Malawi has a handful of contested claims, no confirmed extraordinary incident and substantial scope for better preservation of future reports.

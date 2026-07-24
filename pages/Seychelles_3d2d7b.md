@@ -211,12 +211,12 @@ hero_summary: The documented UFO record for Seychelles is exceptionally thin.
 layout: default
 permalink: /what-really-happened-in-seychelles-skies/
 nav_short_title: What Really Happened in Seychelles Skies?
-title: What Really Happened in Seychelles Skies?
+title: "Separating Reports From Evidence in the Seychelles"
 title_full: What Really Happened in Seychelles Skies?
 display_title_short: What Really Happened in Seychelles Skies?
-display_title: What Really Happened in Seychelles Skies?
+display_title: "Separating Reports From Evidence in the Seychelles"
 heading_title: What Really Happened in Seychelles Skies?
-page_heading_title: What Really Happened in Seychelles Skies?
+page_heading_title: "Separating Reports From Evidence in the Seychelles"
 source_count: 154
 infographic_count: 3
 page_website_name: Seychelles
@@ -1279,8 +1279,7 @@ The absence of an easily found file is not proof that no relevant colonial, dipl
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Seychelles Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## Claims, explanations and evidence in Seychelles' UFO record
 The available material becomes clearer when separated by what it actually establishes.
 
 **Confirmed in the documentary sense**
@@ -1337,8 +1336,7 @@ The most useful investigation would then compare the account with:
 
 Modern scientific UAP projects emphasise this kind of multimodal evidence: synchronised wide- and narrow-field cameras, triangulation, radar, radio measurements, acoustic sensors and environmental monitoring. Such methods are designed to separate genuine anomalies from optical artefacts and familiar aerial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-## The most defensible assessment
-
+## The strongest conclusion supported by Seychelles' UFO record
 Seychelles does not currently have a well-supported national UFO chronology. Its public record is dominated by two Mahé witness submissions, neither of which can now be decisively confirmed or debunked. The [1978 Victoria]({{ '1978-victoria/' | relative_url }}) story is the more dramatic, but its twenty-one-year reporting delay sharply weakens it. The 2020 observation is more contemporaneous, yet its multiple moving lights are compatible with several ordinary aerial or orbital sources.
 
 The fairest conclusion is not that the reports are fabricated, nor that they demonstrate non-human craft. It is that both are **unidentified at the level of the surviving information**. In UFO research, that category often reflects missing evidence rather than extraordinary performance. For Seychelles, the central mystery is therefore as much archival as aerial: intriguing observations may have occurred, but no robust local reporting system has preserved enough information to turn them into testable national cases.

@@ -1336,8 +1336,7 @@ The survival of these private archives matters because the military collection c
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1qyDp4sn3E" title="Spain’s Most Terrifying UFO Incident - The Manises UFO" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 55:34">55:34</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1qyDp4sn3E" target="_blank" rel="noopener noreferrer">Spain’s Most Terrifying UFO Incident - The Manises UFO</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 5.7K &middot; Uploaded: February 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1qyDp4sn3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1qyDp4sn3E">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked
-
+## The evidence ledger for Spain's UFO record
 The Spanish record becomes clearer when “UFO case” is separated into three evidential categories.
 
 **Confirmed events** are those for which the underlying occurrence is secure even though its initial identity was uncertain. The Manises aircraft diverted; military personnel investigated Canary Islands lights; reports were filed at San Javier and Morón. Confirmation of an observation or official response does not confirm the witnesses’ preferred explanation.

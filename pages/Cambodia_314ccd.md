@@ -211,12 +211,12 @@ hero_summary: Cambodia has no well-documented “classic” UFO case supported b
 layout: default
 permalink: /what-really-happened-in-cambodias-ufo/
 nav_short_title: What Really Happened in Cambodia's UFO Cases?
-title: What Really Happened in Cambodia's UFO Cases?
+title: "Why Is Cambodia's UFO Record So Thin?"
 title_full: What Really Happened in Cambodia's UFO Cases?
 display_title_short: What Really Happened in Cambodia's UFO Cases?
-display_title: What Really Happened in Cambodia's UFO Cases?
+display_title: "Why Is Cambodia's UFO Record So Thin?"
 heading_title: What Really Happened in Cambodia's UFO Cases?
-page_heading_title: What Really Happened in Cambodia's UFO Cases?
+page_heading_title: "Why Is Cambodia's UFO Record So Thin?"
 source_count: 106
 infographic_count: 3
 page_website_name: Cambodia
@@ -1347,8 +1347,7 @@ These explanations do not automatically solve every Cambodian report. They show 
 
 <img src="{{ "/assets/images/Cambodia_314ccd-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Cambodia&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Cambodia's UFO record
 Cambodia’s cases are clearer when divided by what the evidence actually establishes.
 
 **Confirmed:** In May 2008, witnesses reported an aerial explosion and metal debris was recovered along the Cambodian–Vietnamese coastal region. Cambodian police, aviation officials and Vietnamese authorities addressed the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">The Cambodia Daily Aircraft Debris Was Found on Kampot Coast: Local Officials</span><span class="citation-popover-snippet">The Cambodia DailyAircraft Debris Was Found on Kampot Coast: Local Officials - The Cambodia Daily...</span></span></span>

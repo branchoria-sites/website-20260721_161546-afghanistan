@@ -1331,8 +1331,7 @@ Private databases remain valuable but have important limitations. Reports are se
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YZZtidhZbcE" title="The Rendlesham Forest Incident: The Halt Tape" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 21:37">21:37</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YZZtidhZbcE" target="_blank" rel="noopener noreferrer">The Rendlesham Forest Incident: The Halt Tape</a></p><p class="youtube-embed-meta">Channel: White Chaddar &middot; Views: 48.3K &middot; Uploaded: July 2015 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YZZtidhZbcE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YZZtidhZbcE">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from United Kingdom's UFO record
 The British record becomes clearer when “evidence” is divided into practical categories.
 
 **Confirmed observations** establish that a witness, photograph or instrument recorded something, without establishing what it was. The Calvine print is a confirmed physical photograph; Rendlesham has confirmed contemporary testimony and documentation; the 1993 rocket re-entry generated confirmed observations across Britain.
@@ -1359,9 +1358,7 @@ Photographs improve matters only when provenance and geometry are known. A sharp
 
 Recent events reinforce the difference between an unidentified object and an extraordinary one. In November 2024, small unmanned aircraft were observed over or near several RAF bases used by United States forces. Parliament discussed the incidents as security and counter-drone matters, and a criminal investigation followed. The objects were unidentified in the sense that their operators and purpose were not immediately known; official reporting nevertheless described them as drones or small unmanned aerial systems, not evidence of exotic craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2024-11-27/debates/717F4A6D-053F-4C9F-BF32-D65D11DA6917/DronesRAFBases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Drones: RAF Bases</span><span class="citation-popover-snippet">Hansard Drones: RAF Bases</span></span></span>
 
-## The most defensible conclusion
-
-
+## The strongest conclusion supported by United Kingdom's UFO record
 <div class="content-callout content-callout--key content-callout--takeaway" markdown="1">
 
 The United Kingdom’s UFO history contains genuine mysteries, but no publicly available British case provides conclusive evidence of extraterrestrial visitation. The strongest incidents usually combine credible witnesses with incomplete measurements. The best-explained cases demonstrate how meteors, rocket re-entries, lighthouses, airships, satellites and psychological effects can produce surprisingly elaborate accounts.

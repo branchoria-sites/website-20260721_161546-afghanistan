@@ -211,12 +211,12 @@ hero_summary: “Congo” has no large, well-documented national UFO case file c
 layout: default
 permalink: /what-really-happened-in-congos-ufo-cases/
 nav_short_title: What Really Happened in Congo's UFO Cases?
-title: What Really Happened in Congo's UFO Cases?
+title: "Congo's UFO History Under the Microscope"
 title_full: What Really Happened in Congo's UFO Cases?
 display_title_short: What Really Happened in Congo's UFO Cases?
-display_title: What Really Happened in Congo's UFO Cases?
+display_title: "Congo's UFO History Under the Microscope"
 heading_title: What Really Happened in Congo's UFO Cases?
-page_heading_title: What Really Happened in Congo's UFO Cases?
+page_heading_title: "Congo's UFO History Under the Microscope"
 source_count: 66
 infographic_count: 3
 page_website_name: Congo

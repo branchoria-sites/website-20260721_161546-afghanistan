@@ -211,12 +211,12 @@ hero_summary: Bolivia has a long and culturally persistent record of unidentifie
 layout: default
 permalink: /what-really-happened-in-bolivias-ufo/
 nav_short_title: What Really Happened in Bolivia's UFO Cases?
-title: What Really Happened in Bolivia's UFO Cases?
+title: "The Stories Behind Bolivia's UFO Reputation"
 title_full: What Really Happened in Bolivia's UFO Cases?
 display_title_short: What Really Happened in Bolivia's UFO Cases?
-display_title: What Really Happened in Bolivia's UFO Cases?
+display_title: "The Stories Behind Bolivia's UFO Reputation"
 heading_title: What Really Happened in Bolivia's UFO Cases?
-page_heading_title: What Really Happened in Bolivia's UFO Cases?
+page_heading_title: "The Stories Behind Bolivia's UFO Reputation"
 source_count: 84
 infographic_count: 3
 page_website_name: Bolivia
@@ -1310,8 +1310,7 @@ Local media play a similarly mixed role. Long-form reporting on Tarija has recov
 
 A reliable Bolivian UFO archive would need to separate these functions. Folklore, memory and witness experience are legitimate subjects of historical study, but they should not be presented as equivalent to instrumented evidence. Preserving a story is not the same as proving its proposed cause.
 
-## Confirmed, contested and debunked
-
+## The evidence ledger for Bolivia's UFO record
 The Bolivian record becomes clearer when cases are divided by the quality of the conclusion rather than by how dramatic the claim appears.
 
 

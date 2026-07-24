@@ -1338,8 +1338,7 @@ Thailand’s information environment now includes fabricated material as well as
 
 Digital fakery changes the baseline for evaluating spectacular footage. Visual clarity is no longer necessarily a mark of authenticity. A dramatic video without provenance, an original file, identifiable witnesses or corroborating records may be less valuable than an unimpressive but well-documented observation.
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Thailand's UFO record
 Thailand’s better-known material becomes clearer when separated by what the evidence actually establishes.
 
 **Confirmed as real observations or reports**
@@ -1424,8 +1423,7 @@ Modern research proposals for unidentified aerial phenomena emphasise the same p
 
 Applied in Thailand, such methods would be particularly valuable at locations where sightings are repeatedly claimed. Continuous, time-synchronised monitoring at Khao Kala, for example, could compare reports against aircraft, satellites, stars, planets and weather conditions. That would either identify recurring causes or isolate genuinely unusual measurements. Informal sky-watching cannot provide the same result.
 
-## The fairest assessment
-
+## The balanced reading of Thailand's UFO record
 Thailand has a genuine UFO culture and a small number of historically interesting reports, especially those associated with Cold War air bases. It also has a distinctive contact movement in which extraterrestrial ideas have blended with meditation, morality and local place identity. These are legitimate subjects for historical, sociological and scientific study.
 
 The evidential verdict is more restrained. No Thai case currently available in the public record supplies independently verified proof of non-human technology. The Nakhon Phanom reports remain intriguing because they originated in a military setting, but their context is crowded with secret wartime aviation. Khao Kala is culturally important, but its extraordinary claims depend largely on testimony and spiritual experience. Recent mass sightings demonstrate how spectacular rocket effects can be mistaken for craft, while artificial intelligence has made compelling false footage easier to produce.

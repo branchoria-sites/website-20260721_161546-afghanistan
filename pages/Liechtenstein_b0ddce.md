@@ -1298,8 +1298,7 @@ The lack of an official national file also means that private databases require 
 
 <img src="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-3-dark.svg" | relative_url }}" alt="What Really Exists in Liechtenstein&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Liechtenstein's UFO record
 The word “confirmed” is often used misleadingly in online UFO statistics. A sighting may be confirmed as a **submitted report** without the reported object being confirmed as extraordinary. A promotional analysis circulated online has claimed that Liechtenstein recorded twelve confirmed sightings, averaging about 39 minutes and often involving formations of lights. The source does not publicly establish who verified the cases, how duplicates were removed, whether coordinates genuinely fell inside Liechtenstein or how durations were validated. It should not be used as evidence that twelve unexplained craft were confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.all-inclusive.com.pl/ufo-data-reveals-the-european-country-with-the-longest-alien-visits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: all-inclusive.com.pl">[ALL Inclusive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">all-inclusive.com.pl</span><span class="citation-popover-snippet">Of the twelve confirmed instances, most witnesses claim to have seen a...Read more...</span></span></span>
 
 A more defensible evidence split is:

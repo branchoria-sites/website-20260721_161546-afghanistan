@@ -334,8 +334,7 @@ The UFO interpretation survives primarily because no publicly documented investi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 6:46">6:46</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.5K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## The evidence gaps around Planken 1998
 The greatest obstacle to understanding the Planken incident is the incompleteness of the surviving historical record.
 
 Several important categories of evidence appear to be absent from publicly accessible sources:

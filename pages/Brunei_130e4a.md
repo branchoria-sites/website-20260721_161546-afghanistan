@@ -211,12 +211,12 @@ hero_summary: Brunei has a UFO history, but not a strong body of UFO evidence. T
 layout: default
 permalink: /what-really-happened-in-bruneis-ufo/
 nav_short_title: What Really Happened in Brunei's UFO Cases?
-title: What Really Happened in Brunei's UFO Cases?
+title: "From Strange Sightings to Answers in Brunei"
 title_full: What Really Happened in Brunei's UFO Cases?
 display_title_short: What Really Happened in Brunei's UFO Cases?
-display_title: What Really Happened in Brunei's UFO Cases?
+display_title: "From Strange Sightings to Answers in Brunei"
 heading_title: What Really Happened in Brunei's UFO Cases?
-page_heading_title: What Really Happened in Brunei's UFO Cases?
+page_heading_title: "From Strange Sightings to Answers in Brunei"
 source_count: 79
 infographic_count: 3
 page_website_name: Brunei
@@ -1306,8 +1306,7 @@ Brunei’s tropical atmosphere also matters. Cloud layers, haze, humidity and di
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jkru7dD2Gfs" title="Lumut Lighthouse, Brunei | Vlog 4K @LuueeJanice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jkru7dD2Gfs" target="_blank" rel="noopener noreferrer">Lumut Lighthouse, Brunei | Vlog 4K @LuueeJanice</a></p><p class="youtube-embed-meta">Channel: Luuee Janice</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jkru7dD2Gfs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jkru7dD2Gfs">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Brunei's UFO record
 The Brunei evidence can be divided into three practical categories.
 
 **Confirmed observations with conventional identifications** include the 4 June 2026 rocket plume and the 14 June 2026 fireball. In both cases, people genuinely saw something striking. The identification emerged from timing, direction, multiple recordings and comparison with external trajectory information. These are not hoaxes; they are examples of initially unidentified phenomena becoming identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bruneiastronomy.org/web/2026/06/strange-light-phenomenon-observed-over-brunei-darussalam-4-june-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruneiastronomy.org">[Brunei Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruneiastronomy.org</span><span class="citation-popover-title">strange light phenomenon observed over brunei darussalam 4 june 2026</span><span class="citation-popover-snippet">Brunei AstronomyStrange Light Phenomenon Observed Over Brunei Darussalam (4 June 2026) – BruneiAstronomy...</span><span class="citation-popover-meta">Published: june 2026</span></span></span>

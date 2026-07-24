@@ -1303,8 +1303,7 @@ France made a substantial portion of its official UFO records publicly accessibl
 
 <img src="{{ "/assets/images/Monaco_35ab1c-Illustration-2-dark.svg" | relative_url }}" alt="How Strong Is Monaco&#x27;s UFO Evidence? illustration 2" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Monaco's UFO record
 The evidence can be divided into three practical categories.
 
 ### Confirmed facts

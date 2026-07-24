@@ -211,12 +211,12 @@ hero_summary: Russia has a substantial UFO history, but not a strong public reco
 layout: default
 permalink: /what-really-happened-in-russias-ufo/
 nav_short_title: What Really Happened in Russia's UFO Files?
-title: What Really Happened in Russia's UFO Files?
+title: "What the UFO Record From Russia Actually Shows"
 title_full: What Really Happened in Russia's UFO Files?
 display_title_short: What Really Happened in Russia's UFO Files?
-display_title: What Really Happened in Russia's UFO Files?
+display_title: "What the UFO Record From Russia Actually Shows"
 heading_title: What Really Happened in Russia's UFO Files?
-page_heading_title: What Really Happened in Russia's UFO Files?
+page_heading_title: "What the UFO Record From Russia Actually Shows"
 source_count: 147
 infographic_count: 3
 page_website_name: Russian UFO Files
@@ -1313,8 +1313,7 @@ Russia does not have a readily searchable, comprehensive public UFO archive comp
 
 <img src="{{ "/assets/images/Russia_6754fe-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Russia&#x27;s UFO Files? illustration 3" data-theme-src-dark="{{ "/assets/images/Russia_6754fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russia_6754fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Russia's UFO record
 The Russian record becomes clearer when “UFO” is treated as a description of incomplete information rather than a synonym for alien spacecraft.
 
 **Reasonably confirmed:**

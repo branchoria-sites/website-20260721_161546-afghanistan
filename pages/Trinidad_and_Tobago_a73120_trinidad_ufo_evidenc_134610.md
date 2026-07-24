@@ -408,8 +408,7 @@ CategoryAssessmentEyewitness testimonyCommon but inherently limited without corr
 
 Viewed together, these categories produce a cautious conclusion. Trinidad and Tobago has accumulated a genuine history of unexplained aerial reports, but not a body of evidence capable of demonstrating that extraordinary technology has operated over the islands.
 
-## Overall assessment
-
+## The balanced reading of Evidence Test
 The country's UFO record is best understood as a collection of intriguing but generally low-evidence cases rather than compelling proof of an unknown phenomenon. A handful of reports remain difficult to explain with confidence because the available information is incomplete, while others have acquired convincing conventional explanations as additional information became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 197972May 26, 2026...</span><span class="citation-popover-meta">Published: May 26, 2026</span></span></span>
 
 For readers exploring the wider Trinidad and Tobago UFO record, the most useful approach is to distinguish carefully between reports that are **confirmed**, **contested**, **unresolved** and **explained**. That distinction preserves the genuine mysteries without overstating what the evidence currently supports.

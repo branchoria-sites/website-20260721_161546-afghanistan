@@ -1321,8 +1321,7 @@ However, broad Soviet documentation does not prove that a particular Moldavian S
 
 Declassified intelligence documents require similar caution. A CIA archive may preserve what foreign newspapers, officials or scientists said about Soviet sightings, but archival possession is not endorsement of the underlying story. One CIA-era report on conversations with Soviet scientists recorded uncertainty and a lack of specific locations rather than confirmation of alien vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-010_REPORT_ON_CONVERSATIONS_WITH_SOVIET_SCIENTISTS_ON_SUBJECT_OF_UNIDENTIFIED_FLYING_OBJECTS_IS_THE_USSR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of Warcentral intelligence agency</span><span class="citation-popover-snippet">U.S. Department of Warcentral intelligence agency</span></span></span>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Moldova's UFO record
 The clearest way to assess Moldova’s record is to separate the existence of an observation from claims about its cause.
 
 **Confirmed events**
@@ -1359,8 +1358,7 @@ A scientifically stronger investigation would require synchronised observations 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IfOuBvP-KOU" title="OZN-uri în România? Răspunde Dan D. Farcaș #podcast" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 9:17">9:17</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IfOuBvP-KOU" target="_blank" rel="noopener noreferrer">OZN-uri în România? Răspunde Dan D. Farcaș #podcast</a></p><p class="youtube-embed-meta">Channel: HISTORY Channel România &middot; Views: 7.5K &middot; Uploaded: August 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IfOuBvP-KOU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IfOuBvP-KOU">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## What the record supports about Moldova's UFO record
 Moldova’s UFO history is real as a history of unusual things reported in the sky, but weak as evidence for extraordinary craft. The record contains several memorable observations and one nationally significant airspace alert, yet no publicly established case combines high-quality physical data with behaviour that remains anomalous after ordinary explanations are tested.
 
 The strongest pattern is not a wave of unexplained vehicles. It is the repeated transformation of ambiguous observations through context: curved lights become probable lanterns, a flash and blackout point to an electrical arc, a booming fireball points to a meteor, and a wartime airspace warning points towards a balloon or other conventional airborne object. A few reports remain unresolved because the original evidence is incomplete, not because exotic technology has been demonstrated.

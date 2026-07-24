@@ -397,8 +397,7 @@ When reporting on the investigation several years later, Irish media noted that 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WlaTLLMUsUQ" title="Craig Charles: UFO Conspiracies | Episode 2 | Ireland" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WlaTLLMUsUQ" target="_blank" rel="noopener noreferrer">Craig Charles: UFO Conspiracies | Episode 2 | Ireland</a></p><p class="youtube-embed-meta">Channel: SQRtv</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WlaTLLMUsUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WlaTLLMUsUQ">Open on YouTube</a></p></div></div></div>
 
-## Why the Case Remains Unresolved
-
+## The evidence gaps around Kerry 2018
 The Kerry pilot sightings continue to attract attention because they combine unusually credible witnesses with unusually limited physical evidence.
 
 Unlike many classic UFO stories, the event is anchored by recorded air traffic communications, multiple commercial flight crews and documented aviation reporting procedures. Unlike well-documented aviation incidents, however, it lacks the independent instrumental evidence that would normally allow investigators to reconstruct events confidently.

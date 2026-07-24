@@ -1358,8 +1358,7 @@ For these reasons, low report numbers cannot demonstrate that Iraq experiences f
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nb45rXZX6Yw" title="Full Uncut Tracking Video of the Infamous &#x27;Jellyfish&#x27; UAP over Iraq" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 18:21">18:21</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nb45rXZX6Yw" target="_blank" rel="noopener noreferrer">Full Uncut Tracking Video of the Infamous &#x27;Jellyfish&#x27; UAP over Iraq</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 76.1K &middot; Uploaded: April 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nb45rXZX6Yw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nb45rXZX6Yw">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Iraq's UFO record
 The Iraqi cases are clearest when separated by evidential status.
 
 **Well explained:** The 1959 Baghdad object is consistent with a meteor and was assessed that way in the contemporary file. The 2017 Al Taqaddum object has been officially resolved as a balloon cluster after analysis of extended footage and platform data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/baghdad-iraq-november-1959-28985292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">baghdad iraq november 1959 28985292</span><span class="citation-popover-snippet">Project Blue Book: Baghdad, Iraq, November 1959 · govweird...</span><span class="citation-popover-meta">Published: november 1959</span></span></span>
@@ -1386,8 +1385,7 @@ Iraq is, in principle, well suited to such analysis because military and civil s
 
 <img src="{{ "/assets/images/Iraq_1aed9e-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Iraq&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## Reading the evidence around Iraq's UFO record conservatively
 Iraq’s UFO history is real in the limited sense that observers and military sensors have recorded objects they could not immediately identify. It includes one historically documented astronomical misidentification, one prominent unresolved orb and one sensational case now resolved as balloons.
 
 The record does not support a national wave of extraordinary craft, an Iraqi government cover-up or confirmed non-human technology. Instead, it illustrates a broader lesson: sophisticated sensors do not automatically produce complete evidence. They may detect more objects while preserving only a narrow, distorted view of them.

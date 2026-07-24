@@ -1345,8 +1345,7 @@ The strongest official guidance available for assessing Jamaica’s cases comes 
 
 <img src="{{ "/assets/images/Jamaica_5eedd6-Illustration-3-dark.svg" | relative_url }}" alt="What Really Explains Jamaica&#x27;s UFO Reports? illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Jamaica's UFO record
 The Jamaican record is clearer when divided by evidential status.
 
 **Confirmed observations:** It is reasonable to accept that people have seen unfamiliar lights and shapes over Jamaica. Several reports include more than one witness, and local historical commentary confirms that UFO discussion existed in Jamaica during the twentieth century. What is confirmed is the report or perception—not the nature of the object.

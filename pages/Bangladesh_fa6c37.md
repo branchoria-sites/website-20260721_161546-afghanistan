@@ -1372,8 +1372,7 @@ By contrast, the Fatullah account contains vivid subjective details but almost n
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37-Illustration-3-dark.svg" | relative_url }}" alt="What Has Really Appeared Over Bangladesh? illustration 3" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## What the record supports about Bangladesh's UFO record
 Bangladesh has a small and fragmented body of reported UFO experiences, but no publicly documented case presently demonstrates extraterrestrial technology or performance beyond known aircraft, drones, missiles, satellites or natural phenomena. The national record is dominated by low-information civilian testimony, while the best-observed recent event has a persuasive conventional explanation.
 
 The unresolved residue should not be dismissed as dishonesty or imagination. Witnesses can accurately report that they saw something unusual while being unable to identify its distance, scale or cause. At the same time, unexplained status cannot bear more weight than the underlying evidence permits. Major scientific and governmental UAP reviews likewise distinguish a failure to identify an object from proof that it is alien, and report no verified evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>

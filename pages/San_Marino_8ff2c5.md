@@ -1291,8 +1291,7 @@ The documentation centre mentioned in 1998 presents a similar problem. Its exist
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5-Illustration-3-dark.svg" | relative_url }}" alt="Is San Marino Really a UFO Hotspot? illustration 3" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for San Marino's UFO record
 The San Marino material becomes clearer when divided by evidential status.
 
 **Confirmed institutional facts**

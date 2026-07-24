@@ -351,8 +351,7 @@ Numerous later articles repeated the original police announcement almost verbati
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GrgjnhYxyNE" title="Mystery object on Oz beach could be &#x27;space junk&#x27;" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GrgjnhYxyNE" target="_blank" rel="noopener noreferrer">Mystery object on Oz beach could be &#x27;space junk&#x27;</a></p><p class="youtube-embed-meta">Channel: Sky News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GrgjnhYxyNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GrgjnhYxyNE">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What keeps Conyers Object unresolved
 The Conyers incident illustrates an important distinction in unidentified-object investigations: an unresolved case is not necessarily an unexplained phenomenon.
 
 Here, the uncertainty arises because the investigation appears to have become publicly silent after the initial announcement. Several possibilities could account for that:

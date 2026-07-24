@@ -364,8 +364,7 @@ None of these characteristics prove a rocket-related origin, but together they m
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOOcYtOjtQU" title="SpaceX launch creates glowing spiral over UK sky" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:01">1:01</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer">SpaceX launch creates glowing spiral over UK sky</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 127.2K &middot; Uploaded: March 2025 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOOcYtOjtQU">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What keeps Pink Glow unresolved
 Despite the plausible hypotheses, no publicly released evidence has conclusively identified what produced either event.
 
 Several important uncertainties remain:

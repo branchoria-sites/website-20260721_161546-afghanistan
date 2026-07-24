@@ -1330,8 +1330,7 @@ The absence of an easily searchable Cyprus file should not be interpreted as evi
 
 Private initiatives are attempting to fill the gap. The UAP Cyprus Centre describes itself as a volunteer research organisation and publishes historical case material, including work attributed to Cypriot author Andreas Achillides. Its collections may preserve reports otherwise at risk of disappearing, but they are not official state archives and require independent checking before their claims can be treated as established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">Cyprus Cases</span><span class="citation-popover-snippet">Cyprus Cases</span></span></span>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Cyprus' UFO record
 A useful assessment separates the existence of a report from the explanation proposed for it.
 
 **Confirmed as reports:** The 1950 Nicosia Airfield observation is represented in the US official record. Local newspapers have also documented reports in 2005, 2008, 2018, 2020 and 2025. These sources confirm that witnesses made claims and, in some cases, produced images. They do not confirm the physical nature of the objects.

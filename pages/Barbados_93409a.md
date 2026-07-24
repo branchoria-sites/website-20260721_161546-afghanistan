@@ -211,12 +211,12 @@ hero_summary: Barbados has one well-documented mass UFO episode, a small collect
 layout: default
 permalink: /what-really-happened-in-barbados-skies/
 nav_short_title: What Really Happened in Barbados Skies?
-title: What Really Happened in Barbados Skies?
+title: "Why Is Barbados' UFO Record So Thin?"
 title_full: What Really Happened in Barbados Skies?
 display_title_short: What Really Happened in Barbados Skies?
-display_title: What Really Happened in Barbados Skies?
+display_title: "Why Is Barbados' UFO Record So Thin?"
 heading_title: What Really Happened in Barbados Skies?
-page_heading_title: What Really Happened in Barbados Skies?
+page_heading_title: "Why Is Barbados' UFO Record So Thin?"
 source_count: 99
 infographic_count: 3
 page_website_name: Barbados

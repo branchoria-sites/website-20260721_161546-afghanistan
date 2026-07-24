@@ -1307,8 +1307,7 @@ NASA likewise stresses the difficulty created by poor and inconsistent observati
 
 <img src="{{ "/assets/images/Zambia_dcf25e-Illustration-2-dark.svg" | relative_url }}" alt="What Do Zambia&#x27;s UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Zambia_dcf25e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zambia_dcf25e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## Sorting confirmed and disputed claims from Zambia's UFO record
 The Zambian material is easiest to understand when divided by what the evidence actually establishes.
 
 **Confirmed:** videos and posts exist in which witnesses describe lights or objects they could not identify. The January 2023 Lusaka footage is a genuine circulating media item, and its witness appears sincerely puzzled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=iyqpT00a77s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Open source on youtube.com.</span></span></span>
@@ -1339,8 +1338,7 @@ For Zambia specifically, local reporting would improve if civil-aviation authori
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iyqpT00a77s" title="Mysterious UFO Sighting in Lusaka, Zambia 2023" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 4:27">4:27</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iyqpT00a77s" target="_blank" rel="noopener noreferrer">Mysterious UFO Sighting in Lusaka, Zambia 2023</a></p><p class="youtube-embed-meta">Channel: LUFOS &middot; Views: 7.0K &middot; Uploaded: January 2023 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iyqpT00a77s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iyqpT00a77s">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## What the record supports about Zambia's UFO record
 Zambia’s UFO history is not a catalogue of proven extraordinary encounters. It is a small and poorly preserved body of unusual-light reports, led publicly by the contested Lusaka video of January 2023. The video remains unidentified in the everyday sense that no definitive source has been demonstrated, but its evidential limitations make ordinary lighting or atmospheric explanations substantially more plausible than claims of alien spacecraft.
 
 The wider archive offers tantalising references to Zambia in paranormal publications, foreign freedom-of-information logs and regional UFO narratives, yet these do not amount to verified national case files. The strongest conclusion is therefore restrained: unusual sightings have been reported in Zambia, but the public evidence is presently too thin to establish a robust chronology, a regional pattern within the country or any incident requiring an exotic explanation.

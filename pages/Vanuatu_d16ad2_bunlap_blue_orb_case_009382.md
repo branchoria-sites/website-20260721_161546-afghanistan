@@ -366,8 +366,7 @@ Crucially absent are the details investigators normally rely upon:
 
 Without these details, even basic reconstruction becomes impossible.
 
-## Why the case remains unresolved
-
+## What would settle the questions around Bunlap Case
 The Bunlap report remains unresolved largely because too little information survives to test competing explanations.
 
 ### No identifiable primary witnesses

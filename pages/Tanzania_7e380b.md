@@ -211,12 +211,12 @@ hero_summary: Tanzania has one historically significant UFO case, a small number
 layout: default
 permalink: /what-really-happened-in-tanzanias-skies/
 nav_short_title: What Really Happened in Tanzania's Skies?
-title: What Really Happened in Tanzania's Skies?
+title: "How Much UFO Evidence Does Tanzania Really Have?"
 title_full: What Really Happened in Tanzania's Skies?
 display_title_short: What Really Happened in Tanzania's Skies?
-display_title: What Really Happened in Tanzania's Skies?
+display_title: "How Much UFO Evidence Does Tanzania Really Have?"
 heading_title: What Really Happened in Tanzania's Skies?
-page_heading_title: What Really Happened in Tanzania's Skies?
+page_heading_title: "How Much UFO Evidence Does Tanzania Really Have?"
 source_count: 126
 infographic_count: 3
 page_website_name: Tanzania
@@ -1309,8 +1309,7 @@ The absence of a public UFO archive has practical consequences. Records may be d
 
 <img src="{{ "/assets/images/Tanzania_7e380b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Tanzania&#x27;s Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Tanzania_7e380b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tanzania_7e380b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Tanzania's UFO record
 A useful evidence assessment separates the existence of a report from the truth of its interpretation.
 
 **Confirmed as reported:** The 1951 Kilimanjaro incident is supported by an identifiable official case file. It is reasonable to say that an airline crew and passengers reported an unusual object and that American officials recorded the account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/east-africa-february-1951-28939080" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">east africa february 1951 28939080</span><span class="citation-popover-snippet">Project Blue Book: East Africa, February 1951 · govweird...</span><span class="citation-popover-meta">Published: february 1951</span></span></span>

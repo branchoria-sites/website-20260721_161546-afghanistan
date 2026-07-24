@@ -211,12 +211,12 @@ hero_summary: Serbia has a recognisable UFO history, but not a strong body of pu
 layout: default
 permalink: /what-really-happened-in-serbias-ufo/
 nav_short_title: What Really Happened in Serbia's UFO Cases?
-title: What Really Happened in Serbia's UFO Cases?
+title: "Inside the UFO Record of Serbia"
 title_full: What Really Happened in Serbia's UFO Cases?
 display_title_short: What Really Happened in Serbia's UFO Cases?
-display_title: What Really Happened in Serbia's UFO Cases?
+display_title: "Inside the UFO Record of Serbia"
 heading_title: What Really Happened in Serbia's UFO Cases?
-page_heading_title: What Really Happened in Serbia's UFO Cases?
+page_heading_title: "Inside the UFO Record of Serbia"
 source_count: 120
 infographic_count: 3
 page_website_name: Serbia

@@ -211,12 +211,12 @@ hero_summary: Greece has a long and varied UFO history, ranging from Cold War-er
 layout: default
 permalink: /what-really-happened-in-greeces-ufo/
 nav_short_title: What Really Happened in Greece's UFO Cases?
-title: What Really Happened in Greece's UFO Cases?
+title: "Greece's UFO History Under the Microscope"
 title_full: What Really Happened in Greece's UFO Cases?
 display_title_short: What Really Happened in Greece's UFO Cases?
-display_title: What Really Happened in Greece's UFO Cases?
+display_title: "Greece's UFO History Under the Microscope"
 heading_title: What Really Happened in Greece's UFO Cases?
-page_heading_title: What Really Happened in Greece's UFO Cases?
+page_heading_title: "Greece's UFO History Under the Microscope"
 source_count: 67
 infographic_count: 3
 page_website_name: Greek UFO Files

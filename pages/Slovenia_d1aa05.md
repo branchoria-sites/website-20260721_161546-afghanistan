@@ -1412,8 +1412,7 @@ The 2023 pilot case shows why this matters. With a reliable timestamp, aircraft 
 
 Multi-station observation would be still more valuable. Two calibrated cameras several kilometres apart can determine whether a light is close to the ground, at aircraft altitude or in orbit. Modern scientific UAP proposals emphasise this combination of wide-field imaging, triangulation, spectral measurements, radar or radio sensing and environmental monitoring because no single phone video can reliably establish distance, size and speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-## The most defensible assessment
-
+## What the record supports about Slovenia's UFO record
 Slovenia has an authentic but thin UFO history. Its reports are geographically diverse and occasionally well enough documented to merit investigation, especially the 2008 Vipava Valley story and the 2023 pilot observation. Yet no Slovenian case in the accessible public record provides compelling evidence of a craft displaying verified capabilities beyond known technology or natural phenomena.
 
 The most persistent weakness is not necessarily witness honesty. It is missing measurement. Bright lights are reported without angular coordinates; objects are said to hover above landmarks without triangulation; apparent power disruptions are linked to sightings without utility records; and videos circulate without their original metadata.

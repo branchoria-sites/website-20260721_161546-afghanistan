@@ -393,8 +393,7 @@ The witness's certainty that the objects were unusual is an important part of th
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" title="The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe | Full Documentary" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 8:55">8:55</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer">The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Gemini Blessed TV &middot; Views: 16.8K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5P-MMjyVVA8">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What would settle the questions around Lusaka Lights
 The Lusaka Lights occupy an unusual position between explanation and mystery. There is insufficient evidence to identify the lights positively, yet there is equally insufficient evidence to support claims of exotic technology.
 
 Several unresolved questions continue to prevent a firm conclusion:

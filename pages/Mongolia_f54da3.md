@@ -1344,8 +1344,7 @@ This is not an impossibly high standard. Meteor-camera networks already demonstr
 
 <img src="{{ "/assets/images/Mongolia_f54da3-Illustration-3-dark.svg" | relative_url }}" alt="What Do Mongolia&#x27;s UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## What the record supports about Mongolia's UFO record
 Mongolia has a small body of reported UFO observations, but no publicly demonstrated history of extraordinary craft, official cover-ups or recovered non-human technology. Its best-known modern episode—the July 2020 spiral—appears to have been a genuine, widely visible sky event. The surviving evidence is nevertheless insufficient to identify it conclusively, and its form is consistent with a high-altitude rocket plume.
 
 Other claims are weaker: late witness recollections, brief social-media posts and poorly sourced fireball stories. Mongolia’s geography may make spectacular atmospheric and orbital phenomena especially visible, while its sparse population and limited network of calibrated cameras make them difficult to reconstruct afterwards.

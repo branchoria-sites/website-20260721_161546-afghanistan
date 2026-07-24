@@ -211,12 +211,12 @@ hero_summary: Myanmar has a UFO history, but not a large or well-documented one.
 layout: default
 permalink: /what-really-happened-in-myanmars-ufo/
 nav_short_title: What Really Happened in Myanmar's UFO Cases?
-title: What Really Happened in Myanmar's UFO Cases?
+title: "Myanmar's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Myanmar's UFO Cases?
 display_title_short: What Really Happened in Myanmar's UFO Cases?
-display_title: What Really Happened in Myanmar's UFO Cases?
+display_title: "Myanmar's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Myanmar's UFO Cases?
-page_heading_title: What Really Happened in Myanmar's UFO Cases?
+page_heading_title: "Myanmar's UFO Files: Claims, Cases and Explanations"
 source_count: 87
 infographic_count: 3
 page_website_name: Myanmar
@@ -1287,8 +1287,7 @@ The partial media opening after 2012 improved the prospects for documenting unus
 
 <img src="{{ "/assets/images/Myanmar_928b7c-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Myanmar&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Myanmar's UFO record
 The evidence becomes clearer when cases are separated according to what can actually be established.
 
 **Confirmed events with ordinary explanations**
@@ -1326,8 +1325,7 @@ For Myanmar specifically, preserving original local reporting would be equally i
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GnJKEd470-8" title="Pentagon releases videos showing &#x27;unidentified aerial phenomena&#x27;" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GnJKEd470-8" target="_blank" rel="noopener noreferrer">Pentagon releases videos showing &#x27;unidentified aerial phenomena&#x27;</a></p><p class="youtube-embed-meta">Channel: Reuters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GnJKEd470-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GnJKEd470-8">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## What the record supports about Myanmar's UFO record
 Myanmar does not currently present strong public evidence of extraordinary aerial technology or extraterrestrial visitation. Its best-documented historical UFO report was identified as a conventional jet, while its most substantial modern “object from the sky” was almost certainly Chinese rocket debris. The remaining reports are too thinly documented to classify beyond unverified or insufficient-data observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/rangoon-burma-april-1954-28957992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">rangoon burma april 1954 28957992</span><span class="citation-popover-snippet">Project Blue Book: Rangoon, Burma, April 1954 · govweird...</span><span class="citation-popover-meta">Published: april 1954</span></span></span>
 
 The genuinely interesting feature of the Myanmar record is not an abundance of unexplained craft, but the difficulty of building a reliable chronology in a country with fragmented archives, long periods of censorship and continuing conflict. That environment can erase both unusual observations and their ordinary explanations. A fair assessment must therefore avoid two opposite errors: claiming that missing documentation conceals extraordinary events, and assuming that poorly preserved reports never happened at all.

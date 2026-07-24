@@ -211,12 +211,12 @@ hero_summary: Eritrea has a small but notable place in the historical record of 
 layout: default
 permalink: /what-really-happened-in-eritreas-ufo/
 nav_short_title: What Really Happened In Eritrea's UFO Reports?
-title: What Really Happened In Eritrea's UFO Reports?
+title: "The Gaps in Eritrea's UFO Record"
 title_full: What Really Happened In Eritrea's UFO Reports?
 display_title_short: What Really Happened In Eritrea's UFO Reports?
-display_title: What Really Happened In Eritrea's UFO Reports?
+display_title: "The Gaps in Eritrea's UFO Record"
 heading_title: What Really Happened In Eritrea's UFO Reports?
-page_heading_title: What Really Happened In Eritrea's UFO Reports?
+page_heading_title: "The Gaps in Eritrea's UFO Record"
 source_count: 69
 infographic_count: 3
 page_website_name: Eritrea UFO Files

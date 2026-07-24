@@ -378,8 +378,7 @@ Modern scientific proposals for investigating unidentified aerial phenomena incr
 
 <img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_ufo_evidence_quality_9be156-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_ufo_evidence_quality_9be156-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_ufo_evidence_quality_9be156-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Overall assessment
-
+## Where the record leaves Evidence
 The UFO evidence from Saint Kitts and Nevis is best characterised as **limited and generally weak**, not because witnesses necessarily reported inaccurately, but because the supporting evidence is sparse.
 
 Several reports remain unidentified due to missing information rather than demonstrated anomalous behaviour. The best-documented recent visual event has a conventional explanation consistent with a rocket launch, while the widely observed 2024 lights were linked to a SpaceX mission. The remaining cases lack the preserved measurements, corroboration and physical evidence needed to move beyond uncertainty.

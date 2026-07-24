@@ -211,12 +211,12 @@ hero_summary: Guinea has a limited but notable record of unidentified flying obj
 layout: default
 permalink: /what-really-happened-in-guineas-ufo/
 nav_short_title: What Really Happened in Guinea's UFO Cases?
-title: What Really Happened in Guinea's UFO Cases?
+title: "The Gaps in Guinea's UFO Record"
 title_full: What Really Happened in Guinea's UFO Cases?
 display_title_short: What Really Happened in Guinea's UFO Cases?
-display_title: What Really Happened in Guinea's UFO Cases?
+display_title: "The Gaps in Guinea's UFO Record"
 heading_title: What Really Happened in Guinea's UFO Cases?
-page_heading_title: What Really Happened in Guinea's UFO Cases?
+page_heading_title: "The Gaps in Guinea's UFO Record"
 source_count: 66
 infographic_count: 3
 page_website_name: Guinea

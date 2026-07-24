@@ -1348,8 +1348,7 @@ For the historical record, the highest-value research targets are specific rathe
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fmDitpLCXQQ" title="Why Scientists Ignored The &quot;African Roswell&quot; of 1947" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fmDitpLCXQQ" target="_blank" rel="noopener noreferrer">Why Scientists Ignored The &quot;African Roswell&quot; of 1947</a></p><p class="youtube-embed-meta">Channel: Asurf Live</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fmDitpLCXQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fmDitpLCXQQ">Open on YouTube</a></p></div></div></div>
 
-## The most defensible conclusion
-
+## Reading the evidence around Cote d'Ivoire's UFO record conservatively
 Ivory Coast’s UFO history is not a catalogue of proven exotic craft. It is a small body of reports shaped by archival loss, uneven reporting and the migration of stories from press and television into online folklore.
 
 The 1952 Abidjan observation deserves continued historical attention because it is contemporary, specific and preserved in an official foreign archive. Nevertheless, its classification remains limited by the absence of investigative detail. The Soubré and Daloa material may represent neglected local history, but primary sources are still needed. The [Yopougon video]({{ 'yopougon-video/' | relative_url }}) and newer social-media claims offer far less: they demonstrate how ambiguous light can acquire religious or extraterrestrial meaning faster than it can be technically examined.

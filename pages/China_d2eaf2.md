@@ -211,12 +211,12 @@ hero_summary: China has a long and unusually varied UFO history, but the public 
 layout: default
 permalink: /what-really-happened-in-chinas-ufo-cases/
 nav_short_title: What Really Happened in China's UFO Cases?
-title: What Really Happened in China's UFO Cases?
+title: "How Strong Is the UFO Evidence From China?"
 title_full: What Really Happened in China's UFO Cases?
 display_title_short: What Really Happened in China's UFO Cases?
-display_title: What Really Happened in China's UFO Cases?
+display_title: "How Strong Is the UFO Evidence From China?"
 heading_title: What Really Happened in China's UFO Cases?
-page_heading_title: What Really Happened in China's UFO Cases?
+page_heading_title: "How Strong Is the UFO Evidence From China?"
 source_count: 91
 infographic_count: 3
 page_website_name: China UFO Files
@@ -1327,8 +1327,7 @@ Because the original military datasets and algorithms are not publicly available
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rNlXeaW6Eec" title="China&#x27;s Secret UFO History Revealed" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rNlXeaW6Eec" target="_blank" rel="noopener noreferrer">China&#x27;s Secret UFO History Revealed</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rNlXeaW6Eec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rNlXeaW6Eec">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from China's UFO record
 A useful assessment separates what is well established from what is merely repeated.
 
 **Confirmed or strongly supported:**

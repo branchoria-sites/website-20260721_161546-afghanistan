@@ -458,8 +458,7 @@ No publicly documented Omani case presently meets this standard.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1fKhqnAtnx8" title="UFO sighted by US drone over Middle East in 2022" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 0:37">0:37</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1fKhqnAtnx8" target="_blank" rel="noopener noreferrer">UFO sighted by US drone over Middle East in 2022</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 91.1K &middot; Uploaded: April 2023 &middot; Length: 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1fKhqnAtnx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1fKhqnAtnx8">Open on YouTube</a></p></div></div></div>
 
-## Overall assessment
-
+## Where the record leaves Evidence Quality
 Taken together, the publicly available evidence from Oman supports a cautious conclusion. The country has a genuine record of unexplained aerial observations, but the evidence behind those reports is generally too limited to justify extraordinary interpretations. Most cases remain unidentified because the available information is incomplete, not because they demonstrate behaviour beyond known science.
 
 From an evidence perspective, Oman's sightings fall into three broad categories:

@@ -354,8 +354,7 @@ The records show that witnesses and officials considered whether military units 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 8:37">8:37</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What keeps Asmara Case unresolved
 ### The evidence is strong historically but weak scientifically
 
 The Asmara sighting is unusual among UFO reports because it left a documentary trail. Researchers can examine witness statements and official responses rather than relying only on later retellings. This makes it one of Eritrea’s most notable UFO-related historical cases.

@@ -1305,8 +1305,7 @@ This illustrates a common archival pitfall. Search engines may return a document
 
 The absence of a public file should also be interpreted cautiously. Military records can be indexed by unit, operation, aircraft, ocean sector or communications station rather than country name. Older files may never have been digitised, while records involving routine air-defence or intelligence activity may be withheld for reasons unrelated to extraterrestrial claims. Even so, an alleged Palauan case cannot be presented as official merely because a relevant document might conceivably remain undiscovered.
 
-## Confirmed, contested and unsupported claims
-
+## Sorting confirmed and disputed claims from Palau's UFO record
 For Palau, the evidence is best divided into three practical categories.
 
 **Confirmed:** It is confirmed that private websites provide facilities for submitting Palau UFO reports. It is also confirmed that Palau’s geography, dark maritime horizons, tropical weather, aircraft traffic, meteors and satellite overflights can produce unusual-looking observations. None of these facts establishes an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/palau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">palau ufo sightings</span><span class="citation-popover-snippet">and Experience Reports22 Mar 2025 — Browse or report Palau UFO UAP or USO sightings and other strange paranormal experiences to the US UF...</span></span></span>

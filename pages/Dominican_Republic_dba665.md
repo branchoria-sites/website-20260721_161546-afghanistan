@@ -1319,8 +1319,7 @@ Mainstream Dominican newspapers provide stronger dating and attribution for rece
 
 The Dominican Astronomical Society has articulated the most evidence-based local position. It accepts that people see phenomena they cannot initially identify, while noting that most reports have atmospheric, astronomical or technological explanations. It also stresses that no conclusive scientific evidence demonstrates extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diariolibre.com">[Diario Libre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diariolibre.com</span><span class="citation-popover-title">Diario Libre La Sociedad Astronómica con postura “escéptica” sobre los ovnis</span><span class="citation-popover-snippet">Diario Libre La Sociedad Astronómica con postura “escéptica” sobre los ovnis</span></span></span>
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Dominican Republic's UFO record
 ### Confirmed observations
 
 It is confirmed that unusual objects and lights have been observed and reported from Dominican territory. Photographs, videos, named witnesses and dated press coverage establish that people saw something in particular modern incidents. That is the narrow meaning of an unidentified flying object: an observation not identified by the witness at the time.

@@ -386,8 +386,7 @@ Because essential information is missing, none of these explanations can be conc
 
 <img src="{{ "/assets/images/Congo_77f256_katanga_discs_1952_3e9715-Illustration-3-dark.svg" | relative_url }}" alt="Katanga Discs illustration 3" data-theme-src-dark="{{ "/assets/images/Congo_77f256_katanga_discs_1952_3e9715-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256_katanga_discs_1952_3e9715-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## What keeps Katanga Discs unresolved
 The Katanga discs occupy an unusual position in UFO history. They are neither convincingly explained nor strongly substantiated.
 
 What can reasonably be stated is relatively limited:

@@ -1372,8 +1372,7 @@ For incidents near airports, flight-tracking and air-traffic information should 
 
 This standard is demanding because UFO evidence is vulnerable to ambiguity. A distant light contains little information, while a close object is easy to fake or misjudge without multiple perspectives. Scientific UAP projects increasingly emphasise synchronised cameras, triangulation, radar, spectrum measurements and environmental sensors precisely because a single image rarely supplies enough variables to identify an unfamiliar event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-## The most defensible conclusion
-
+## Reading the evidence around Costa Rica's UFO record conservatively
 Costa Rica has an important place in UFO history because the Lake Cote photograph combines an official mapping origin with an enduring visual mystery. It deserves neither casual dismissal nor the inflated status of confirmed alien evidence. The photograph has survived several obvious authenticity challenges, but its central physical properties remain unknown, leaving photographic artefacts, nearby objects and water-surface phenomena in play.
 
 The broader national record is considerably weaker. Later videos and witness reports demonstrate continuing public engagement with unusual aerial sightings, not a verified pattern of extraordinary craft concentrated around Costa Rican volcanoes, lakes or airports. Regional clusters are difficult to separate from population density, tourism, flight routes, landscape visibility and the influence of famous earlier stories.

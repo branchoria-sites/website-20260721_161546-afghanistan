@@ -1314,8 +1314,7 @@ Central African UFO research remains small and largely informal. Writers and ent
 
 <img src="{{ "/assets/images/DR_Congo_b690cb-Illustration-3-dark.svg" | relative_url }}" alt="DR Congo illustration 3" data-theme-src-dark="{{ "/assets/images/DR_Congo_b690cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/DR_Congo_b690cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Democratic Republic of the Congo's UFO record
 The Congolese record becomes clearer when cases are separated by evidential status rather than grouped under the broad label “UFO”.
 
 **Confirmed identification**
@@ -1344,8 +1343,7 @@ For a case to move beyond witness testimony, researchers would need original rep
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hRyc0FnNZFk" title="A Silent War, Stories of Human Suffering and Resilience in Congo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hRyc0FnNZFk" target="_blank" rel="noopener noreferrer">A Silent War, Stories of Human Suffering and Resilience in Congo</a></p><p class="youtube-embed-meta">Channel: VOA Africa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hRyc0FnNZFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hRyc0FnNZFk">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## Reading the evidence around Democratic Republic of the Congo's UFO record conservatively
 DR Congo’s UFO history is notable for one evocative Cold War-era story rather than a large body of strong cases. The 1952 Katanga report deserves preservation as part of colonial aviation, intelligence and UFO history, but its archival status should not be confused with verification. It contains too little traceable evidence to support claims about advanced technology or extraterrestrial visitors.
 
 The modern record points in a more ordinary but useful direction. A genuinely unidentified object can prompt public alarm and official action, as happened near Buta, yet become fully explainable when physical evidence and operational records are available. Meanwhile, the country’s vast territory, uneven reporting infrastructure, active aviation environment and conflicts involving drones make incomplete or mistaken observations unsurprising.

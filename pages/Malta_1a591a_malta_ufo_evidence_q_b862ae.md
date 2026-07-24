@@ -415,8 +415,7 @@ Without these elements, even sincere witness testimony cannot reliably establish
 
 <img src="{{ "/assets/images/Malta_1a591a_malta_ufo_evidence_q_b862ae-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Test illustration 3" data-theme-src-dark="{{ "/assets/images/Malta_1a591a_malta_ufo_evidence_q_b862ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malta_1a591a_malta_ufo_evidence_q_b862ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Overall Assessment
-
+## What the evidence supports about Evidence Test
 When the available Maltese evidence is divided into broad categories, a consistent picture emerges.
 
 * **Confirmed explanations:** Several prominent reports are consistent with known astronomical or atmospheric phenomena, including Venus and bright meteors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timesofmalta.com/article/whats-that-mysterious-light-in-the-night-sky.249960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofmalta.com">[Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofmalta.com</span><span class="citation-popover-title">Times of Malta What&#x27;s that mysterious light in the night sky?</span><span class="citation-popover-snippet">Times of MaltaWhat&#x27;s that mysterious light in the night sky?March 23, 2009...</span><span class="citation-popover-meta">Published: March 23, 2009</span></span></span>

@@ -211,12 +211,12 @@ hero_summary: Gabon has a small but notable record of reported UFO (unidentified
 layout: default
 permalink: /what-really-happened-in-gabons-ufo-cases/
 nav_short_title: What Really Happened in Gabon's UFO Cases?
-title: What Really Happened in Gabon's UFO Cases?
+title: "How Much UFO Evidence Does Gabon Really Have?"
 title_full: What Really Happened in Gabon's UFO Cases?
 display_title_short: What Really Happened in Gabon's UFO Cases?
-display_title: What Really Happened in Gabon's UFO Cases?
+display_title: "How Much UFO Evidence Does Gabon Really Have?"
 heading_title: What Really Happened in Gabon's UFO Cases?
-page_heading_title: What Really Happened in Gabon's UFO Cases?
+page_heading_title: "How Much UFO Evidence Does Gabon Really Have?"
 source_count: 71
 infographic_count: 3
 page_website_name: Gabon UFO Files

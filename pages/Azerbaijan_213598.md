@@ -1354,8 +1354,7 @@ The Caspian coast presents particular identification challenges because observer
 
 <img src="{{ "/assets/images/Azerbaijan_213598-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Azerbaijan&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## What the record supports about Azerbaijan's UFO record
 Azerbaijan’s UFO history contains one case of genuine international significance: the 1955 observation by Senator Richard Russell and his companions. It is significant because the witnesses were identifiable and the event generated contemporaneous intelligence documentation. It remains unresolved in public records, but there is no evidence connecting it to extraterrestrial technology.
 
 The later national record is much weaker. Reports from the Baku coast, Ganja, Barda, Goychay and other districts demonstrate recurring public interest in unusual aerial sights, yet most lack the data required for a serious reconstruction. Some were plausibly atmospheric or human-made phenomena; others cannot now be resolved because the original evidence was never preserved. The broader lesson is that “unidentified” describes the limits of the available information. In Azerbaijan, as elsewhere, it is not by itself evidence of an alien origin.

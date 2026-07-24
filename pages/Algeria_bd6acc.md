@@ -1421,8 +1421,7 @@ Multiple witnesses improve a case only when their accounts are genuinely indepen
 
 <img src="{{ "/assets/images/Algeria_bd6acc-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Algeria&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## What the record supports about Algeria's UFO record
 Algeria has authentic archival UFO reports, but no publicly documented case presently demonstrates an aircraft of non-human origin or technology beyond conventional scientific knowledge. The 1952 Constantine and Philippeville document is historically valuable but analytically sparse. The Mers-el-Kebir case was examined seriously and found compatible in large part with a meteor, while remaining formally unclassifiable because of missing information. Bouamama is the most extraordinary narrative and the least securely documented.
 
 The central feature of Algeria’s UFO history is therefore not an abundance of inexplicable craft, but an archival gap. Colonial records, foreign intelligence summaries, retrospective testimony and modern internet reports sit beside one another without a unified national investigation system. That fragmentation leaves some observations unresolved, yet it also prevents confident extraordinary conclusions. In the Algerian record, “unidentified” usually describes the limits of surviving evidence rather than the proven nature of the object.

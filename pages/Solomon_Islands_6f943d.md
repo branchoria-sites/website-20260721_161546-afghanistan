@@ -211,12 +211,12 @@ hero_summary: The Solomon Islands have acquired an outsized reputation in UFO li
 layout: default
 permalink: /what-really-happened-in-the-solomon/
 nav_short_title: What Really Happened in the Solomon Islands Skies?
-title: What Really Happened in the Solomon Islands Skies?
+title: "What the UFO Record From the Solomon Islands Actually Shows"
 title_full: What Really Happened in the Solomon Islands Skies?
 display_title_short: What Really Happened in the Solomon Islands Skies?
-display_title: What Really Happened in the Solomon Islands Skies?
+display_title: "What the UFO Record From the Solomon Islands Actually Shows"
 heading_title: What Really Happened in the Solomon Islands Skies?
-page_heading_title: What Really Happened in the Solomon Islands Skies?
+page_heading_title: "What the UFO Record From the Solomon Islands Actually Shows"
 source_count: 150
 infographic_count: 3
 page_website_name: Solomon Islands

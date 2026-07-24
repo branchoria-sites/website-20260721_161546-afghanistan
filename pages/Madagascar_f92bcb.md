@@ -211,12 +211,12 @@ hero_summary: 'Madagascar’s UFO record is much thinner than popular retellings
 layout: default
 permalink: /what-really-happened-in-madagascars/
 nav_short_title: What Really Happened in Madagascar's Skies?
-title: What Really Happened in Madagascar's Skies?
+title: "Madagascar's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Madagascar's Skies?
 display_title_short: What Really Happened in Madagascar's Skies?
-display_title: What Really Happened in Madagascar's Skies?
+display_title: "Madagascar's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Madagascar's Skies?
-page_heading_title: What Really Happened in Madagascar's Skies?
+page_heading_title: "Madagascar's UFO Files: Claims, Cases and Explanations"
 source_count: 101
 infographic_count: 3
 page_website_name: Madagascar
@@ -1334,8 +1334,7 @@ The local historical context matters as well. Madagascar was a French colony in 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4npE-Fgh6M4" title="Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 18:47">18:47</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer">Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience</a></p><p class="youtube-embed-meta">Channel: ASPW Experience &middot; Views: 665.4K &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4npE-Fgh6M4">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Madagascar's UFO record
 ### Confirmed or strongly supported
 
 A conspicuous aerial phenomenon was reported over Antananarivo on 16 August 1954, and Edmond Campagnac later placed himself among its witnesses. His account appeared in a French specialist publication in 1964 and was retold to COMETA. It is also confirmed that COMETA could not find the alleged military commission’s investigation in Air Force archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: Tananarive 1954 case - the sources - a version of 1970... GEPA&quot;, 2nd quarter 1964, p. 19). It is precisely this obs...</span></span></span>

@@ -211,12 +211,12 @@ hero_summary: 'Morocco has a genuine UFO history, but not one that supports a cl
 layout: default
 permalink: /what-really-happened-in-moroccos-ufo/
 nav_short_title: What Really Happened in Morocco's UFO Skies?
-title: What Really Happened in Morocco's UFO Skies?
+title: "What the UFO Record From Morocco Actually Shows"
 title_full: What Really Happened in Morocco's UFO Skies?
 display_title_short: What Really Happened in Morocco's UFO Skies?
-display_title: What Really Happened in Morocco's UFO Skies?
+display_title: "What the UFO Record From Morocco Actually Shows"
 heading_title: What Really Happened in Morocco's UFO Skies?
-page_heading_title: What Really Happened in Morocco's UFO Skies?
+page_heading_title: "What the UFO Record From Morocco Actually Shows"
 source_count: 85
 infographic_count: 3
 page_website_name: Morocco
@@ -1318,8 +1318,7 @@ The nationwide distribution of the 1976 reports is therefore not evidence agains
 
 <figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Original document</div><img src="{{ "/assets/images/Morocco_32e087-photo1.webp" | relative_url }}" alt="Project Blue Book report - 1952-09-6383128-Rabat, Morocco Untitled" loading="lazy" decoding="async"><figcaption><strong>Project Blue Book report - 1952-09-6383128-Rabat, Morocco</strong><span class="archive-evidence-meta">Project Blue Book &middot; Wikimedia Commons &middot; 1952-09 &middot; 132877714</span><span class="archive-evidence-explanation">Previously accepted by the archival-media lane; terminal decision recovered from the master log after consolidation loss.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Project_Blue_Book_report_-_1952-09-6383128-Rabat,_Morocco.pdf" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Morocco's UFO record
 The Moroccan record becomes clearer when claims are separated by evidential status.
 
 ### Confirmed facts

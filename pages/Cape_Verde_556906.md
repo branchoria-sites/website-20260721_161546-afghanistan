@@ -211,12 +211,12 @@ hero_summary: Cape Verde has no well-documented national UFO wave, famous milita
 layout: default
 permalink: /what-really-happened-in-cape-verdes-ufo/
 nav_short_title: What Really Happened in Cape Verde's UFO Reports?
-title: What Really Happened in Cape Verde's UFO Reports?
+title: "The Gaps in Cabo Verde's UFO Record"
 title_full: What Really Happened in Cape Verde's UFO Reports?
 display_title_short: What Really Happened in Cape Verde's UFO Reports?
-display_title: What Really Happened in Cape Verde's UFO Reports?
+display_title: "The Gaps in Cabo Verde's UFO Record"
 heading_title: What Really Happened in Cape Verde's UFO Reports?
-page_heading_title: What Really Happened in Cape Verde's UFO Reports?
+page_heading_title: "The Gaps in Cabo Verde's UFO Record"
 source_count: 109
 infographic_count: 3
 page_website_name: Cape Verde

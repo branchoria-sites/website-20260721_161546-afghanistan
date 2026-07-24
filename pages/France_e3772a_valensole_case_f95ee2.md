@@ -327,8 +327,7 @@ The case also attracted early conventional explanations. Contemporary reporting 
 
 <img src="{{ "/assets/images/France_e3772a_valensole_case_f95ee2-Illustration-2-dark.svg" | relative_url }}" alt="Valensole illustration 2" data-theme-src-dark="{{ "/assets/images/France_e3772a_valensole_case_f95ee2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a_valensole_case_f95ee2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## What keeps Valensole unresolved
 Valensole endures because it sits between two categories of evidence. It contains more documentation than a simple anecdotal sighting, but less evidence than would be required to confirm an extraordinary interpretation. GEIPAN’s Category D classification reflects this position: the report remains unidentified, not proven to have an extraordinary origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">VALENSOLE (04) 01.07.1965 &#124; GEIPANJune 26, 2015...</span><span class="citation-popover-meta">Published: June 26, 2015</span></span></span>
 
 The unresolved claims can be divided into three main questions:

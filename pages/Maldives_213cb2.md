@@ -1295,8 +1295,7 @@ International practice shows why terminology matters. Aviation authorities norma
 
 <img src="{{ "/assets/images/Maldives_213cb2-Illustration-2-dark.svg" | relative_url }}" alt="What Really Flies Over the Maldives? illustration 2" data-theme-src-dark="{{ "/assets/images/Maldives_213cb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maldives_213cb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## Sorting confirmed and disputed claims from Maldives' UFO record
 The Maldivian evidence separates into three fairly clear categories.
 
 **Confirmed or strongly identified events**
@@ -1340,8 +1339,7 @@ That standard is especially relevant in the Maldives, where exceptional visibili
 
 <img src="{{ "/assets/images/Maldives_213cb2-Illustration-3-dark.svg" | relative_url }}" alt="What Really Flies Over the Maldives? illustration 3" data-theme-src-dark="{{ "/assets/images/Maldives_213cb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maldives_213cb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## The strongest conclusion supported by Maldives' UFO record
 The Maldives has a small body of UFO reports but no established national mystery supported by strong public evidence. The chronology is dominated by isolated witness submissions and, more recently, by cases involving conventional space activity. Laamu Atoll provides the clearest lesson: one unusual aerial display was probably deorbiting satellite debris, while a separate “object from space” recovered onshore was identifiable Indian launch hardware.
 
 The unresolved reports deserve neither ridicule nor exaggeration. They record experiences that witnesses could not identify at the time, but their evidential value is limited by missing measurements, sparse documentation and the absence of independent corroboration. On the present record, the most plausible Maldivian UFO landscape is a mixture of aircraft, astronomical objects, meteors, satellites and rocket debris observed under unusually open but visually deceptive conditions. No published Maldivian incident currently supplies reliable evidence of extraterrestrial visitation or technology beyond known human capabilities.

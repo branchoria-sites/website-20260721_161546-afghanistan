@@ -1320,8 +1320,7 @@ Most Venezuelan cases available online lack several or all of these elements. De
 
 <img src="{{ "/assets/images/Venezuela_9d4ac4-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Venezuela&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Venezuela_9d4ac4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_9d4ac4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Venezuela's UFO record
 The most useful way to assess Venezuela’s UFO material is to separate the existence of a report from the truth of its proposed explanation.
 
 **Confirmed as reports:** The Petare narrative was recorded in mid-century UFO literature and linked to named witnesses and Venezuelan press coverage. González Ganteaume’s 1961 book is a real early national compilation. American records contain at least a brief reference to an Anaco sighting. Modern databases also contain reports submitted from Caracas, Maracaibo and elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.worldcat.org/es/title/platillos-voladores-sobre-venezuela/oclc/4283986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[worldcat.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-snippet">Autor:Horacio González Ganteaume... WorldCat es el mayor catálogo de bibliotecas del mundo, que le ayuda a encontrar material bibliotec...</span></span></span>

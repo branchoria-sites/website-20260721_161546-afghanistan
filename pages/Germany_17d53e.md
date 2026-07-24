@@ -211,12 +211,12 @@ hero_summary: Germany has a long history of UFO and UAP (Unidentified Anomalous 
 layout: default
 permalink: /what-really-happened-in-germanys-ufo/
 nav_short_title: What Really Happened in Germany's UFO Cases?
-title: What Really Happened in Germany's UFO Cases?
+title: "From Strange Sightings to Answers in Germany"
 title_full: What Really Happened in Germany's UFO Cases?
 display_title_short: What Really Happened in Germany's UFO Cases?
-display_title: What Really Happened in Germany's UFO Cases?
+display_title: "From Strange Sightings to Answers in Germany"
 heading_title: What Really Happened in Germany's UFO Cases?
-page_heading_title: What Really Happened in Germany's UFO Cases?
+page_heading_title: "From Strange Sightings to Answers in Germany"
 source_count: 34
 infographic_count: 3
 page_website_name: Germany UFO Files

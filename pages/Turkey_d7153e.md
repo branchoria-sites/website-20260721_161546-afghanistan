@@ -211,12 +211,12 @@ hero_summary: Turkey has a lively UFO culture and several widely reported incide
 layout: default
 permalink: /what-really-happened-in-turkeys-ufo/
 nav_short_title: What Really Happened in Turkey's UFO Cases?
-title: What Really Happened in Turkey's UFO Cases?
+title: "Turkiye's UFO History Under the Microscope"
 title_full: What Really Happened in Turkey's UFO Cases?
 display_title_short: What Really Happened in Turkey's UFO Cases?
-display_title: What Really Happened in Turkey's UFO Cases?
+display_title: "Turkiye's UFO History Under the Microscope"
 heading_title: What Really Happened in Turkey's UFO Cases?
-page_heading_title: What Really Happened in Turkey's UFO Cases?
+page_heading_title: "Turkiye's UFO History Under the Microscope"
 source_count: 121
 infographic_count: 3
 page_website_name: Turkey
@@ -1313,8 +1313,7 @@ Foreign intelligence archives occasionally contain material about international 
 
 The reliability problem is particularly acute online. Many Turkish cases circulate through copied blog posts, television clips and social-media captions. Dates change, witness numbers grow, tentative statements become official “confirmations”, and enhanced stills are presented without the original recording. A credible archive would preserve the earliest version of each account and record later corrections rather than merely repeating the most dramatic retelling.
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Turkiye's UFO record
 The Turkish record becomes clearer when claims are separated by what the evidence actually supports.
 
 **Reasonably confirmed**

@@ -1288,8 +1288,7 @@ Social-media graphics have also circulated numbers supposedly drawn from reporti
 
 Reported counts are shaped by access to reporting platforms, language, publicity, population and cultural willingness to submit a claim. They do not measure the number of unexplained objects in a country. A small state may appear to have few cases simply because international databases are little used there.
 
-## Confirmed, contested and unsupported claims
-
+## Sorting confirmed and disputed claims from Antigua and Barbuda's UFO record
 The evidence is clearest when separated by status.
 
 **Reasonably identified events**
@@ -1347,8 +1346,7 @@ For Antigua and Barbuda, a practical reporting pathway would begin with aviation
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mAJC426T0L0" title="Watch Live: 28 Starlink internet satellites launch aboard SpaceX Falcon 9 rocket from Cape Canaveral" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:34:20">1:34:20</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mAJC426T0L0" target="_blank" rel="noopener noreferrer">Watch Live: 28 Starlink internet satellites launch aboard SpaceX Falcon 9 rocket from Cape Canaveral</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mAJC426T0L0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mAJC426T0L0">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## What the record supports about Antigua and Barbuda's UFO record
 Antigua and Barbuda’s public UFO record is thin, fragmented and dominated by initially unidentified lights that have plausible launch-related explanations. The December 2019 case aligns with a Soyuz mission from French Guiana, while the March 2024 spectacle aligns with a Falcon 9 Starlink launch from Florida. Neither provides credible evidence of an extraordinary vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Science_Exploration/Space_Science/Cheops/Launch_and_orbit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Launch and orbitCheops launched as a secondary passenger on a Soyuz-Fregat rocket from Europe&#x27;s Spaceport in K...</span></span></span>
 
 No accessible official archive establishes a history of unexplained military encounters, and no private database currently supplies enough transparent case material to fill that gap. Barbuda is particularly underrepresented, making claims about variation between the islands impossible to support.

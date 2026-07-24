@@ -384,8 +384,7 @@ The surviving documentation is too limited to discriminate confidently among the
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aChZTZyFHFA" title="Ball Lightning Can Pass Through Closed Windows But How?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aChZTZyFHFA" target="_blank" rel="noopener noreferrer">Ball Lightning Can Pass Through Closed Windows But How?</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aChZTZyFHFA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aChZTZyFHFA">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## The evidence gaps around Baridiame
 Baridiame occupies an unusual position within Senegal's UFO history because it combines real physical consequences with incomplete evidence.
 
 Several factors prevent a firm conclusion:

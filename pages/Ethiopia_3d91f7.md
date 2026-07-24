@@ -211,12 +211,12 @@ hero_summary: Ethiopia has one of the better-known African UFO case histories, b
 layout: default
 permalink: /what-really-happened-in-ethiopias-ufo/
 nav_short_title: What Really Happened in Ethiopia's UFO Cases
-title: What Really Happened in Ethiopia's UFO Cases
+title: "Inside the Official UFO Record of Ethiopia"
 title_full: What Really Happened in Ethiopia's UFO Cases
 display_title_short: What Really Happened in Ethiopia's UFO Cases
-display_title: What Really Happened in Ethiopia's UFO Cases
+display_title: "Inside the Official UFO Record of Ethiopia"
 heading_title: What Really Happened in Ethiopia's UFO Cases
-page_heading_title: What Really Happened in Ethiopia's UFO Cases
+page_heading_title: "Inside the Official UFO Record of Ethiopia"
 source_count: 73
 infographic_count: 3
 page_website_name: Ethiopia UFO Files

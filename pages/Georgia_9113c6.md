@@ -211,12 +211,12 @@ hero_summary: Georgia has one of the better-documented UFO histories in the sout
 layout: default
 permalink: /what-really-happened-in-georgia-ufo/
 nav_short_title: What Really Happened in Georgia UFO Cases?
-title: What Really Happened in Georgia UFO Cases?
+title: "Sightings, Files and False Alarms in Georgia"
 title_full: What Really Happened in Georgia UFO Cases?
 display_title_short: What Really Happened in Georgia UFO Cases?
-display_title: What Really Happened in Georgia UFO Cases?
+display_title: "Sightings, Files and False Alarms in Georgia"
 heading_title: What Really Happened in Georgia UFO Cases?
-page_heading_title: What Really Happened in Georgia UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in Georgia"
 source_count: 73
 infographic_count: 3
 page_website_name: Georgia UFO Files

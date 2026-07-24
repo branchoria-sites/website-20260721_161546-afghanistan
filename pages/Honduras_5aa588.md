@@ -211,12 +211,12 @@ hero_summary: Reports of unidentified flying objects (UFOs), now often called un
 layout: default
 permalink: /what-really-happened-in-honduras-ufo/
 nav_short_title: What Really Happened in Honduras UFO Reports?
-title: What Really Happened in Honduras UFO Reports?
+title: "Honduras' UFO History Under the Microscope"
 title_full: What Really Happened in Honduras UFO Reports?
 display_title_short: What Really Happened in Honduras UFO Reports?
-display_title: What Really Happened in Honduras UFO Reports?
+display_title: "Honduras' UFO History Under the Microscope"
 heading_title: What Really Happened in Honduras UFO Reports?
-page_heading_title: What Really Happened in Honduras UFO Reports?
+page_heading_title: "Honduras' UFO History Under the Microscope"
 source_count: 76
 infographic_count: 3
 page_website_name: Honduras UFO Files

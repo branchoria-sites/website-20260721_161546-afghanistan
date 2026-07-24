@@ -332,8 +332,7 @@ This approach explains why the Belarusian archive contains numerous unresolved r
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-LSUrmfl46E" title="Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:08:41">1:08:41</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer">Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 198.9K &middot; Uploaded: December 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-LSUrmfl46E">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, Contested and Debunked Claims
-
+## Sorting confirmed and disputed claims from Evidence Test
 ### The strongest documented case remains contested
 
 The September 1984 Aeroflot encounter near Minsk is often presented as Belarus's premier UFO incident because it involved professional flight crews, multiple aircraft and a detailed sequence of changing luminous forms.
@@ -430,8 +429,7 @@ Much of the Soviet-era material entered public circulation through newspapers, l
 
 This makes independent verification difficult. A report may appear in numerous books or websites while ultimately deriving from a single original newspaper article or witness account.
 
-## Overall Assessment
-
+## The balanced reading of Evidence Test
 Taken as a whole, the Belarusian UFO record is historically interesting but evidentially modest.
 
 The evidence supports several careful conclusions:

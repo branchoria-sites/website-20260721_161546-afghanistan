@@ -415,8 +415,7 @@ Whenever possible, individual cases should be cross-checked against contemporary
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5_cynthia_hind_archive_02c1c7-Illustration-3-dark.svg" | relative_url }}" alt="Hind Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5_cynthia_hind_archive_02c1c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5_cynthia_hind_archive_02c1c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Overall assessment
-
+## Where the record leaves Hind Archive
 Cynthia Hind's archive remains the foundation of Zimbabwe's documented UFO history because it preserved reports that might otherwise have vanished entirely. It is therefore an exceptionally valuable historical resource for understanding what witnesses reported, how investigations were conducted and how UFO narratives developed within Zimbabwe.
 
 Its reliability, however, varies according to the question being asked. It is highly reliable as evidence that certain witnesses made particular claims and that those claims were documented at the time. It is substantially less reliable as proof that the reported phenomena occurred exactly as interpreted. The archive's greatest strength is preservation; its greatest limitation is that it was assembled by a committed believer rather than by a neutral investigative institution. Those two characteristics are inseparable and together define both its enduring importance and its evidential limits.

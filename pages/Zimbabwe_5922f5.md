@@ -1309,8 +1309,7 @@ Online databases compound the problem by copying one another. A report appearing
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Zimbabwe&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Zimbabwe's UFO record
 A clear evidence split prevents the Zimbabwe record from being either sensationalised or dismissed wholesale.
 
 **Reasonably confirmed facts include:**

@@ -211,12 +211,12 @@ hero_summary: Belize has a modest but persistent UFO record rather than a single
 layout: default
 permalink: /what-really-happened-in-belizes-skies/
 nav_short_title: What Really Happened in Belize's Skies?
-title: What Really Happened in Belize's Skies?
+title: "Belize's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Belize's Skies?
 display_title_short: What Really Happened in Belize's Skies?
-display_title: What Really Happened in Belize's Skies?
+display_title: "Belize's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Belize's Skies?
-page_heading_title: What Really Happened in Belize's Skies?
+page_heading_title: "Belize's UFO Files: Claims, Cases and Explanations"
 source_count: 90
 infographic_count: 3
 page_website_name: Belize
@@ -1304,8 +1304,7 @@ No declassified radar track, military interception report, recovered material or
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kUYSAUukO_w" title="A Week in Belize with the Sandhurst Military Academy | ACCESS" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kUYSAUukO_w" target="_blank" rel="noopener noreferrer">A Week in Belize with the Sandhurst Military Academy | ACCESS</a></p><p class="youtube-embed-meta">Channel: BFBS Creative</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kUYSAUukO_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kUYSAUukO_w">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and unsupported claims
-
+## Sorting confirmed and disputed claims from Belize's UFO record
 The Belize record becomes clearer when the reports are separated by evidential status.
 
 **Confirmed observations** are events for which there is reasonable evidence that people saw something. The 2008 Belmopan lights belong in this category because several named observers gave broadly compatible accounts. The 2005 San Pedro fireball report also plausibly records a real luminous event, even though its exact cause was not demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amandala.com.bz/news/strange-night-sightings-in-pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amandala.com.bz">[amandala.com.bz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amandala.com.bz</span><span class="citation-popover-title">Strange night sightings in ‘Pan! &#124; Amandala Newspaper</span><span class="citation-popover-snippet">Strange night sightings in ‘Pan! &#124; Amandala Newspaper</span></span></span>

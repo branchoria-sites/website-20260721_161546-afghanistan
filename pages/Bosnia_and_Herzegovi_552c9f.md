@@ -1291,8 +1291,7 @@ No credible public dataset presently shows that any Bosnian region has a statist
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 5:14">5:14</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Bosnia and Herzegovina's UFO record
 ### Confirmed phenomena
 
 Several objects seen over Bosnia and Herzegovina were initially surprising but are supported by ordinary, verifiable explanations.
@@ -1393,8 +1392,7 @@ An event becomes genuinely significant when independent evidence converges: visu
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sDhYiKDmHus" title="Široki - Sarajevo (Poginuo Vedran Puljić) 10.04.2009." loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sDhYiKDmHus" target="_blank" rel="noopener noreferrer">Široki - Sarajevo (Poginuo Vedran Puljić) 10.04.2009.</a></p><p class="youtube-embed-meta">Channel: WwwSirokiBrigCom</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sDhYiKDmHus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sDhYiKDmHus">Open on YouTube</a></p></div></div></div>
 
-## The most defensible conclusion
-
+## The strongest conclusion supported by Bosnia and Herzegovina's UFO record
 Bosnia and Herzegovina has a real cultural and documentary record of unusual things seen in the sky, but it does not presently have a strong public record of extraordinary aerial technology. Its best-known reports are a mixture of inadequately documented witness accounts, ambiguous images, astronomical events and modern satellite displays.
 
 The confirmed cases are instructive rather than mysterious. Sarajevo’s 2013 fireball shows how observation and astronomy can identify a dramatic natural event. The 2023 Starlink passage shows how a technological change can create a new class of mass sighting. The Banja Luka and Novi Travnik accounts remain unresolved chiefly because decisive information was never collected or preserved.

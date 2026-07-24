@@ -1277,8 +1277,7 @@ Those outcomes demonstrate an important distinction. “Unexplained” in a form
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hEQyHhXn880" title="EXPLORING SECRET ABANDONED MILITARY BASE HIDDEN in MOUNTAINS! 🇦🇩 (ANDORRA)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 27:10">27:10</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hEQyHhXn880" target="_blank" rel="noopener noreferrer">EXPLORING SECRET ABANDONED MILITARY BASE HIDDEN in MOUNTAINS! 🇦🇩 (ANDORRA)</a></p><p class="youtube-embed-meta">Channel: TFIL (Traveling to EVERY COUNTRY in A-Z Order) &middot; Views: 93.2K &middot; Uploaded: February 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hEQyHhXn880" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hEQyHhXn880">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, Contested and Debunked Claims
-
+## Claims, explanations and evidence in Andorra's UFO record
 The Andorran material becomes much clearer when sorted by evidence quality rather than by how dramatic the original description sounded.
 
 **Confirmed conventional identifications**

@@ -1318,8 +1318,7 @@ Cross-border reporting can also distort attribution. A light photographed from T
 
 <img src="{{ "/assets/images/Laos_7998be-Illustration-3-dark.svg" | relative_url }}" alt="What Really Explains Laos&#x27;s UFO Stories? illustration 3" data-theme-src-dark="{{ "/assets/images/Laos_7998be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Laos_7998be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## Claims, explanations and evidence in Laos' UFO record
 The available evidence is easiest to understand when separated by quality rather than by dramatic appeal.
 
 **Reasonably confirmed facts**

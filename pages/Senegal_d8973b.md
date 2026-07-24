@@ -211,12 +211,12 @@ hero_summary: Senegal’s UFO record is real in the limited sense that unusual a
 layout: default
 permalink: /what-really-happened-in-senegals-ufo/
 nav_short_title: What Really Happened in Senegal's UFO Cases?
-title: What Really Happened in Senegal's UFO Cases?
+title: "Why Is Senegal's UFO Record So Thin?"
 title_full: What Really Happened in Senegal's UFO Cases?
 display_title_short: What Really Happened in Senegal's UFO Cases?
-display_title: What Really Happened in Senegal's UFO Cases?
+display_title: "Why Is Senegal's UFO Record So Thin?"
 heading_title: What Really Happened in Senegal's UFO Cases?
-page_heading_title: What Really Happened in Senegal's UFO Cases?
+page_heading_title: "Why Is Senegal's UFO Record So Thin?"
 source_count: 136
 infographic_count: 3
 page_website_name: Senegal

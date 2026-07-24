@@ -1271,8 +1271,7 @@ Nor does the account establish an engineered craft. Reports of visible roads and
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/StHCSSjbn44" title="Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 10:04">10:04</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer">Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 850.7K &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=StHCSSjbn44">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Nigeria's UFO record
 A useful assessment separates the existence of a report from the truth of its most dramatic interpretation.
 
 ### Confirmed events

@@ -1330,8 +1330,7 @@ Care is also needed with geographical labels in foreign archives. A 1959 United 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LFswmAii4rw" title="The Most Convincing UFO Story From South Africa: The Kalahari Event" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 44:21">44:21</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer">The Most Convincing UFO Story From South Africa: The Kalahari Event</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 122.5K &middot; Uploaded: July 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LFswmAii4rw">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Mozambique's UFO record
 A useful evidence split for Mozambique is narrower than the dramatic language sometimes used online.
 
 ### Confirmed

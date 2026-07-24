@@ -1321,8 +1321,7 @@ Samoa’s location creates several plausible sources of striking sky observation
 
 <img src="{{ "/assets/images/Samoa_f56806-Illustration-2-dark.svg" | relative_url }}" alt="What Do Samoa&#x27;s UFO Records Actually Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Samoa_f56806-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Samoa's UFO record
 The available Samoa material divides more naturally by evidential status than by dramatic case category.
 
 ### Confirmed documentation

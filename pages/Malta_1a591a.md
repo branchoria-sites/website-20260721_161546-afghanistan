@@ -1328,8 +1328,7 @@ Witness credibility would remain relevant, but it would not determine the result
 
 <img src="{{ "/assets/images/Malta_1a591a-Illustration-3-dark.svg" | relative_url }}" alt="What Really Lies Behind Malta&#x27;s UFO Reports? illustration 3" data-theme-src-dark="{{ "/assets/images/Malta_1a591a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malta_1a591a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible assessment
-
+## What the record supports about Malta's UFO record
 Malta’s UFO record is real as a history of reports, photographs, public curiosity and unresolved perceptions. It is not a verified history of exotic craft. The cases with enough contextual information often move towards ordinary explanations, especially Venus, meteors, aircraft or atmospheric effects. The most celebrated photographic cases remain ambiguous because their provenance and measurement quality are weak.
 
 The 1845 maritime report is Malta’s most unusual historical episode, chiefly because it combines luminous objects, heat and a sulphurous smell. Even there, a possible geological mechanism competes with the UFO interpretation, and the age of the evidence makes decisive testing impossible. Modern cases are better documented in the journalistic sense but rarely in the scientific one.

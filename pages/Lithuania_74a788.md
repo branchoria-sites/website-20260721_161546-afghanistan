@@ -211,12 +211,12 @@ hero_summary: 'Lithuania has a modest but revealing UFO record: a few nationally
 layout: default
 permalink: /what-really-happened-in-lithuanias-ufo/
 nav_short_title: What Really Happened in Lithuania's UFO Cases?
-title: What Really Happened in Lithuania's UFO Cases?
+title: "Separating Reports From Evidence in Lithuania"
 title_full: What Really Happened in Lithuania's UFO Cases?
 display_title_short: What Really Happened in Lithuania's UFO Cases?
-display_title: What Really Happened in Lithuania's UFO Cases?
+display_title: "Separating Reports From Evidence in Lithuania"
 heading_title: What Really Happened in Lithuania's UFO Cases?
-page_heading_title: What Really Happened in Lithuania's UFO Cases?
+page_heading_title: "Separating Reports From Evidence in Lithuania"
 source_count: 91
 infographic_count: 3
 page_website_name: Lithuania
@@ -1306,8 +1306,7 @@ Private collections can preserve otherwise forgotten testimony, but they require
 
 <img src="{{ "/assets/images/Lithuania_74a788-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Lithuania&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Lithuania_74a788-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lithuania_74a788-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Lithuania's UFO record
 Lithuania’s principal incidents fall into three useful evidence categories.
 
 **Confirmed as reports or responses**

@@ -397,8 +397,7 @@ The Rwanda case contains only one publicly available eyewitness account. It ther
 
 <img src="{{ "/assets/images/Rwanda_7266a1_northern_pilot_sight_aa1d9a-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_northern_pilot_sight_aa1d9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_northern_pilot_sight_aa1d9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Overall assessment
-
+## The balanced reading of Pilot Sighting
 The January 2025 Northern Province pilot sighting remains Rwanda's most identifiable publicly documented UFO report, but that status reflects the scarcity of Rwanda's public case record rather than exceptional evidential strength.
 
 The witness account is internally coherent and originates from someone claiming aviation experience, making it worthy of documentation. However, virtually every form of corroborating evidence that would allow independent analysis is absent. No publicly available radar data, imagery, additional witnesses or official investigation has emerged to strengthen the case.

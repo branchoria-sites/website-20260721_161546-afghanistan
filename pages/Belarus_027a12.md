@@ -211,12 +211,12 @@ hero_summary: Belarus has a genuine history of unidentified aerial reports, but 
 layout: default
 permalink: /belarus/
 nav_short_title: What Really Happened in Belarusian UFO Cases?
-title: What Really Happened in Belarusian UFO Cases?
+title: "Sightings, Files and False Alarms in Belarus"
 title_full: What Really Happened in Belarusian UFO Cases?
 display_title_short: What Really Happened in Belarusian UFO Cases?
-display_title: What Really Happened in Belarusian UFO Cases?
+display_title: "Sightings, Files and False Alarms in Belarus"
 heading_title: What Really Happened in Belarusian UFO Cases?
-page_heading_title: What Really Happened in Belarusian UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in Belarus"
 source_count: 105
 infographic_count: 3
 page_website_name: Belarus
@@ -1289,8 +1289,7 @@ The surviving public record from the Soviet period is similarly uneven. A CIA Re
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TY1eLoLbtLQ" title="UFO in Minsk, Belarus." loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TY1eLoLbtLQ" target="_blank" rel="noopener noreferrer">UFO in Minsk, Belarus.</a></p><p class="youtube-embed-meta">Channel: Carbon Lifeforms</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TY1eLoLbtLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TY1eLoLbtLQ">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked
-
+## Claims, explanations and evidence in Belarus' UFO record
 The Belarusian material becomes clearer when cases are separated by evidential status.
 
 **Confirmed observations** are events for which there is adequate reason to believe witnesses saw a real light or object, even though its identity may be disputed. The 1984 aircrew encounter belongs here: several witnesses described a luminous display, and Lazurin’s contemporaneous drawings preserved its changing appearance. What is confirmed is the observation, not an alien origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zfilesuap.com/en/cases/aeroflot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zfilesuap.com">[The Z Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zfilesuap.com</span><span class="citation-popover-title">aeroflot</span><span class="citation-popover-snippet">The Z FilesAeroflot Flight 8352 UFO encounter (1984 Minsk UFO case) - Z 檔案The Aeroflot Flight 8352 UFO encounter, also known in Russian-l...</span></span></span>
@@ -1317,8 +1316,7 @@ Contemporary scientific proposals for studying unidentified aerial phenomena the
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nGdk_usNAkc" title="UFO sighting amazing about Minsk Belarus 02 20 2016 || Aliens Documentary" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nGdk_usNAkc" target="_blank" rel="noopener noreferrer">UFO sighting amazing about Minsk Belarus 02 20 2016 || Aliens Documentary</a></p><p class="youtube-embed-meta">Channel: BBC Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nGdk_usNAkc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nGdk_usNAkc">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## Reading the evidence around Belarus' UFO record conservatively
 Belarus has a recognisable UFO tradition shaped by Soviet secrecy, dramatic press stories and a durable network of volunteer researchers. Its strongest historical case—the 1984 Minsk airliner encounter—almost certainly began with a spectacular real light in the sky. Yet the evidence points more convincingly towards a remote military missile display, magnified by night-time distance errors and later narrative embellishment, than towards an unknown craft operating beside the aircraft.
 
 The remaining national record is too fragmented to support confident claims about regional “hotspots” or waves of extraordinary vehicles. Minsk dominates because it is the capital and the centre of reporting; Brest, Vitebsk and Horki appear prominently where active collectors have preserved stories. Cases that remain unidentified generally lack decisive data rather than contain measurements demonstrating impossible performance.

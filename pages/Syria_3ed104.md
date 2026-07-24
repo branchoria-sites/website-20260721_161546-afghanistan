@@ -1342,8 +1342,7 @@ NUFORC entries should be read in the same measured way. The organisation perform
 
 <img src="{{ "/assets/images/Syria_3ed104-Illustration-2-dark.svg" | relative_url }}" alt="What Has Really Been Seen Over Syria? illustration 2" data-theme-src-dark="{{ "/assets/images/Syria_3ed104-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syria_3ed104-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked
-
+## Claims, explanations and evidence in Syria's UFO record
 The Syria record becomes clearer when claims are separated by what the evidence actually supports.
 
 **Confirmed observations** include cases in which an authorised military system recorded a target and the government has authenticated the footage’s institutional origin. The 2021 and July 2022 recordings meet this limited threshold. Confirmation means that a sensor captured something; it does not confirm extraordinary performance or alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">DOW-UAP-PR051, &quot;Syrian UAP instant acceleration&quot;“Syrian UAP instant acceleration,” is likely derived from an infrared sensor aboard a U.S...</span></span></span>

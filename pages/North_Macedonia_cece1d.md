@@ -1308,8 +1308,7 @@ North Macedonia’s airspace has also been incorporated into NATO’s air-polici
 
 The absence of published UFO files does not prove that radar operators, pilots or military personnel have never encountered unidentified traffic. It means only that no coherent declassified national collection has been made publicly discoverable. Some relevant observations may be embedded in ordinary safety, security or air-traffic records and may never have been labelled “UFO”.
 
-## Confirmed, contested and debunked
-
+## The evidence ledger for North Macedonia's UFO record
 The North Macedonian material is easiest to understand by separating three different meanings of “unidentified”.
 
 **Confirmed observations of something in the sky:** Several reports clearly document that witnesses recorded or described lights or distant objects. The 2016 Skopje lights, 2018 Bardovci recording and repeated Starlink observations belong in this category. Confirmation that an observation occurred does not confirm the witness’s interpretation.
@@ -1338,8 +1337,7 @@ Applied to North Macedonia, this approach would probably resolve many reports qu
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DjhNJD2IqO4" title="UFO North Macedonia or a glossy chrome rocket" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:35">1:35</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DjhNJD2IqO4" target="_blank" rel="noopener noreferrer">UFO North Macedonia or a glossy chrome rocket</a></p><p class="youtube-embed-meta">Channel: Todor Micevski &middot; Views: 430 &middot; Uploaded: July 2020 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DjhNJD2IqO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DjhNJD2IqO4">Open on YouTube</a></p></div></div></div>
 
-## The most defensible assessment
-
+## Reading the evidence around North Macedonia's UFO record conservatively
 North Macedonia has a real folklore and reporting history of unusual aerial observations, but not a robust national catalogue of unexplained craft. The public record is dominated by brief media items, copied stories, witness-submitted databases and low-information videos. Skopje appears most often because it offers the largest pool of observers and the greatest amount of aerial activity, not because the evidence establishes it as an anomalous hotspot.
 
 The record also demonstrates how the category changes with technology. Lights that might once have remained unexplained can now be checked against satellite passes, aircraft tracking and astronomical software. The Starlink episodes show both sides of the issue: unfamiliar objects can genuinely surprise large numbers of observers, yet still have a precise and ordinary explanation.

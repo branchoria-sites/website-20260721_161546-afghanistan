@@ -1320,8 +1320,7 @@ Modern United States intelligence guidance reinforces the same methodological po
 
 <img src="{{ "/assets/images/North_Korea_ccbbbb-Illustration-2-dark.svg" | relative_url }}" alt="What Do We Really Know About North Korea&#x27;s... illustration 2" data-theme-src-dark="{{ "/assets/images/North_Korea_ccbbbb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Korea_ccbbbb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked
-
+## Sorting confirmed and disputed claims from North Korea's UFO record
 The available record is clearest when separated by what the evidence actually establishes.
 
 **Confirmed as reports**

@@ -426,8 +426,7 @@ This idea largely stems from later interpretations of anthropological work descr
 
 There is no reliable evidence connecting these stories to documented UFO sightings over Mali. Modern researchers generally treat the two subjects separately: one concerns debates about anthropology and cultural transmission, while the other concerns reports of unusual aerial observations. Conflating them obscures both subjects rather than strengthening either.
 
-## Overall Assessment
-
+## The balanced reading of Sightings
 The available evidence suggests that Mali has a genuine but extremely small public record of unusual aerial reports. The best-documented cases—particularly the 2025 pilot observation—are interesting because trained observers described prolonged, unusual lights. Yet they remain unresolved largely because essential supporting evidence is absent rather than because the observations demonstrate extraordinary technology.
 
 At present, the balance of evidence favours ordinary explanations such as satellite reflections, distant aircraft viewed under unusual conditions and atmospheric optical effects. None of the publicly documented Malian cases provides independently verified evidence of extraterrestrial craft or technology. The principal challenge is therefore not explaining numerous mysterious incidents, but obtaining enough reliable observational data for any future reports to be evaluated rigorously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>

@@ -211,12 +211,12 @@ hero_summary: Italy has one of Europe’s richest UFO histories, but not one bod
 layout: default
 permalink: /what-really-happened-in-italys-ufo/
 nav_short_title: What Really Happened in Italy's UFO History?
-title: What Really Happened in Italy's UFO History?
+title: "From Strange Sightings to Answers in Italy"
 title_full: What Really Happened in Italy's UFO History?
 display_title_short: What Really Happened in Italy's UFO History?
-display_title: What Really Happened in Italy's UFO History?
+display_title: "From Strange Sightings to Answers in Italy"
 heading_title: What Really Happened in Italy's UFO History?
-page_heading_title: What Really Happened in Italy's UFO History?
+page_heading_title: "From Strange Sightings to Answers in Italy"
 source_count: 108
 infographic_count: 3
 page_website_name: UFO Italy

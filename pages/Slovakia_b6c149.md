@@ -1307,8 +1307,7 @@ A recent online discussion about a low object in Slovakia illustrates the value 
 
 <img src="{{ "/assets/images/Slovakia_b6c149-Illustration-2-dark.svg" | relative_url }}" alt="What Really Lies Behind Slovakia&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Slovakia's UFO record
 The Slovak record becomes clearer when cases are divided by what the evidence actually supports.
 
 **Confirmed observations** are events in which witnesses or cameras recorded something real but initially unidentified. This category includes lights, balloons, aircraft, satellites and photographic objects whose existence is not disputed. “Confirmed” applies to the observation, not to claims about its origin.

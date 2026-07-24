@@ -211,12 +211,12 @@ hero_summary: Albania has a small but persistent body of UFO reports stretching 
 layout: default
 permalink: /what-really-happened-in-albanias-ufo/
 nav_short_title: What Really Happened in Albania's UFO Cases?
-title: What Really Happened in Albania's UFO Cases?
+title: "How Much UFO Evidence Does Albania Really Have?"
 title_full: What Really Happened in Albania's UFO Cases?
 display_title_short: What Really Happened in Albania's UFO Cases?
-display_title: What Really Happened in Albania's UFO Cases?
+display_title: "How Much UFO Evidence Does Albania Really Have?"
 heading_title: What Really Happened in Albania's UFO Cases?
-page_heading_title: What Really Happened in Albania's UFO Cases?
+page_heading_title: "How Much UFO Evidence Does Albania Really Have?"
 source_count: 81
 infographic_count: 3
 page_website_name: Albania UFO Files
@@ -1386,8 +1386,7 @@ Modern UAP research proposals emphasise simultaneous visible, infrared, radar, r
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OdGax2P1KA0" title="Ufo në Roskovec?! Banorja:” Unë po gatuaja në oborr kur fryu një erë e fuqishme…” | ABC News Albania" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 7:30">7:30</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OdGax2P1KA0" target="_blank" rel="noopener noreferrer">Ufo në Roskovec?! Banorja:” Unë po gatuaja në oborr kur fryu një erë e fuqishme…” | ABC News Albania</a></p><p class="youtube-embed-meta">Channel: ABC News Albania &middot; Views: 56.7K &middot; Uploaded: April 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OdGax2P1KA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OdGax2P1KA0">Open on YouTube</a></p></div></div></div>
 
-## The most defensible conclusion
-
+## The strongest conclusion supported by Albania's UFO record
 Albania has a genuine history of **reported unidentified aerial phenomena**, but not a publicly demonstrated history of alien visitation. Its most memorable stories reflect the country’s particular twentieth-century conditions: mountain warfare, closed communist airspace, intense security surveillance, limited public information and a later media environment eager to revisit suppressed or mysterious events.
 
 The Bardhaj formation, Roskovec traces and alleged Mount Tomorr interception deserve attention because they contain potentially testable claims. At present, however, their evidential foundations are incomplete. The Tomorr story lacks authenticated operational records; Bardhaj relies heavily on later recollection; and Roskovec’s physical marks were not subjected to a documented forensic examination.

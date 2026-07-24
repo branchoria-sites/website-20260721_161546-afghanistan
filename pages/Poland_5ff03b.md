@@ -211,12 +211,12 @@ hero_summary: Poland has a rich UFO tradition, but not a strong body of publicly
 layout: default
 permalink: /what-really-happened-in-polands-ufo/
 nav_short_title: What Really Happened in Poland's UFO Cases?
-title: What Really Happened in Poland's UFO Cases?
+title: "Tracing the UFO Reports of Poland"
 title_full: What Really Happened in Poland's UFO Cases?
 display_title_short: What Really Happened in Poland's UFO Cases?
-display_title: What Really Happened in Poland's UFO Cases?
+display_title: "Tracing the UFO Reports of Poland"
 heading_title: What Really Happened in Poland's UFO Cases?
-page_heading_title: What Really Happened in Poland's UFO Cases?
+page_heading_title: "Tracing the UFO Reports of Poland"
 source_count: 193
 infographic_count: 3
 page_website_name: Poland
@@ -1353,8 +1353,7 @@ Many Polish sightings remain “unidentified” only because the original observ
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YUg7osHaIC8" title="Czy ktoś zmanipulował świadka UFO? „Takiej historii nie da się łatwo zmyślić.”" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 40:46">40:46</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YUg7osHaIC8" target="_blank" rel="noopener noreferrer">Czy ktoś zmanipulował świadka UFO? „Takiej historii nie da się łatwo zmyślić.”</a></p><p class="youtube-embed-meta">Channel: National Geographic Magazine Poland &middot; Views: 49.3K &middot; Uploaded: March 2026 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YUg7osHaIC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YUg7osHaIC8">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Poland's UFO record
 A useful Polish case review should separate three categories that are often blurred together.
 
 **Confirmed events** are those in which something objectively occurred, even when its exact identity was initially uncertain. Radar incursions from Belarus or Ukraine, scientifically recorded fireballs and human-made crop formations belong here. Confirmation of an event does not confirm an extraordinary interpretation.

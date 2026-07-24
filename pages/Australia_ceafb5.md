@@ -211,12 +211,12 @@ hero_summary: Australia has a substantial UFO history, but not a body of evidenc
 layout: default
 permalink: /what-really-happened-in-australias-ufo/
 nav_short_title: What Really Happened in Australia's UFO Cases?
-title: What Really Happened in Australia's UFO Cases?
+title: "Sightings, Files and False Alarms in Australia"
 title_full: What Really Happened in Australia's UFO Cases?
 display_title_short: What Really Happened in Australia's UFO Cases?
-display_title: What Really Happened in Australia's UFO Cases?
+display_title: "Sightings, Files and False Alarms in Australia"
 heading_title: What Really Happened in Australia's UFO Cases?
-page_heading_title: What Really Happened in Australia's UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in Australia"
 source_count: 113
 infographic_count: 3
 page_website_name: Australian
@@ -1317,8 +1317,7 @@ The collection is also incomplete. Records may have been destroyed under routine
 
 Local-source reliability varies sharply. Contemporary RAAF documents, aviation communications, radar logs and photographs with known provenance deserve greater weight than a newspaper paraphrase or a memory first recorded forty years later. Civilian researchers have played an important role in locating files and interviewing witnesses, but their conclusions must be separated from the primary material they collect.
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Australia's UFO record
 A useful assessment begins by asking exactly what has been established.
 
 **Confirmed or strongly documented**

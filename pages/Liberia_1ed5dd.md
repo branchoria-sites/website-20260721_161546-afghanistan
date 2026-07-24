@@ -1288,8 +1288,7 @@ Because there is no dependable dataset, any map of Liberian UFO activity would b
 
 These are reporting-environment observations, not identified Liberian UFO hotspots. There is currently no case count robust enough to demonstrate regional variation.
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Liberia's UFO record
 A useful Liberian assessment requires separating the existence of a report from the truth of the explanation attached to it.
 
 ### Confirmed
@@ -1374,8 +1373,7 @@ For Liberia, the most productive institutional route would be integration with o
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u4v6rSzXPjU" title="Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 18:43">18:43</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer">Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 23.8K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u4v6rSzXPjU">Open on YouTube</a></p></div></div></div>
 
-## The most defensible conclusion
-
+## What the record supports about Liberia's UFO record
 Liberia’s UFO history is best described as undocumented rather than mysterious. No accessible case presently combines the elements required for a credible national incident: contemporaneous records, named witnesses, corroborating sensors and a transparent investigation. Publicly visible “Liberia UFO” pages are either empty, generic or concerned with international stories rather than events inside the country.
 
 The absence of a strong archive leaves two possibilities open. Genuine observations may have occurred but gone unreported, been lost during institutional disruption or remained in undigitised aviation and newspaper collections. It is equally possible that Liberia has simply not generated any case unusual enough to survive careful scrutiny and attract sustained investigation.

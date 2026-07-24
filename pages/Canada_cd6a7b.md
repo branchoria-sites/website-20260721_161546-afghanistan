@@ -1313,8 +1313,7 @@ This distinction became particularly visible during the high-altitude object inc
 
 Official attention should consequently be read as evidence that an observation mattered to safety or security, not as endorsement of an exotic explanation.
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Canada's UFO record
 A useful way to read Canada’s UFO record is to separate three different levels of evidence.
 
 **Confirmed events** are those for which the basic occurrence is securely established. A witness made a report; a pilot notified air traffic control; police attended a location; a search was launched; or a document was filed. The 1967 Shag Harbour search and the 2023 Yukon interception are confirmed events in this limited sense. What remains uncertain is the identity of the reported object.

@@ -211,12 +211,12 @@ hero_summary: Indonesia has a long and unusually varied UFO tradition, but its e
 layout: default
 permalink: /what-really-happened-in-indonesias-ufo/
 nav_short_title: What Really Happened in Indonesia's UFO Cases?
-title: What Really Happened in Indonesia's UFO Cases?
+title: "Inside the UFO Record of Indonesia"
 title_full: What Really Happened in Indonesia's UFO Cases?
 display_title_short: What Really Happened in Indonesia's UFO Cases?
-display_title: What Really Happened in Indonesia's UFO Cases?
+display_title: "Inside the UFO Record of Indonesia"
 heading_title: What Really Happened in Indonesia's UFO Cases?
-page_heading_title: What Really Happened in Indonesia's UFO Cases?
+page_heading_title: "Inside the UFO Record of Indonesia"
 source_count: 84
 infographic_count: 3
 page_website_name: Indonesia UFO Files
@@ -1333,8 +1333,7 @@ The most valuable future discoveries would therefore be mundane documents rather
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p6KgMOqJnOg" title="He Worked Near the President… And Studied UFOs for 30 Years | UFOs and Indonesia" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p6KgMOqJnOg" target="_blank" rel="noopener noreferrer">He Worked Near the President… And Studied UFOs for 30 Years | UFOs and Indonesia</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p6KgMOqJnOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p6KgMOqJnOg">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Indonesia's UFO record
 No Indonesian UFO case in the public record has been confirmed as an extraterrestrial or non-human vehicle. That does not mean every report has been explained. It means the surviving evidence has not established extraordinary origin.
 
 **Confirmed observations with ordinary identification** include the 2026 rocket trail and crop formations shown to be compatible with human construction. Illuminated kites, drones, aircraft, satellites and astronomical objects are also well-supported explanations for many classes of report, even when a particular low-quality video cannot be conclusively resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jakartaglobe.id/tech/indonesias-ufo-sighting-explained-as-chinese-rocket-trail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jakartaglobe.id">[jakartaglobe.id]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jakartaglobe.id</span><span class="citation-popover-title">indonesias ufo sighting explained as chinese rocket trail</span><span class="citation-popover-snippet">Jakarta GlobeIndonesia&#x27;s &#x27;UFO&#x27; Sighting Explained as Chinese Rocket Trail14 Apr 2026 — A glowing object seen across Indonesia sparked UFO...</span></span></span>

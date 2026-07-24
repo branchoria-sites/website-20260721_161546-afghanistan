@@ -211,12 +211,12 @@ hero_summary: Botswana has no well-documented national UFO case supported by aut
 layout: default
 permalink: /what-really-happened-in-botswanas-ufo/
 nav_short_title: What Really Happened in Botswana's UFO Cases?
-title: What Really Happened in Botswana's UFO Cases?
+title: "How Much UFO Evidence Does Botswana Really Have?"
 title_full: What Really Happened in Botswana's UFO Cases?
 display_title_short: What Really Happened in Botswana's UFO Cases?
-display_title: What Really Happened in Botswana's UFO Cases?
+display_title: "How Much UFO Evidence Does Botswana Really Have?"
 heading_title: What Really Happened in Botswana's UFO Cases?
-page_heading_title: What Really Happened in Botswana's UFO Cases?
+page_heading_title: "How Much UFO Evidence Does Botswana Really Have?"
 source_count: 79
 infographic_count: 3
 page_website_name: Botswana
@@ -1366,8 +1366,7 @@ The surviving Botswana material divides cleanly by evidence quality.
 
 <img src="{{ "/assets/images/Botswana_180c89-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Botswana&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Botswana_180c89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The most defensible conclusion
-
+## What the record supports about Botswana's UFO record
 Botswana’s UFO history is notable less for a body of compelling mysteries than for the contrast between poorly preserved claims and one exceptionally well-investigated celestial event. No publicly available case currently demonstrates an extraterrestrial vehicle, a technology beyond known human capability or a verified government recovery operation.
 
 The Kalahari crash story is the country’s most famous claim, but also its weakest once its documents and chronology are examined. The Okavango and Gaborone sightings remain unidentified because their records are inadequate, not because they have survived rigorous exclusion of ordinary explanations. The 2018 asteroid, by contrast, shows exactly what can be learned when observations are timely, locations are precise, instruments are involved and physical material is recovered.

@@ -211,12 +211,12 @@ hero_summary: Nepal has one exceptionally well-documented UFO episode, several m
 layout: default
 permalink: /what-really-happened-in-nepals-ufo-cases/
 nav_short_title: What Really Happened in Nepal's UFO Cases?
-title: What Really Happened in Nepal's UFO Cases?
+title: "From Strange Sightings to Answers in Nepal"
 title_full: What Really Happened in Nepal's UFO Cases?
 display_title_short: What Really Happened in Nepal's UFO Cases?
-display_title: What Really Happened in Nepal's UFO Cases?
+display_title: "From Strange Sightings to Answers in Nepal"
 heading_title: What Really Happened in Nepal's UFO Cases?
-page_heading_title: What Really Happened in Nepal's UFO Cases?
+page_heading_title: "From Strange Sightings to Answers in Nepal"
 source_count: 67
 infographic_count: 3
 page_website_name: Nepal

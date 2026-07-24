@@ -211,12 +211,12 @@ hero_summary: Uganda has a small but intriguing UFO record, dominated by a handf
 layout: default
 permalink: /what-really-happened-in-ugandas-skies/
 nav_short_title: What Really Happened in Uganda's Skies?
-title: What Really Happened in Uganda's Skies?
+title: "How Much UFO Evidence Does Uganda Really Have?"
 title_full: What Really Happened in Uganda's Skies?
 display_title_short: What Really Happened in Uganda's Skies?
-display_title: What Really Happened in Uganda's Skies?
+display_title: "How Much UFO Evidence Does Uganda Really Have?"
 heading_title: What Really Happened in Uganda's Skies?
-page_heading_title: What Really Happened in Uganda's Skies?
+page_heading_title: "How Much UFO Evidence Does Uganda Really Have?"
 source_count: 80
 infographic_count: 3
 page_website_name: Uganda

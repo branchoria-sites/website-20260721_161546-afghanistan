@@ -211,12 +211,12 @@ hero_summary: 'Papua New Guinea’s UFO history is dominated by one extraordinar
 layout: default
 permalink: /what-really-happened-in-papua-new/
 nav_short_title: What Really Happened in Papua New Guinea's Skies?
-title: What Really Happened in Papua New Guinea's Skies?
+title: "The Stories Behind Papua New Guinea's UFO Reputation"
 title_full: What Really Happened in Papua New Guinea's Skies?
 display_title_short: What Really Happened in Papua New Guinea's Skies?
-display_title: What Really Happened in Papua New Guinea's Skies?
+display_title: "The Stories Behind Papua New Guinea's UFO Reputation"
 heading_title: What Really Happened in Papua New Guinea's Skies?
-page_heading_title: What Really Happened in Papua New Guinea's Skies?
+page_heading_title: "The Stories Behind Papua New Guinea's UFO Reputation"
 source_count: 103
 infographic_count: 3
 page_website_name: Papua New Guinea
@@ -1326,8 +1326,7 @@ A separate recent controversy illustrates why precise classification matters. In
 
 <img src="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Papua New Guinea&#x27;s... illustration 2" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and unsupported claims
-
+## The evidence ledger for Papua New Guinea's UFO record
 The Papua New Guinea evidence becomes clearer when separated by what the records can actually sustain.
 
 **Confirmed in the historical sense**

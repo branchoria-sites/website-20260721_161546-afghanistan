@@ -211,12 +211,12 @@ hero_summary: Bulgaria has a recognisable UFO tradition, but not a strong body o
 layout: default
 permalink: /what-really-happened-in-bulgarias-ufo/
 nav_short_title: What Really Happened in Bulgaria's UFO Cases?
-title: What Really Happened in Bulgaria's UFO Cases?
+title: "Bulgaria's UFO History Under the Microscope"
 title_full: What Really Happened in Bulgaria's UFO Cases?
 display_title_short: What Really Happened in Bulgaria's UFO Cases?
-display_title: What Really Happened in Bulgaria's UFO Cases?
+display_title: "Bulgaria's UFO History Under the Microscope"
 heading_title: What Really Happened in Bulgaria's UFO Cases?
-page_heading_title: What Really Happened in Bulgaria's UFO Cases?
+page_heading_title: "Bulgaria's UFO History Under the Microscope"
 source_count: 61
 infographic_count: 3
 page_website_name: Bulgaria

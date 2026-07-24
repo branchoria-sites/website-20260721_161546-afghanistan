@@ -1354,8 +1354,7 @@ A claim does not become stronger simply because several websites repeat it. In s
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q5_hhjCdDD4" title="SpaceX Starship Flight 6 - 4K launch and landing replay" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q5_hhjCdDD4" target="_blank" rel="noopener noreferrer">SpaceX Starship Flight 6 - 4K launch and landing replay</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q5_hhjCdDD4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q5_hhjCdDD4">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Saint Lucia's UFO record
 The Saint Lucian material can be divided into three practical categories.
 
 ### Confirmed observations

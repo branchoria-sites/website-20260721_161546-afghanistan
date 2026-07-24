@@ -1284,8 +1284,7 @@ Mexico’s access-to-information framework has historically allowed citizens to 
 
 The absence of a central archive also makes provenance unusually important. A document labelled “military” should be traceable to an issuing office, date, file number and custody history. Video should ideally be accompanied by its original digital file, metadata, sensor specifications, aircraft position, viewing direction and contemporaneous radar record. Without those elements, even genuine government-origin material may support only a limited conclusion.
 
-## Confirmed, contested and debunked claims
-
+## The evidence ledger for Mexico's UFO record
 The clearest way to assess Mexico’s major UFO material is to separate what the record confirms from what promoters infer.
 
 

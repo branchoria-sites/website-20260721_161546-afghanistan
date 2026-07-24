@@ -1299,8 +1299,7 @@ Modern official reviews reach a similar general conclusion. The United States Al
 
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" alt="Central African Republic illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked claims
-
+## Claims, explanations and evidence in Central African Republic's UFO record
 The current Central African evidence can be divided clearly:(#endnote-14 "Endnote 14")<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5753900/flooding-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">flooding central african republic</span><span class="citation-popover-snippet">flooding central african republic</span></span></span>
 
 

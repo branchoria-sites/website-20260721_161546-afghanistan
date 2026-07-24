@@ -1318,8 +1318,7 @@ The available evidence therefore indicates variation in **reporting conditions**
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k2HpEk3RRUc" title="Stranded on Starbuck Part 1 | National Geographic" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:32">1:32</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k2HpEk3RRUc" target="_blank" rel="noopener noreferrer">Stranded on Starbuck Part 1 | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 181.0K &middot; Uploaded: April 2009 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k2HpEk3RRUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k2HpEk3RRUc">Open on YouTube</a></p></div></div></div>
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Kiribati's UFO record
 A useful evidence split for Kiribati is straightforward:
 
 * **Confirmed observations:** No publicly documented Kiribati case currently provides independently confirmed anomalous performance. “Confirmed” should mean that an event was recorded by reliable witnesses or sensors, not that an exotic explanation was proved.

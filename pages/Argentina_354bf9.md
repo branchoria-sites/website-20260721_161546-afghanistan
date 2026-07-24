@@ -1339,8 +1339,7 @@ Sceptical investigations supply an essential counterweight by testing whether al
 
 <img src="{{ "/assets/images/Argentina_354bf9-Illustration-2-dark.svg" | relative_url }}" alt="Which Argentina UFO Cases Still Resist... illustration 2" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Confirmed, contested and debunked
-
+## Claims, explanations and evidence in Argentina's UFO record
 A practical reading of Argentina’s record produces three broad categories.
 
 **Confirmed identifications** include cases in which photographs, video metadata, astronomical simulations or flight characteristics match satellites, drones, aircraft, insects, reflections or other known sources. This category contains the overwhelming majority of modern cases published by the Air Force.

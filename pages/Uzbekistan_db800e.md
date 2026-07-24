@@ -1303,8 +1303,7 @@ A more recent event occurred on 19–20 February 2026, when videos of a bright m
 
 This distinction is important. “Unidentified” in an early official statement means that classification is incomplete. It does not mean that investigators have ruled out conventional causes. The February 2026 response is therefore a good example of a genuinely unresolved observation at the reporting stage, not evidence of an exotic craft.
 
-## Confirmed, contested and debunked claims
-
+## Sorting confirmed and disputed claims from Uzbekistan's UFO record
 ### Confirmed observations
 
 Several Uzbek cases can be confirmed only at the basic level that people reported or recorded something unusual:
