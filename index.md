@@ -3,6 +3,7 @@ layout: default
 title: Branchoria
 permalink: /
 home: true
+last_modified_at: 2026-09-27
 homepage_audience_mode: production
 homepage_copy_policy: polished
 output_language: English
@@ -185,6 +186,8 @@ map_view:
 site_image_description: A mountainous Afghan valley at dusk with a distant aircraft light above layered clouds and a military observation post in the...
 ---
 
+
+<h1 class="home-structure-intro-title">UFOs and UAP by Country</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="TV" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
