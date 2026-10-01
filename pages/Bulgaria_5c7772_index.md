@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bulgaria-5c7772-index/
 description: Focused pages that expand on What Really Happened in Bulgaria's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bulgaria_5c7772
 parent_title: What Really Happened in Bulgaria's UFO...

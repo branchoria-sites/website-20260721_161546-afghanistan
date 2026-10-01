@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /russia-6754fe-index/
 description: Focused pages that expand on What Really Happened in Russia's UFO Files?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Russia_6754fe
 parent_title: What Really Happened in Russia's UFO Files?

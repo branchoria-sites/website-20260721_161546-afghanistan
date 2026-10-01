@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bosnia-and-herzegovi-552c9f-index/
 description: Focused pages that expand on Bosnia and Herzegovina.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bosnia_and_Herzegovi_552c9f
 parent_title: Bosnia and Herzegovina

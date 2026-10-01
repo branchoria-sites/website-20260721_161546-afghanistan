@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /turkey-d7153e-index/
 description: Focused pages that expand on What Really Happened in Turkey's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Turkey_d7153e
 parent_title: What Really Happened in Turkey's UFO Cases?

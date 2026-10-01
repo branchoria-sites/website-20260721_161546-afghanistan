@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /united-kingdom-d25561-index/
 description: Focused pages that expand on United Kingdom.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: United_Kingdom_d25561
 parent_title: United Kingdom

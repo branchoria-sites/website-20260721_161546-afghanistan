@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vietnam-681101-index/
 description: Focused pages that expand on What Really Happened in Vietnam's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vietnam_681101
 parent_title: What Really Happened in Vietnam's UFO Cases?

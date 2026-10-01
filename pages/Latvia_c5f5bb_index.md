@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /latvia-c5f5bb-index/
 description: Focused pages that expand on What Really Happened in Latvia's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Latvia_c5f5bb
 parent_title: What Really Happened in Latvia's UFO Cases?

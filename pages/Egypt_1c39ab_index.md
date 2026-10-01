@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /egypt-1c39ab-index/
 description: Focused pages that expand on What Really Happened in Egypt's UFO Stories?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Egypt_1c39ab
 parent_title: What Really Happened in Egypt's UFO Stories?

@@ -216,6 +216,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:44:20'
+last_modified_at: '2026-07-18 19:44:20'
 parent_title: Madagascar UFOs
 parent_permalink: /what-really-happened-in-madagascars/
 parent_nav_short_title: Madagascar UFOs

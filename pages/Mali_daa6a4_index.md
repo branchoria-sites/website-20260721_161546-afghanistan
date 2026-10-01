@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mali-daa6a4-index/
 description: Focused pages that expand on What Really Lies Behind Mali's UFO Stories?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mali_daa6a4
 parent_title: What Really Lies Behind Mali's UFO Stories?

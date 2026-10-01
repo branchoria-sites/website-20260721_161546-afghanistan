@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gambia-7c3997-index/
 description: Focused pages that expand on What Do UFO Reports Reveal About Gambia?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gambia_7c3997
 parent_title: What Do UFO Reports Reveal About Gambia?

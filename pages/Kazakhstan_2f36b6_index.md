@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kazakhstan-2f36b6-index/
 description: Focused pages that expand on What Really Happened in Kazakhstan's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kazakhstan_2f36b6
 parent_title: What Really Happened in Kazakhstan's UFO...

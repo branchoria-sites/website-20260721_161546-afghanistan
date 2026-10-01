@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /peru-36c572-index/
 description: Focused pages that expand on What Does Peru's UFO Record Really Show?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Peru_36c572
 parent_title: What Does Peru's UFO Record Really Show?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /jamaica-5eedd6-index/
 description: Focused pages that expand on What Really Explains Jamaica's UFO Reports?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Jamaica_5eedd6
 parent_title: What Really Explains Jamaica's UFO Reports?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /czech-republic-0c207e-index/
 description: Focused pages that expand on Czech Republic.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Czech_Republic_0c207e
 parent_title: Czech Republic

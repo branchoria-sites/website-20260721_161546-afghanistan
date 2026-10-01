@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gabon-a06dcd-index/
 description: Focused pages that expand on What Really Happened in Gabon's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gabon_a06dcd
 parent_title: What Really Happened in Gabon's UFO Cases?

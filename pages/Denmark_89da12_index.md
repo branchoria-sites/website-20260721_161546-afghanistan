@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /denmark-89da12-index/
 description: Focused pages that expand on What Do Denmark's UFO Cases Really Show?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Denmark_89da12
 parent_title: What Do Denmark's UFO Cases Really Show?

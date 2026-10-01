@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kiribati-3f57ad-index/
 description: Focused pages that expand on What Do Kiribati's UFO Claims Really Show?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kiribati_3f57ad
 parent_title: What Do Kiribati's UFO Claims Really Show?

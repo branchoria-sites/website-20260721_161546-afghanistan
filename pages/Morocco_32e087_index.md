@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /morocco-32e087-index/
 description: Focused pages that expand on What Really Happened in Morocco's UFO Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Morocco_32e087
 parent_title: What Really Happened in Morocco's UFO Skies?

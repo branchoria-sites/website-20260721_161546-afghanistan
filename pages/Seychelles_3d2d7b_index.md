@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /seychelles-3d2d7b-index/
 description: Focused pages that expand on What Really Happened in Seychelles Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Seychelles_3d2d7b
 parent_title: What Really Happened in Seychelles Skies?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /costa-rica-fe586b-index/
 description: Focused pages that expand on What Does Costa Rica's UFO Record Really....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Costa_Rica_fe586b
 parent_title: What Does Costa Rica's UFO Record Really...

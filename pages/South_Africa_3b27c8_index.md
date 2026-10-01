@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-africa-3b27c8-index/
 description: Focused pages that expand on What Really Happened in South Africa's....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Africa_3b27c8
 parent_title: What Really Happened in South Africa's...

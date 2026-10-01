@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /namibia-bfe79d-index/
 description: Focused pages that expand on What Really Flew Over Namibia's Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Namibia_bfe79d
 parent_title: What Really Flew Over Namibia's Skies?

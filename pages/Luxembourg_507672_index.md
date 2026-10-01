@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /luxembourg-507672-index/
 description: Focused pages that expand on What Really Happened in Luxembourg's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Luxembourg_507672
 parent_title: What Really Happened in Luxembourg's UFO...

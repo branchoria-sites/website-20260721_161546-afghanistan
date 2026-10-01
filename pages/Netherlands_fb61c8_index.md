@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /netherlands-fb61c8-index/
 description: Focused pages that expand on Netherlands.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Netherlands_fb61c8
 parent_title: Netherlands
