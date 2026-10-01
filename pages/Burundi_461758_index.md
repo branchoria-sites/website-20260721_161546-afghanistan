@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /burundi-461758-index/
 description: Focused pages that expand on Why Are Burundi's UFO Records So Sparse?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Burundi_461758
 parent_title: Why Are Burundi's UFO Records So Sparse?

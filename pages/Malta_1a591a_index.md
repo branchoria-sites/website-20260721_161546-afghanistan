@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /malta-1a591a-index/
 description: Focused pages that expand on What Really Lies Behind Malta's UFO Reports?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Malta_1a591a
 parent_title: What Really Lies Behind Malta's UFO Reports?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /marshall-islands-ccbdc0-index/
 description: Focused pages that expand on Marshall Islands.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Marshall_Islands_ccbdc0
 parent_title: Marshall Islands

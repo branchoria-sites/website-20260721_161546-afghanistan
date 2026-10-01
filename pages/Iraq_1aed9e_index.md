@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /iraq-1aed9e-index/
 description: Focused pages that expand on What Really Happened in Iraq's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Iraq_1aed9e
 parent_title: What Really Happened in Iraq's UFO Cases?

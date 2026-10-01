@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /timor-leste-2d79f6-index/
 description: Focused pages that expand on What Do Timor Leste's UFO Reports Really....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Timor-Leste_2d79f6
 parent_title: What Do Timor Leste's UFO Reports Really...

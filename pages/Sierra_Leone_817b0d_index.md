@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sierra-leone-817b0d-index/
 description: Focused pages that expand on What Has Really Appeared Over Sierra Leone?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sierra_Leone_817b0d
 parent_title: What Has Really Appeared Over Sierra Leone?

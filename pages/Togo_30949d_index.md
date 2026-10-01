@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /togo-30949d-index/
 description: Focused pages that expand on What Really Happened in Togo's UFO Record?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Togo_30949d
 parent_title: What Really Happened in Togo's UFO Record?

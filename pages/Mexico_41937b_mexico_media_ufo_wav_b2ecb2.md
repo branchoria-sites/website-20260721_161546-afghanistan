@@ -216,6 +216,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:45:14'
+last_modified_at: '2026-07-18 19:45:14'
 parent_title: Mexico UFO Files
 parent_permalink: /what-really-happened-in-mexicos-ufo/
 parent_nav_short_title: Mexico UFO Files

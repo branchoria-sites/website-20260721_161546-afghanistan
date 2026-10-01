@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nepal-0e1d58-index/
 description: Focused pages that expand on What Really Happened in Nepal's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nepal_0e1d58
 parent_title: What Really Happened in Nepal's UFO Cases?

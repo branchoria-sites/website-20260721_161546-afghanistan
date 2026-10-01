@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nicaragua-481264-index/
 description: Focused pages that expand on What Really Happened in Nicaragua's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nicaragua_481264
 parent_title: What Really Happened in Nicaragua's UFO...

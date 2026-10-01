@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /guinea-bissau-b07cb9-index/
 description: Focused pages that expand on What Do We Really Know About Guinea Bissau....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Guinea-Bissau_b07cb9
 parent_title: What Do We Really Know About Guinea Bissau...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /myanmar-928b7c-index/
 description: Focused pages that expand on What Really Happened in Myanmar's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Myanmar_928b7c
 parent_title: What Really Happened in Myanmar's UFO Cases?

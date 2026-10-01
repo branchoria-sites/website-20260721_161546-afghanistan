@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /afghanistan-c69153-index/
 description: Focused pages that expand on What Does Afghanistan's UFO Record Actually....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Afghanistan_c69153
 parent_title: What Does Afghanistan's UFO Record Actually...

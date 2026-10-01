@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /dr-congo-b690cb-index/
 description: Focused pages that expand on DR Congo.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: DR_Congo_b690cb
 parent_title: DR Congo

@@ -214,6 +214,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:49:36'
+last_modified_at: '2026-07-18 19:49:36'
 parent_title: Austria UFOs
 parent_permalink: /what-really-happened-in-austrias-ufo/
 parent_nav_short_title: Austria UFOs

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /algeria-bd6acc-index/
 description: Focused pages that expand on What Really Happened in Algeria's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Algeria_bd6acc
 parent_title: What Really Happened in Algeria's UFO Cases?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ivory-coast-0c79b1-index/
 description: Focused pages that expand on What Do Ivory Coast's UFO Reports Really....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ivory_Coast_0c79b1
 parent_title: What Do Ivory Coast's UFO Reports Really...

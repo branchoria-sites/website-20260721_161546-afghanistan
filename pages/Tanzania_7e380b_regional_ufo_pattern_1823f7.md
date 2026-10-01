@@ -216,6 +216,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-20 13:55:41'
+last_modified_at: '2026-07-20 13:55:41'
 parent_title: Tanzania UFOs
 parent_permalink: /what-really-happened-in-tanzanias-skies/
 parent_nav_short_title: Tanzania UFOs

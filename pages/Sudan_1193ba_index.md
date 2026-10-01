@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sudan-1193ba-index/
 description: Focused pages that expand on What Really Explains Sudan's UFO Sightings?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sudan_1193ba
 parent_title: What Really Explains Sudan's UFO Sightings?

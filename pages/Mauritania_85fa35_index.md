@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mauritania-85fa35-index/
 description: Focused pages that expand on What Really Happened in Mauritania's Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mauritania_85fa35
 parent_title: What Really Happened in Mauritania's Skies?

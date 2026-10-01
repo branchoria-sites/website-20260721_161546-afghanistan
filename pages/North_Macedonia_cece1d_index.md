@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-macedonia-cece1d-index/
 description: Focused pages that expand on North Macedonia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Macedonia_cece1d
 parent_title: North Macedonia

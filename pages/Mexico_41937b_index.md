@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mexico-41937b-index/
 description: Focused pages that expand on What Really Happened in Mexico's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mexico_41937b
 parent_title: What Really Happened in Mexico's UFO Cases?
