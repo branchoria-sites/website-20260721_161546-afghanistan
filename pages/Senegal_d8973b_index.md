@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /senegal-d8973b-index/
 description: Focused pages that expand on What Really Happened in Senegal's UFO Cases?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Senegal_d8973b
 parent_title: What Really Happened in Senegal's UFO Cases?

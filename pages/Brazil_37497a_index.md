@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /brazil-37497a-index/
 description: Focused pages that expand on What Do Brazil's UFO Files Really Show?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Brazil_37497a
 parent_title: What Do Brazil's UFO Files Really Show?

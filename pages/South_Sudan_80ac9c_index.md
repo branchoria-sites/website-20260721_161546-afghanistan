@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-sudan-80ac9c-index/
 description: Focused pages that expand on What Really Explains South Sudan's UFO....
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: South_Sudan_80ac9c
 parent_title: What Really Explains South Sudan's UFO...

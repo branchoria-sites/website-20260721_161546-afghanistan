@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /canada-cd6a7b-index/
 description: Focused pages that expand on What Do Canada's UFO Files Really Show?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Canada_cd6a7b
 parent_title: What Do Canada's UFO Files Really Show?

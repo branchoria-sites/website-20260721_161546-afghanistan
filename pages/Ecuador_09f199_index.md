@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ecuador-09f199-index/
 description: Focused pages that expand on What Do Ecuador's UFO Files Really Show?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Ecuador_09f199
 parent_title: What Do Ecuador's UFO Files Really Show?

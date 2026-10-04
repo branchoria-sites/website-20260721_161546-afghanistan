@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /guyana-bc88a2-index/
 description: Focused pages that expand on What Do Guyana's UFO Reports Really Reveal?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Guyana_bc88a2
 parent_title: What Do Guyana's UFO Reports Really Reveal?

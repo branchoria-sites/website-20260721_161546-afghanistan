@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /burkina-faso-f61e5f-index/
 description: Focused pages that expand on What Is Really Behind Burkina Faso's UFO....
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Burkina_Faso_f61e5f
 parent_title: What Is Really Behind Burkina Faso's UFO...
