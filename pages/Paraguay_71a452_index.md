@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /paraguay-71a452-index/
 description: Focused pages that expand on What Really Happened in Paraguay's UFO....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Paraguay_71a452
 parent_title: What Really Happened in Paraguay's UFO...

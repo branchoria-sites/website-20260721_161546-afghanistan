@@ -216,6 +216,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:42:56'
+last_modified_at: '2026-07-18 19:42:56'
 parent_title: Kazakhstan
 parent_permalink: /what-really-happened-in-kazakhstans-ufo/
 parent_nav_short_title: Kazakhstan

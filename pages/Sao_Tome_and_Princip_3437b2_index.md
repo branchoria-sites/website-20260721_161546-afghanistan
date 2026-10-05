@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sao-tome-and-princip-3437b2-index/
 description: Focused pages that expand on Sao Tome and Principe.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Sao_Tome_and_Princip_3437b2
 parent_title: Sao Tome and Principe

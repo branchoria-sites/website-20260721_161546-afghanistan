@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /grenada-dbf2a2-index/
 description: Focused pages that expand on Grenada's UFO Mystery Beyond the Myths.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Grenada_dbf2a2
 parent_title: Grenada's UFO Mystery Beyond the Myths

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uganda-e92904-index/
 description: Focused pages that expand on What Really Happened in Uganda's Skies?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Uganda_e92904
 parent_title: What Really Happened in Uganda's Skies?

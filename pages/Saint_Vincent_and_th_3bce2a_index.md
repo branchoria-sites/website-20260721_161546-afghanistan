@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /saint-vincent-and-th-3bce2a-index/
 description: Focused pages that expand on Saint Vincent and the Grenadines.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Saint_Vincent_and_th_3bce2a
 parent_title: Saint Vincent and the Grenadines

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /france-e3772a-index/
 description: Focused pages that expand on What France's UFO Files Really Reveal.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: France_e3772a
 parent_title: What France's UFO Files Really Reveal

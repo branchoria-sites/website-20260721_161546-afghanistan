@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /belize-42ab0c-index/
 description: Focused pages that expand on What Really Happened in Belize's Skies?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Belize_42ab0c
 parent_title: What Really Happened in Belize's Skies?

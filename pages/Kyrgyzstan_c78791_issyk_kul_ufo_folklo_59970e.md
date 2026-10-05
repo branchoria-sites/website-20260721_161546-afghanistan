@@ -216,6 +216,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:43:16'
+last_modified_at: '2026-07-18 19:43:16'
 parent_title: Kyrgyzstan UFOs
 parent_permalink: /what-really-happened-in-kyrgyzstans-ufo/
 parent_nav_short_title: Kyrgyzstan UFOs

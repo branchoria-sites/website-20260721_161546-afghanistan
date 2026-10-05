@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /central-african-repu-358788-index/
 description: Focused pages that expand on Central African Republic.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Central_African_Repu_358788
 parent_title: Central African Republic

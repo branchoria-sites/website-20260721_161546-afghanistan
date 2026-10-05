@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /chad-6c6b1b-index/
 description: Focused pages that expand on What Do Chad's UFO Reports Really Show?.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Chad_6c6b1b
 parent_title: What Do Chad's UFO Reports Really Show?

@@ -214,6 +214,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-20 13:54:27'
+last_modified_at: '2026-07-20 13:54:27'
 parent_title: Sweden UFO Files
 parent_permalink: /what-swedens-ufo-record-really-shows/
 parent_nav_short_title: Sweden UFO Files
