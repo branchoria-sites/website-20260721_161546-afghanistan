@@ -1750,7 +1750,7 @@ The German example shows the broader challenge of UFO research: there is abundan
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein</a>  
+   Link:https://www.ufo-forschung.de/verein  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>GEP In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V.March 23, 2026 — KATEGORIE: GEP IN EIGENER SACHE Neuigkeiten, d...</p></details>
    Published: March 23, 2026  
 

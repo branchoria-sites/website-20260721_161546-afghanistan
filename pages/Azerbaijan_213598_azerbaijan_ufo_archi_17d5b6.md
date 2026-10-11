@@ -909,7 +909,7 @@ Such an archive would also create natural links with broader studies of Azerbaij
 
 2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.2024 | National Archives...</p></details>
 
 3.<a id="endnote-3"></a>
@@ -948,7 +948,7 @@ Such an archive would also create natural links with broader studies of Azerbaij
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 11.<a id="endnote-11"></a>
    Source: archives.gov  
@@ -957,7 +957,7 @@ Such an archive would also create natural links with broader studies of Azerbaij
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 13.<a id="endnote-13"></a>
    Source: aaro.mil  

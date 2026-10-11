@@ -784,7 +784,7 @@ The value of debunked and explained sightings is therefore broader than simply r
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
