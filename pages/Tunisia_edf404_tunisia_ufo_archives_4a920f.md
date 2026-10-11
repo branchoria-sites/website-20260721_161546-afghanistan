@@ -853,13 +853,13 @@ For researchers, the principal lesson is straightforward: the greatest obstacle 
 
 7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 04.2025 | National ArchivesOctober 10, 2024 — AC 04.2025 Date: October 10, 2024 Memorandum to Federal Agency Records Officers: Transfe...</p></details>
    Published: October 10, 2024  
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  

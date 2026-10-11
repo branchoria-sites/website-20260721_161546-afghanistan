@@ -897,7 +897,7 @@ Viewed in the wider context of Afghanistan's UFO history, the strongest lesson i
 
 18.<a id="endnote-18"></a>
    Source: indiatoday.in  
-   Link:<a href="https://www.indiatoday.in/fact-check/story/fact-check-video-from-feature-film-viral-as-taliban-detaining-afghan-citizens-1851784" target="_blank" rel="noopener noreferrer nofollow">https://www.indiatoday.in/fact-check/story/fact-check-video-from-feature-film-viral-as-taliban-detaining-afghan-citizens-1851784</a>  
+   Link:https://www.indiatoday.in/fact-check/story/fact-check-video-from-feature-film-viral-as-taliban-detaining-afghan-citizens-1851784  
 
 19.<a id="endnote-19"></a>
    Source: leadstories.com  

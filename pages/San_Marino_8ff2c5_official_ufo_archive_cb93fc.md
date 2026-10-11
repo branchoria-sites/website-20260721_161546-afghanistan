@@ -864,7 +864,7 @@ Finally, the archive gap shifts attention toward the records that do exist. The 
 
 14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 15.<a id="endnote-15"></a>
    Source: archives.gov  
