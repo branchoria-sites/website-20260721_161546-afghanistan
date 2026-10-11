@@ -869,7 +869,6 @@ This should not be interpreted as proof that unusual aerial observations have ne
 
 6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 04.2025 | National ArchivesOctober 10, 2024 — AC 04.2025 Date: October 10, 2024 Memorandum to Federal Agency Records Officers: Transfe...</p></details>
    Published: October 10, 2024  
 

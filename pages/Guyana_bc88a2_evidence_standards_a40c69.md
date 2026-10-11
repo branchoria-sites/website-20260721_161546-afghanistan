@@ -887,7 +887,6 @@ For Guyana, this means the strongest conclusion from current evidence is cautiou
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 20.<a id="endnote-20"></a>
    Source: ufoevidence.com  

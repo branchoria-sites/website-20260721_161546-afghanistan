@@ -920,7 +920,6 @@ Until such practices become routine, Moldova's UFO history will remain fragmente
 
 2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  

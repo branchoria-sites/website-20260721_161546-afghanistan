@@ -877,7 +877,6 @@ For anyone studying Sudan's unexplained aerial reports, the central challenge is
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  

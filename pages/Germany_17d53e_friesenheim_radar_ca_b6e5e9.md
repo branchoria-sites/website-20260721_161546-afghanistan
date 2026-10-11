@@ -754,7 +754,6 @@ The broader lesson for German UFO research is methodological. Friesenheim-Oberwe
 
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungGEP erreicht weltweit bislang einmaligen Erfolg: Passivradarsignal bestätigt UFO-Sichtung – Gesellschaft zur Erforschung des...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -794,12 +793,10 @@ The broader lesson for German UFO research is methodological. Friesenheim-Oberwe
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
    Title: Danny Ammon – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/author/ammon  
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
    Title: Kurz notiert… – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 10.<a id="endnote-10"></a>
    Source: jufof.de  

@@ -1886,7 +1886,6 @@ Until such evidence appears, Madagascar’s UFO history is best understood as on
 27.<a id="endnote-27"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 
 28.<a id="endnote-28"></a>
    Source: GOV.UK  

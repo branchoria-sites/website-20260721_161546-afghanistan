@@ -1954,7 +1954,6 @@ Britain’s real contribution to the subject is therefore its archive: a large, 
 39.<a id="endnote-39"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 40.<a id="endnote-40"></a>
    Source: discovery.nationalarchives.gov.uk  

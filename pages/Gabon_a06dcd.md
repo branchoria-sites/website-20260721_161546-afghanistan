@@ -1749,11 +1749,9 @@ For researchers, the main challenge is not a lack of interesting stories but a l
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 11.<a id="endnote-11"></a>
    Source: geipan.fr  

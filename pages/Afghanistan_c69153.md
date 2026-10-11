@@ -1954,7 +1954,6 @@ That distinction preserves both scepticism and openness. Poor evidence should no
 33.<a id="endnote-33"></a>
    Source: businessinsider.com  
    Title: Business Insider Viral Video of 'UFO' Attack in Afghanistan Is a Hoax  
-   Link:https://www.businessinsider.com/ufo-afghanistan-video  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderViral Video of &#x27;UFO&#x27; Attack in Afghanistan Is a Hoax - Business Insider...</p></details>
 
 34.<a id="endnote-34"></a>
