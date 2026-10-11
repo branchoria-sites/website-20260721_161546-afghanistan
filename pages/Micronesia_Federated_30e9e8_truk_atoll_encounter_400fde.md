@@ -825,7 +825,6 @@ For that reason, the Truk Atoll encounter is best understood as a historically c
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>ROYAL AIR FORCE COMBAT REPORTS 1939-1945 How many are online? * None * Some * All WHAT ARE THESE RECORDS? These records are Royal Air For...</p></details>
 
 9.<a id="endnote-9"></a>

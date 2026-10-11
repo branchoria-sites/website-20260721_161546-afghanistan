@@ -858,7 +858,6 @@ As Germany’s research community moves towards more technical approaches involv
 
 13.<a id="endnote-13"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  

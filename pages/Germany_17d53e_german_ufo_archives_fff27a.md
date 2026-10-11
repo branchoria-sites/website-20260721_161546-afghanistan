@@ -810,7 +810,6 @@ The strongest German UFO archives are not defined by the number of unexplained r
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungGEP erreicht weltweit bislang einmaligen Erfolg: Passivradarsignal bestätigt UFO-Sichtung – Gesellschaft zur Erforschung des...</p></details>
 
 4.<a id="endnote-4"></a>

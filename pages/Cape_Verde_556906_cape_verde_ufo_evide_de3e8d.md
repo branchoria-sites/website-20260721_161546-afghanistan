@@ -861,7 +861,6 @@ For that reason, the available evidence is best described as **weak to moderate 
 5.<a id="endnote-5"></a>
    Source: aliencouncil.com  
    Title: Aguadilla, Puerto Rico — CBP thermal video, 25… · The Council  
-   Link:https://aliencouncil.com/cases/00067-aguadilla-cbp-2013/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 9, 2026 — CASE #00067 · CASE OF RECORD AGUADILLA, PUERTO RICO — CBP THERMAL VIDEO, 25 APRIL 2013 Date observed 25 April 2013 Locatio...</p></details>
    Published: July 9, 2026  
 
